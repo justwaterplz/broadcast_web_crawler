@@ -1,0 +1,1506 @@
+{
+  "format": "tving-source-bundle",
+  "schema_version": 1,
+  "collection": {
+    "source_url": "https://www.tving.com/contents/P001790301",
+    "collected_at": "2026-10-20T08:56:09.392140+00:00",
+    "acquisition_method": "embedded_page_data_and_episode_api",
+    "status": "collected",
+    "episode_endpoint": "https://api.tving.com/v2/media/frequency/program/P001790301",
+    "complete_for_current_api_listing": true
+  },
+  "contentInfo": {
+    "code": "E004607194",
+    "vod_type": "CSMD0100",
+    "last_view_time": 0,
+    "preview_display_yn": "Y",
+    "title": "포핸즈",
+    "channel": "tvN",
+    "channel_code": "C00551",
+    "frequency": 1,
+    "duration": 4072,
+    "ending_credit_sec": 3990,
+    "grade_code": "CPTG0400",
+    "episode_grade_code": "CPTG0400",
+    "director": [
+      "김선태",
+      "박현석",
+      "오슬기",
+      "이세희",
+      "신이원"
+    ],
+    "actor": [
+      "송강",
+      "이준영",
+      "장규리",
+      "정진영",
+      "윤세아",
+      "김주헌",
+      "서재희"
+    ],
+    "script": null,
+    "keywords": null,
+    "synopsis": "음악 천재들만 모인 예술고등학교에서 만난 청춘들의 우정과 사랑, 경쟁과 성장을 그리는 드라마",
+    "image": [
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260830/0609/P001790301.jpg",
+        "url2": null,
+        "code": "CAIP0200"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260830/0609/P001790301.jpg",
+        "url2": null,
+        "code": "CAIP0400"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260830/0609/P001790301.jpg",
+        "url2": null,
+        "code": "CAIP0500"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260830/0609/P001790301.jpg",
+        "url2": null,
+        "code": "CAIP0900"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260830/0609/P001790301.jpg",
+        "url2": null,
+        "code": "CAIP1500"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260830/0610/P001790301.jpg",
+        "url2": null,
+        "code": "CAIP1700"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260803/1151/P001790301.png",
+        "url2": null,
+        "code": "CAIP1800"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260830/0610/P001790301.jpg",
+        "url2": null,
+        "code": "CAIP1900"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260830/0609/P001790301.jpg",
+        "url2": null,
+        "code": "CAIP4000"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260830/0609/P001790301.jpg",
+        "url2": null,
+        "code": "CAIP4200"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260830/0609/P001790301.jpg",
+        "url2": null,
+        "code": "CAIP4210"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260830/0609/P001790301.jpg",
+        "url2": null,
+        "code": "CAIP4220"
+      }
+    ],
+    "episode_broad_dt": "20260829",
+    "episode_title": "1. 포핸즈 1화",
+    "episode_synopsis": "가장 귀족적인 집안에서 태어난 가장 불경한 아이 강비오\n어린 시절부터 콩쿠르 1등을 휩쓸며 천재 피아니스트라 불리지만\n오직 할아버지인 강승운만은 비오를 인정하지 않는다.\n그러던 어느날, 비오는 대기실에 두고 온 자신의 악보를 찾고....\n그 곳에서 자신의 악보를 보며 연주하고 있던 정요를 마주친다.\n전혀 다른 세계에 살던 두 소년은 그렇게 만나게 되는데.....",
+    "episode_image": [
+      {
+        "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260829/0221/E004607194.jpg",
+        "url2": null,
+        "code": "CAIE0400"
+      }
+    ],
+    "broad_state": "CPBS0300",
+    "broad_end_dt": "20261004",
+    "broad_dt": "20260829",
+    "broad_week": "토일",
+    "broad_hour": "21",
+    "broad_minu": "10",
+    "product_year": 2026,
+    "release_date": 0,
+    "episode_sort": 1,
+    "season_no": "0",
+    "season_code": "T100009328",
+    "category_code": "PCA",
+    "category_name": "드라마",
+    "genre_code": "PCA007",
+    "genre_name": "로맨스",
+    "program_code": "P001790301",
+    "insert_date": 20260803151655,
+    "open_text": null,
+    "hdr_type": "",
+    "audio_type": "",
+    "billing_package_tag": "",
+    "drm_yn": "Y",
+    "fan_yn": "N",
+    "tving_exclusive_yn": "N",
+    "tving_original_yn": "N",
+    "paramount_yn": "N",
+    "apple_yn": "N",
+    "quickup_yn": "N",
+    "uhd_4k_yn": "N",
+    "subtitle_ver_yn": "N",
+    "dub_ver_yn": "N",
+    "event_yn": "N",
+    "cine_same_yn": "N",
+    "first_open_yn": "N",
+    "ko_cc_yn": "Y",
+    "free_yn": "N",
+    "partial_free_yn": "N",
+    "total_free_yn": "N",
+    "view_permission_code": "PAID",
+    "thumbs_down_yn": "N",
+    "thumbs_up_yn": "N",
+    "two_thumbs_up_yn": "N",
+    "sale_status": 1650,
+    "display_title": "1. 포핸즈 1화"
+  },
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TVSeries",
+      "url": "https://www.tving.com/contents/P001790301",
+      "contentRating": "15",
+      "name": "포핸즈 1화",
+      "description": "음악 천재들만 모인 예술고등학교에서 만난 청춘들의 우정과 사랑, 경쟁과 성장을 그리는 드라마",
+      "genre": "드라마",
+      "image": "https://image.tving.com/ntgs/contents/CTC/caip/CAIP0400/ko/20260830/0609/P001790301.jpg/dims/resize/500",
+      "dateCreated": "2026-08-29",
+      "actors": [
+        {
+          "@type": "Person",
+          "name": "송강"
+        },
+        {
+          "@type": "Person",
+          "name": "이준영"
+        },
+        {
+          "@type": "Person",
+          "name": "장규리"
+        },
+        {
+          "@type": "Person",
+          "name": "정진영"
+        },
+        {
+          "@type": "Person",
+          "name": "윤세아"
+        },
+        {
+          "@type": "Person",
+          "name": "김주헌"
+        },
+        {
+          "@type": "Person",
+          "name": "서재희"
+        }
+      ],
+      "creator": [
+        {
+          "@type": "Person",
+          "name": "김선태"
+        },
+        {
+          "@type": "Person",
+          "name": "박현석"
+        },
+        {
+          "@type": "Person",
+          "name": "오슬기"
+        },
+        {
+          "@type": "Person",
+          "name": "이세희"
+        },
+        {
+          "@type": "Person",
+          "name": "신이원"
+        }
+      ],
+      "numberOfSeasons": "0",
+      "startDate": "2026-08-29"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "TVING",
+          "item": "https://www.tving.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "포핸즈 1화",
+          "item": "https://www.tving.com/contents/P001790301"
+        }
+      ]
+    }
+  ],
+  "episodeApi": {
+    "header": {
+      "message": "OK",
+      "status": 200
+    },
+    "body": {
+      "result": [
+        {
+          "vod_name": {
+            "ko": "1. 포핸즈 1화"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004607194",
+            "frequency": 1,
+            "broadcast_date": 20260829,
+            "broadcast_day": "PGWD0600",
+            "synopsis": {
+              "ko": "가장 귀족적인 집안에서 태어난 가장 불경한 아이 강비오\n어린 시절부터 콩쿠르 1등을 휩쓸며 천재 피아니스트라 불리지만\n오직 할아버지인 강승운만은 비오를 인정하지 않는다.\n그러던 어느날, 비오는 대기실에 두고 온 자신의 악보를 찾고....\n그 곳에서 자신의 악보를 보며 연주하고 있던 정요를 마주친다.\n전혀 다른 세계에 살던 두 소년은 그렇게 만나게 되는데....."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260829/0221/E004607194.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 4072,
+            "free_yn": "N",
+            "grade_code": "CPTG0400",
+            "scp_code": "18",
+            "pip_cliptype": "C001",
+            "display_title": "1. 포핸즈 1화",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "포핸즈"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260803/1151/P001790301.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C00551",
+            "name": {
+              "ko": "tvN"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "2. 포핸즈 2화"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004619339",
+            "frequency": 2,
+            "broadcast_date": 20260830,
+            "broadcast_day": "PGWD0700",
+            "synopsis": {
+              "ko": "어린 시절 자신을 꺾고 콩쿠르 1위를 한 사람이 정요였다는 사실을 알고 충격에 빠진 비오\r\n비오는 정요를 의식적으로 멀리한다. 콩쿨 준비를 위해 현수를 찾아가지만, 현수는 교습의 조건으로\r\n정요와의 포핸즈를 내거는데....!"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260830/0233/E004619339.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3570,
+            "free_yn": "N",
+            "grade_code": "CPTG0400",
+            "scp_code": "18",
+            "pip_cliptype": "C001",
+            "display_title": "2. 포핸즈 2화",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "포핸즈"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260803/1151/P001790301.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C00551",
+            "name": {
+              "ko": "tvN"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "3. 포핸즈 3화"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004619806",
+            "frequency": 3,
+            "broadcast_date": 20260905,
+            "broadcast_day": "PGWD0600",
+            "synopsis": {
+              "ko": "포핸즈를 통해 잊고 있던 음악의 기쁨과 해방감을 느끼게 된 비오와 정요.\r\n드디어 승운에게 자신의 연주를 보여줄 기회를 얻은 비오.\r\n한편 지혜는 정요의 이름이 낯설지가 않고...\r\n과연 비오와 정요는 무사히 연주를 끝마칠 수 있을까?"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260905/0628/E004619806.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3629,
+            "free_yn": "N",
+            "grade_code": "CPTG0400",
+            "scp_code": "18",
+            "pip_cliptype": "C001",
+            "display_title": "3. 포핸즈 3화",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "포핸즈"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260803/1151/P001790301.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C00551",
+            "name": {
+              "ko": "tvN"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "4. 포핸즈 4화"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004620107",
+            "frequency": 4,
+            "broadcast_date": 20260906,
+            "broadcast_day": "PGWD0700",
+            "synopsis": {
+              "ko": "정요와 함께 행복하게 음악하는 비오는 처음으로 피아노가 즐겁다고 느끼지만...\r\n동시에 계속해서 드러나는 정요의 천재성에 알 수 없는 불안에 휩싸인다.\r\n한편 지혜는 비오를 가혹하게 압박하고, 정요는 김실장의 연락을 받게 된다...\r\n과연 비오와 정요는 서로의 우정을 지키고 행복한 음악을 계속할 수 있을 것인가?"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260906/0217/E004620107.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3779,
+            "free_yn": "N",
+            "grade_code": "CPTG0400",
+            "scp_code": "18",
+            "pip_cliptype": "C001",
+            "display_title": "4. 포핸즈 4화",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "포핸즈"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260803/1151/P001790301.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C00551",
+            "name": {
+              "ko": "tvN"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "5. 포핸즈 5화"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004624803",
+            "frequency": 5,
+            "broadcast_date": 20260912,
+            "broadcast_day": "PGWD0600",
+            "synopsis": {
+              "ko": "자신을 증명하기 위해 국제 콩쿠르에 출전하는 비오...\r\n정요 역시 비오의 요청으로 같은 콩쿠르에 출전하게 되고...\r\n피나는 노력으로 12명의 파이널리스트에 들게 된 두 사람...\r\n그리고 12명의 파이널리스트들은 핸드폰도 없이 외부와 완벽히 차단된 일주일간의 합숙에 돌입하게 된다!"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260912/0332/E004624803.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3716,
+            "free_yn": "N",
+            "grade_code": "CPTG0400",
+            "scp_code": "18",
+            "pip_cliptype": "C001",
+            "display_title": "5. 포핸즈 5화",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "포핸즈"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260803/1151/P001790301.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C00551",
+            "name": {
+              "ko": "tvN"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "6. 포핸즈 6화"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004624804",
+            "frequency": 6,
+            "broadcast_date": 20260913,
+            "broadcast_day": "PGWD0700",
+            "synopsis": {
+              "ko": "최고의 피아니스트 중 한 명이 된 비오, 그러나 비오의 삶은 행복하지만은 않다.\r\n피아노를 치는 시간을 제외하면 정요를 찾는데 온 힘을 쏟지만, 실마리조차 잡히지 않는다...\r\n그렇게 지친 비오는 모든 것이 끝나고 시작된 프라하를 다시 찾아가고..."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260913/0408/E004624804.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3581,
+            "free_yn": "N",
+            "grade_code": "CPTG0400",
+            "scp_code": "18",
+            "pip_cliptype": "C001",
+            "display_title": "6. 포핸즈 6화",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "포핸즈"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260803/1151/P001790301.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C00551",
+            "name": {
+              "ko": "tvN"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "7. 포핸즈 7화"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004628859",
+            "frequency": 7,
+            "broadcast_date": 20260919,
+            "broadcast_day": "PGWD0600",
+            "synopsis": {
+              "ko": "큰 공연을 망치고 만 비오. 성장하지 않은 천재라는 오명과 함께 슬럼프에 빠지고 만다.\n어떻게든 피아노를 부여잡지만 상황은 나아지지 않고...\n그런 비오에게 때마침 거절할 수 없는 협연 제안이 들어온다!"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260918/2339/E004628859.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3612,
+            "free_yn": "N",
+            "grade_code": "CPTG0400",
+            "scp_code": "18",
+            "pip_cliptype": "C001",
+            "display_title": "7. 포핸즈 7화",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "포핸즈"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260803/1151/P001790301.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C00551",
+            "name": {
+              "ko": "tvN"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "8. 포핸즈 8화"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004628860",
+            "frequency": 8,
+            "broadcast_date": 20260920,
+            "broadcast_day": "PGWD0700",
+            "synopsis": {
+              "ko": "정요는 비오에게 계속해서 협연을 제안하지만 슬럼프를 극복하지 못한 비오는 받아들이지 못한다.\r\n그때 과거의 악연이었던 한림이 비오의 눈앞에서 정요에게 협연을 제안하고, \r\n한편 비오에게는 보겔에게서 전화 한 통이 걸려오는데..."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260920/0359/E004628860.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3682,
+            "free_yn": "N",
+            "grade_code": "CPTG0400",
+            "scp_code": "18",
+            "pip_cliptype": "C001",
+            "display_title": "8. 포핸즈 8화",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "포핸즈"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260803/1151/P001790301.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C00551",
+            "name": {
+              "ko": "tvN"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "9. 포핸즈 9화"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004632100",
+            "frequency": 9,
+            "broadcast_date": 20260926,
+            "broadcast_day": "PGWD0600",
+            "synopsis": {
+              "ko": "드디어 드러나게 된 납치사건의 전말... 이를 알게 된 비오는 깊은 충격에 빠지지만...\r\n때마침 정요는 자신이 작곡한 곡의 초연을 비오에게 제안한다.\r\n정요에 대한 죄책감으로 번민하는 비오...정요가 원하는 모든 것을 들어주려 하는데..."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260926/0241/E004632100.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3731,
+            "free_yn": "N",
+            "grade_code": "CPTG0400",
+            "scp_code": "18",
+            "pip_cliptype": "C001",
+            "display_title": "9. 포핸즈 9화",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "포핸즈"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260803/1151/P001790301.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C00551",
+            "name": {
+              "ko": "tvN"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "10. 포핸즈 10화"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004632101",
+            "frequency": 10,
+            "broadcast_date": 20260927,
+            "broadcast_day": "PGWD0700",
+            "synopsis": {
+              "ko": "정요의 비밀을 알게 된 비오.\r\n그러나 정요의 비밀을 알았다 한들 상황은 계속해서 수렁 속으로 빠져들 뿐이고...\r\n이런 비오와 정요를 이상하게 생각한 재인은 정요에게 항의하지만...\r\n모든 것이 불협화음을 이루는 와중에 공연 날짜는 다가온다."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260927/0306/E004632101.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3687,
+            "free_yn": "N",
+            "grade_code": "CPTG0400",
+            "scp_code": "18",
+            "pip_cliptype": "C001",
+            "display_title": "10. 포핸즈 10화",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "포핸즈"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260803/1151/P001790301.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C00551",
+            "name": {
+              "ko": "tvN"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "11. 포핸즈 11화"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004635108",
+            "frequency": 11,
+            "broadcast_date": 20261003,
+            "broadcast_day": "PGWD0600",
+            "synopsis": {
+              "ko": "달라진 비오의 자세 앞에 깊은 고민에 빠지는 정요\r\n마침내 공연의 막이 오르고 펼쳐지는 한국심포니 80주년 기념 공연\r\n그러나 이 모든 공연이 끝나고 난 뒤 무대 위에는 단 한 명만이 남게 되는데!"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20261003/0624/E004635108.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3684,
+            "free_yn": "N",
+            "grade_code": "CPTG0400",
+            "scp_code": "18",
+            "pip_cliptype": "C001",
+            "display_title": "11. 포핸즈 11화",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "포핸즈"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260803/1151/P001790301.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C00551",
+            "name": {
+              "ko": "tvN"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "12. 포핸즈 12화"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004635109",
+            "frequency": 12,
+            "broadcast_date": 20261004,
+            "broadcast_day": "PGWD0700",
+            "synopsis": {
+              "ko": "그동안의 사건들과 소중한 사람의 상실로 음악을 그만두려는 비오\n그런 비오에게 정요는 자신의 마지막 마음을 전달하지만...\n하나의 피아노 두 명의 천재가 보여주던 포핸즈 연주의 마지막 악장이 시작된다."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20261004/0256/E004635109.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3690,
+            "free_yn": "N",
+            "grade_code": "CPTG0400",
+            "scp_code": "18",
+            "pip_cliptype": "C001",
+            "display_title": "12. 포핸즈 12화",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "포핸즈"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260803/1151/P001790301.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260830/0610/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260830/0609/P001790301.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C00551",
+            "name": {
+              "ko": "tvN"
+            }
+          }
+        }
+      ],
+      "total_count": 12,
+      "has_more": "N"
+    }
+  }
+}

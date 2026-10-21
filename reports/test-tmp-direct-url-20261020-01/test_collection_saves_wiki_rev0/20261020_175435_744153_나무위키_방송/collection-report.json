@@ -1,0 +1,40 @@
+{
+  "requested_url": "https://namu.wiki/w/방송",
+  "final_url": "https://namu.wiki/w/방송",
+  "status": "exists",
+  "checked_at": "2026-10-12T12:00:00+09:00",
+  "infobox_fields": {
+    "장르": "예능, 쿡방",
+    "채널": "JTBC",
+    "방송 기간": "2014년 11월 17일 ~ 2019년 11월 25일",
+    "방송 횟수": "254부작",
+    "제작진": "연출 : 감독1, 감독2 조연출 : 보조 작가 : 작가1, 작가2",
+    "출연": "셰프 군단 문서 참조"
+  },
+  "section_names": [
+    "개요"
+  ],
+  "document_scope_note": null,
+  "episode_details_collected": false,
+  "related_documents_checked": false,
+  "notes": [
+    "Wiki statements are source claims, not independently verified broadcaster facts.",
+    "An overview is a program description, not episode synopses or a screenplay.",
+    "Related and official URLs are discovered but not followed by this collector."
+  ],
+  "source_record_file": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\test-tmp-direct-url-20261020-01\\test_collection_saves_wiki_rev0\\20261020_175435_744153_나무위키_방송\\방송_20261020\\source-record.json",
+  "review": {
+    "status": "pending",
+    "flags": [
+      {
+        "code": "community_edited",
+        "field": "*",
+        "reason": "공동 편집 문서: 공식 출처 대조와 사실·평가 구분이 필요합니다."
+      }
+    ]
+  },
+  "acquisition_method": "wiki_infobox_and_selected_sections",
+  "content_file": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\test-tmp-direct-url-20261020-01\\test_collection_saves_wiki_rev0\\20261020_175435_744153_나무위키_방송\\contents.json",
+  "extraction_status": "collected",
+  "output_dir": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\test-tmp-direct-url-20261020-01\\test_collection_saves_wiki_rev0\\20261020_175435_744153_나무위키_방송"
+}

@@ -1,0 +1,33 @@
+{
+  "program_id": null,
+  "title": "방송",
+  "content_type": "TV쇼",
+  "genre": "예능, 쿡방",
+  "production_year": null,
+  "channel": "JTBC",
+  "directors": [
+    "감독1",
+    "감독2"
+  ],
+  "writers": [
+    "작가1",
+    "작가2"
+  ],
+  "cast": null,
+  "synopsis": "프로그램 소개 내용.",
+  "keywords": null,
+  "age_rating": null,
+  "broadcast_start_date": "2014-11-17",
+  "broadcast_end_date": "2019-11-25",
+  "broadcast_schedule": null,
+  "episodes": [],
+  "production_company": null,
+  "hosts": null,
+  "episode_count": 254,
+  "content_sections": {
+    "개요": "프로그램 소개 내용."
+  },
+  "cast_reference": "셰프 군단 문서 참조",
+  "related_documents": [],
+  "official_links": []
+}

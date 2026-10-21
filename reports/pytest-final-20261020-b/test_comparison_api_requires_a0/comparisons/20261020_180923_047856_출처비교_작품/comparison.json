@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "title": "작품",
+  "identity_confirmed_by_user": true,
+  "created_at": "2026-10-20T18:09:23.047814+09:00",
+  "sources": [
+    {
+      "schema_version": 1,
+      "record_id": "tving:85adb09fc4f6af958171b796",
+      "source": "tving",
+      "source_url": "https://www.tving.com/contents/P001",
+      "collected_at": "2026-10-12T12:00:00+09:00",
+      "acquisition_method": "saved_source_import",
+      "content_sha256": "33cd9a7c9518ff8af7514602c1fc7832c4739d849ca37d94050213010ac1b114",
+      "content": {
+        "title": "작품",
+        "episodes": []
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://www.tving.com/contents/P001",
+          "collected_at": "2026-10-12T12:00:00+09:00",
+          "extraction_path": null,
+          "review_status": "unreviewed"
+        }
+      },
+      "evidence": {},
+      "review": {
+        "status": "unreviewed",
+        "flags": []
+      }
+    },
+    {
+      "schema_version": 1,
+      "record_id": "namuwiki:8c459b7509a4d7be914c0de6",
+      "source": "namuwiki",
+      "source_url": "https://namu.wiki/w/작품",
+      "collected_at": "2026-10-12T12:00:00+09:00",
+      "acquisition_method": "saved_source_import",
+      "content_sha256": "33cd9a7c9518ff8af7514602c1fc7832c4739d849ca37d94050213010ac1b114",
+      "content": {
+        "title": "작품",
+        "episodes": []
+      },
+      "field_provenance": {
+        "title": {
+          "source_url": "https://namu.wiki/w/작품",
+          "collected_at": "2026-10-12T12:00:00+09:00",
+          "extraction_path": null,
+          "review_status": "unreviewed"
+        }
+      },
+      "evidence": {},
+      "review": {
+        "status": "pending",
+        "flags": [
+          {
+            "code": "community_edited",
+            "field": "*",
+            "reason": "공동 편집 문서: 공식 출처 대조와 사실·평가 구분이 필요합니다."
+          }
+        ]
+      }
+    }
+  ],
+  "fields": {
+    "title": {
+      "status": "same_value",
+      "claims": [
+        {
+          "record_id": "tving:85adb09fc4f6af958171b796",
+          "source": "tving",
+          "source_url": "https://www.tving.com/contents/P001",
+          "collected_at": "2026-10-12T12:00:00+09:00",
+          "value": "작품",
+          "review_status": "unreviewed"
+        },
+        {
+          "record_id": "namuwiki:8c459b7509a4d7be914c0de6",
+          "source": "namuwiki",
+          "source_url": "https://namu.wiki/w/작품",
+          "collected_at": "2026-10-12T12:00:00+09:00",
+          "value": "작품",
+          "review_status": "unreviewed"
+        }
+      ],
+      "missing_sources": []
+    }
+  },
+  "episode_coverage": [
+    {
+      "record_id": "tving:85adb09fc4f6af958171b796",
+      "source": "tving",
+      "collected_episodes": 0,
+      "synopsis_count": 0
+    },
+    {
+      "record_id": "namuwiki:8c459b7509a4d7be914c0de6",
+      "source": "namuwiki",
+      "collected_episodes": 0,
+      "synopsis_count": 0
+    }
+  ],
+  "review": {
+    "status": "pending",
+    "notes": [
+      "같은 값이어도 사실 검증이 완료된 것은 아닙니다.",
+      "서로 다른 값은 오류·모순으로 단정하지 않고 범위·표현·수집 시점을 검토합니다.",
+      "위키 서술은 검토 전 확정 정보로 채택하지 않습니다."
+    ]
+  }
+}

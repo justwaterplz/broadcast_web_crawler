@@ -1,0 +1,550 @@
+{
+  "source": "tvn",
+  "sample": "tvn-detail-page21-21270.html",
+  "page_info": {
+    "menuSeq": "14116",
+    "svcCd": "SV003",
+    "siteCd": "ST000007",
+    "ctgCd": "MC010003",
+    "menuCd": "MT00003486",
+    "menuNm": "메인",
+    "menuDescp": "",
+    "scheBtnFunc": {
+      "funcNm": "설정 - 방송알림신청",
+      "funcCd": "MC020790"
+    },
+    "dtlYn": null,
+    "dtlFgCd": null,
+    "reqUrlAddr": "ssang/",
+    "templateAjaxUrl": "/apis/v1/ctg/MC010003/menu/MT00003486/tmpl/1060?svcCd=SV003&siteCd=ST000007",
+    "redirectYn": "N",
+    "redirectUrl": null,
+    "cacheVal": 180,
+    "pageInfo": {
+      "additionalClass": null,
+      "menuTpCd": "MC010006",
+      "titDmainUseYn": "P",
+      "titYn": "N",
+      "mainYn": "N",
+      "titDmainFgCd": null,
+      "menuPathDispYn": "Y",
+      "menuPathTitDispYn": "Y",
+      "textColorCd": null,
+      "htmlCnts": null,
+      "titScriptCnts": null,
+      "imgFileSeq": null,
+      "mobImgFileSeq": null,
+      "bgColorCd": null,
+      "menuTitNm": null,
+      "menuTitDescp": null,
+      "repImgSeq": null,
+      "repUrl": "ssang/",
+      "tagScriptCnts": null,
+      "refScriptCnts": null,
+      "menuTitTagCnts": "한쌍 | tvN SHOW",
+      "menuDescpTagCnts": "한쌍의 출연진 정보와 최신 영상, 포스터, 현장스틸 등 관련 콘텐츠를 한눈에 확인하세요.",
+      "srchKwdCnts": "한쌍,tvN SHOW,예능,리얼리티,이경미,유명숙,김영숙,김춘명,김형희,이강선,임종순,김진한,홍숙의,임정아,한재선,허혜원,탁희정,김진호,권민창,김만식,우지호,이홍재,이가은,임지연,김희재,이선주,한종백,김규현,박세웅,현재훈,이재광",
+      "snsTitTagCnts": "한쌍",
+      "snsDescpTagCnts": "한쌍의 최신 정보와 영상을 만나보세요.",
+      "popupYn": "N",
+      "tabYn": null,
+      "metaInfoUseYn": "P",
+      "titImgInfo": null,
+      "mobTitImgInfo": null,
+      "repImgInfo": null,
+      "repGenreInfo": "예능",
+      "ptclrGenreInfo": "리얼리티",
+      "bdWkday": "",
+      "bdTm": "20:10"
+    },
+    "useYn": "Y",
+    "prevewYn": "N",
+    "displayMenuYn": "Y"
+  },
+  "modules": {
+    "7646": {
+      "modulAttrTpCd": "MC020867",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "pgmSeq": 21270,
+        "updanBnrUseYn": "N",
+        "updanBnrPcImgFilePathAddr": null,
+        "updanBnrMobImgFilePathAddr": null,
+        "pcImgWdhSize": null,
+        "pcImgHgtSize": null,
+        "mobImgWdhSize": null,
+        "mobImgHgtSize": null,
+        "updanBnrBgColorCd": "",
+        "chnCd": "MC010272",
+        "chnNm": null,
+        "markClauSetngCdList": [
+          "MC020838",
+          "MC020839",
+          "MC020840",
+          "MC020841",
+          "MC021191",
+          "MC020843",
+          "MC020845"
+        ]
+      },
+      "moduleInfo": {
+        "modulSjNm": "",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 0,
+        "pdngBotmSize": 0,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020866",
+        "modulBgValInfo": null
+      },
+      "data": {
+        "pgmNm": "한쌍",
+        "bdTm": "[종영] 2018.07.20 ~ 2018.09.07",
+        "scheInfo": null,
+        "snsInfoList": [
+          {
+            "arrayId": "31874",
+            "snsTypeCd": "MC010120",
+            "snsLinkUrlAddr": "https://www.youtube.com/@tvNJoy_official"
+          },
+          {
+            "arrayId": "31875",
+            "snsTypeCd": "MC021037",
+            "snsLinkUrlAddr": "https://tv.naver.com/b/cjenm/15"
+          },
+          {
+            "arrayId": "31876",
+            "snsTypeCd": "MC010122",
+            "snsLinkUrlAddr": "https://x.com/chtvn"
+          },
+          {
+            "arrayId": "31877",
+            "snsTypeCd": "MC010123",
+            "snsLinkUrlAddr": "https://www.instagram.com/tvn_joy/"
+          },
+          {
+            "arrayId": "31878",
+            "snsTypeCd": "MC010121",
+            "snsLinkUrlAddr": "https://www.facebook.com/cjtvngo/"
+          }
+        ],
+        "plnngIntentInfo": {
+          "plnngIntentSumryCnts": "결혼으로 다가서는 색다른 여정, 한 쌍! 오랫동안 기다려온 반려자를 찾고 싶은 미혼남녀와 자식이 인연을 만드는 과정을 지켜보고 싶은 부모님들의 리얼리티"
+        },
+        "plnngIntentDtlPopupInfo": null,
+        "replayIngo": {
+          "pgmReplayUrlAddr": "https://www.tving.com/contents/P000606858",
+          "pgmReplayNm": "TVING 다시보기"
+        },
+        "scheAlarmInfo": {
+          "pgmId": "B120189699"
+        },
+        "newestClipInfo": {
+          "pcImgHgtSize": 744,
+          "playingTm": "00:00:28",
+          "pipClipSeq": "207656",
+          "videoTnailImgPathAddr": "/cocos/B120189699/B120189699_EPI0008_02_B.jpg?v=1791426841",
+          "imgVideoLinkUrlAddr": "/CLIP/COCOS/B120189699/3186698/B120189699_3186698_t35.mp4",
+          "mobImgHgtSize": 365,
+          "adultYn": "N",
+          "videoTnailImgAltTextCnts": "한쌍 예고 반전의 반전 속 최종 선택은",
+          "pcImgWdhSize": 1320,
+          "mobImgWdhSize": 648,
+          "newestClipAutoTpCd": "MC010162",
+          "youtubeYn": "N",
+          "clipNm": "[예고] 반전의 반전 속 최종 선택은?!",
+          "videoTnailImgFileSeq": "505300"
+        }
+      }
+    },
+    "13089": {
+      "modulAttrTpCd": "MC021204",
+      "pcImgWdhSize": 312,
+      "pcImgHgtSize": 175,
+      "mobImgWdhSize": 732,
+      "mobImgHgtSize": 412,
+      "modulAttrInfo": {
+        "attrSeq": 493,
+        "dispCnt": 12,
+        "allDispFgCd": "MC010186",
+        "pgmSeq": 21270,
+        "pgmId": "B120189699",
+        "mainFiltTabCd": "MC020724",
+        "subFiltTabCd": "MC020724",
+        "cntntsInfDispTypeCd": "MC020727",
+        "clipTypeUseYn": "Y",
+        "delYn": "N",
+        "chnTabCdList": [
+          {
+            "label": "tvN SHOW",
+            "value": "MC010272",
+            "sortSseq": 4
+          }
+        ],
+        "clipTypeTabCdList": [
+          {
+            "label": "예고",
+            "value": "MC010223",
+            "sortSseq": 1
+          },
+          {
+            "label": "선공개/기획클립",
+            "value": "MC010220",
+            "sortSseq": 2
+          },
+          {
+            "label": "구간클립",
+            "value": "MC010210",
+            "sortSseq": 3
+          },
+          {
+            "label": "하이라이트",
+            "value": "MC010216",
+            "sortSseq": 4
+          },
+          {
+            "label": "미공개",
+            "value": "MC010214",
+            "sortSseq": 6
+          }
+        ]
+      },
+      "moduleInfo": {
+        "modulSjNm": "최신 동영상",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "FFFFFF",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "MC020694",
+        "pdngTopSize": 60,
+        "pdngBotmSize": 60,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC010175",
+        "modulBgValInfo": null
+      },
+      "data": [
+        {
+          "arrayId": 207676,
+          "pipClipSeq": 207676,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "어렵게 하나된 한쌍♥ 부모님들까지 울음바다",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "8회ㅣ드디어 최종 선택! 마음의 종착지는?",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/ssang/",
+          "playingTm": "00:02:10",
+          "videoTnailImgPathAddr": "/cocos/B120189699/B120189699_EPI0008_12_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "한쌍 어렵게 하나된 한쌍 부모님들까지 울음바다"
+        },
+        {
+          "arrayId": 207672,
+          "pipClipSeq": 207672,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "울지마!ㅠ 선주의 선택에 눈물 터진 세웅!",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "8회ㅣ드디어 최종 선택! 마음의 종착지는?",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/ssang/",
+          "playingTm": "00:02:56",
+          "videoTnailImgPathAddr": "/cocos/B120189699/B120189699_EPI0008_11_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "한쌍 울지마 선주의 선택에 눈물 터진 세웅"
+        },
+        {
+          "arrayId": 207674,
+          "pipClipSeq": 207674,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "반전 존재? 지연의 고백에 세웅의 대답은?",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "8회ㅣ드디어 최종 선택! 마음의 종착지는?",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/ssang/",
+          "playingTm": "00:03:04",
+          "videoTnailImgPathAddr": "/cocos/B120189699/B120189699_EPI0008_10_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "한쌍 반전 존재 지연의 고백에 세웅의 대답은"
+        },
+        {
+          "arrayId": 207668,
+          "pipClipSeq": 207668,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "그동안 몰랐던 그녀의 용기있는 고백!",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "8회ㅣ드디어 최종 선택! 마음의 종착지는?",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/ssang/",
+          "playingTm": "00:04:08",
+          "videoTnailImgPathAddr": "/cocos/B120189699/B120189699_EPI0008_09_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "한쌍 그동안 몰랐던 그녀의 용기있는 고백"
+        },
+        {
+          "arrayId": 207670,
+          "pipClipSeq": 207670,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "뭔 구경났어? 힐끔힐끔 최종 선택 앞 부모님 진심!",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "8회ㅣ드디어 최종 선택! 마음의 종착지는?",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/ssang/",
+          "playingTm": "00:03:55",
+          "videoTnailImgPathAddr": "/cocos/B120189699/B120189699_EPI0008_08_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "한쌍 뭔 구경났어 힐끔힐끔 최종 선택 앞 부모님 진심"
+        },
+        {
+          "arrayId": 207666,
+          "pipClipSeq": 207666,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "자식 잘 둬서 이런 인연이! 화기애애 부모님♥",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "8회ㅣ드디어 최종 선택! 마음의 종착지는?",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/ssang/",
+          "playingTm": "00:01:23",
+          "videoTnailImgPathAddr": "/cocos/B120189699/B120189699_EPI0008_07_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "한쌍 자식 잘 둬서 이런 인연이 화기애애 부모님"
+        },
+        {
+          "arrayId": 207664,
+          "pipClipSeq": 207664,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "'어장관리'란 말에 발끈한 선주! 둘의 결말은?",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "8회ㅣ드디어 최종 선택! 마음의 종착지는?",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/ssang/",
+          "playingTm": "00:02:42",
+          "videoTnailImgPathAddr": "/cocos/B120189699/B120189699_EPI0008_06_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "한쌍 어장관리란 말에 발끈한 선주 둘의 결말은"
+        },
+        {
+          "arrayId": 207660,
+          "pipClipSeq": 207660,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "새로운 가능성? 재훈의 서프라이즈 선물은?!",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "8회ㅣ드디어 최종 선택! 마음의 종착지는?",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/ssang/",
+          "playingTm": "00:02:13",
+          "videoTnailImgPathAddr": "/cocos/B120189699/B120189699_EPI0008_05_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "한쌍 새로운 가능성 재훈의 서프라이즈 선물은"
+        },
+        {
+          "arrayId": 207662,
+          "pipClipSeq": 207662,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "고민하는 세웅에 불안해하는 그녀..",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "8회ㅣ드디어 최종 선택! 마음의 종착지는?",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/ssang/",
+          "playingTm": "00:02:47",
+          "videoTnailImgPathAddr": "/cocos/B120189699/B120189699_EPI0008_04_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "한쌍 고민하는 세웅에 불안해하는 그녀"
+        },
+        {
+          "arrayId": 207658,
+          "pipClipSeq": 207658,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "소~오름!!! 마지막 선택, 반전은 어디까지!?",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "8회ㅣ드디어 최종 선택! 마음의 종착지는?",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/ssang/",
+          "playingTm": "00:01:29",
+          "videoTnailImgPathAddr": "/cocos/B120189699/B120189699_EPI0008_03_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "한쌍 소오름 마지막 선택 반전은 어디까지"
+        },
+        {
+          "arrayId": 207656,
+          "pipClipSeq": 207656,
+          "clipTypeCdNm": "예고",
+          "clipNm": "[예고] 반전의 반전 속 최종 선택은?!",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "8회ㅣ드디어 최종 선택! 마음의 종착지는?",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/ssang/",
+          "playingTm": "00:00:28",
+          "videoTnailImgPathAddr": "/cocos/B120189699/B120189699_EPI0008_02_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "한쌍 예고 반전의 반전 속 최종 선택은"
+        },
+        {
+          "arrayId": 207654,
+          "pipClipSeq": 207654,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "세웅의 충격고백! 몰랐던 서로의 마음! 반전 예고?",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "7회ㅣ배우자를 위한 단 하나의 밥상! NEW 러브라인 탄생?",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/ssang/",
+          "playingTm": "00:05:03",
+          "videoTnailImgPathAddr": "/cocos/B120189699/B120189699_EPI0007_15_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "한쌍 세웅의 충격고백 몰랐던 서로의 마음 반전 예고"
+        }
+      ]
+    },
+    "14100": {
+      "modulAttrTpCd": "MC020871",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "cntntsMarkClauCd": "MC020849",
+        "pageViewCnt": 4,
+        "pgmSeq": 21270,
+        "dtlLayerSjCnts": "미리보기",
+        "pgmCntntsFgSeq": 1868
+      },
+      "moduleInfo": {
+        "modulSjNm": "최신 콘텐츠",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "FFFFFF",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 60,
+        "pdngBotmSize": 60,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020869",
+        "modulBgValInfo": null
+      },
+      "data": {
+        "dataInfo": {
+          "total": 8,
+          "list": [
+            {
+              "arrayId": 9518,
+              "pgmTmnoPrevewSeq": 9518,
+              "dtlLayerSjCnts": null,
+              "prevewTit": "8화 '최종 선택, 예측 불가! 남녀 마음의 종착지는?'",
+              "prevewSubSjNm": null,
+              "prevewCnts": "부모X자식의 아주 특별한 인연 찾기!\r\n신개념 부모 관찰 맞선! 공개 구혼 리얼리티 <한쌍>\r\n     \r\n마지막 데이트, 끝날 때까지 끝난 게 아니다!\r\n얽히고설켰던 부모 지목 데이트 후\r\n일주일 만에 마주한 아홉 남녀!\r\n애달팠던 마음을 확인할 수 있는\r\n마지막 데이트 기회가 주어지는데~\r\n     \r\n애정 듬뿍 담긴 담금주부터 정성 가득 손편지까지\r\n각자의 그대를 위해 만반의 준비를 한 남녀!\r\n그.러.나. 다시 만난 그대는\r\n내가 알던 그대가 아니다?!\r\n꾸준한 탐색을 통해 마음을 확인해 오던 이들,\r\n최종 선택을 코앞에 두고\r\n애정 전선에 이상기류를 파악하는데...!\r\n     \r\n최종 선택, 예측 불가! 남녀 마음의 종착지는?\r\n누구의 마음도 확신할 수 없는\r\n아슬아슬하고 아찔한 데이트는 끝났다!\r\n대망의 최종 선택 시간\r\n     \r\n진실한 고백만이\r\n사랑을 쟁취할 수 있는 이 시점\r\n꽁꽁 감춰왔던 남녀의 속마음이\r\n드디어 봉인 해제되는데...!\r\n     \r\n자식도, 부모도, 그 누구도 상상하지 못했던\r\n반전의 반전을 거듭한 ‘한 쌍’의 마지막 여정!\r\n과연 모두의 눈시울을 붉히게 만든\r\n애틋한 엔딩의 주인공들은 누구일지?\r\n     \r\n新 인륜지대사 <한쌍> 마지막 이야기!\r\n9월 7일(금) 오후 8시 10분 大 공개!",
+              "putupStrDtm": 1669872359000,
+              "sortSseq": 8
+            },
+            {
+              "arrayId": 9517,
+              "pgmTmnoPrevewSeq": 9517,
+              "dtlLayerSjCnts": null,
+              "prevewTit": "7화  '너는 내 취~향 저격~ 폭풍전야 랜덤 데이트!'",
+              "prevewSubSjNm": null,
+              "prevewCnts": "부모X자식의 아주 특별한 인연 찾기!\r\n신개념 부모 관찰 맞선! 공개 구혼 리얼리티 <한쌍>\r\n     \r\n세 번째 만남, 당신을 위해 준비했습니다\r\n“미래의 배우자를 위해 첫 생일상을 차려주세요”\r\n특별히 전수받은 ‘엄마표’ 햄버거 스테이크부터\r\n생애 처음 손수 만들어본 파이까지~\r\n한식대첩을 방불케 하는 아홉 남녀의 치열한(?) 요리 시간!  \r\n튀고~ 깨지고~ 전쟁 같은 분위기 속 \r\n새롭게 피어나고 엇갈리는 아홉 개의 마음들과  \r\n이를 조마조마하게 지켜보는 부모들~\r\n그리고 완성된 생일상과 함께 서서히 드러나는 마음의 행방!\r\n긴장감이 흐르는 가운데 서로가 밥상을 건넬 이는 누구일지?!\r\n     \r\n네 번째 만남, 너는 내 취~향 저격~ 폭풍전야 랜덤 데이트!\r\n‘내 취향에 따라 데이트 상대가 결정된다!’\r\n꽁냥꽁냥한 연인들이 찾는 다섯 개의 핫플레이스 중\r\n각자 원하는 장소로 향하는 남녀들!\r\n말하지 않아도 느낌이 오는 ‘그곳’에서 운명처럼 마주하게 될 사람은?\r\n 드디어 ‘혼자’ 혹은 ‘함께’ 시작된 취향 데이트!\r\n사랑과 영혼을 담고 돌아가는 물레와\r\n갈팡질팡하는 속내를 콕 집어낸 타로는\r\n누군가의 잔잔했던 마음에 파도를 일으키는데..!\r\n     \r\n‘한쌍’으로 가는 여정의 중반, \r\n우연과 운명의 소용돌이 속 흔들리는 마음이 향하는 곳은?!\r\n     \r\n新 인륜지대사 <한쌍> 일곱 번째 이야기!\r\n8월 31일(금) 오후 8시 10분 大 공개!",
+              "putupStrDtm": 1669872359000,
+              "sortSseq": 7
+            },
+            {
+              "arrayId": 9516,
+              "pgmTmnoPrevewSeq": 9516,
+              "dtlLayerSjCnts": null,
+              "prevewTit": "6화 '1박 2일 동안의 변화무쌍했던 러브라인'",
+              "prevewSubSjNm": null,
+              "prevewCnts": "부모X자식의 아주 특별한 인연 찾기!\r\n신개념 부모 관찰 맞선! 공개 구혼 리얼리티 <한쌍>\r\n     \r\n폭염보다 뜨거운 양평에서의 1박 2일!\r\n마음의 속도는 더욱 빨라지고\r\n연애의 온도는 후끈 달아올랐다!\r\n     \r\n살랑살랑 마음이 흔들리는 시간~ 한여름 밤의 바비큐 파티!\r\n새로운 사랑의 시작을 알리듯 감미롭게 퍼지는 세레나데의 주인공은?\r\n상대, 그대, 기대... 서로를 향한 시그널이 계속되는 이 밤!\r\n날 새는 줄 모르는 자식들의 연애 현장을 지켜본 부모들의 반응은?!\r\n     \r\n물방울처럼 어디로 튈지 모르는 마음~ \r\n시원한 물가에서 이루어진 계곡 데이트!\r\n누군가에겐 기회가, 누군가에겐 기다림이 되는 랜덤 데이트 시간~\r\n달달한 눈빛과 오빠미 뿜뿜!\r\n한 남자의 직진 사랑과 그 현장에 돌을 던진 또 다른 남자! \r\n계곡 데이트를 지켜보던 부모들에게 빵빵 터지는 시원한 웃음을 선사한 그의 행동은?!\r\n     \r\n1박 2일 동안 변화무쌍했던 러브라인!\r\n꽃 한 송이로 몰래 전하는 서로의 마음은 누구를 향할까?\r\n부모도 긴장하게 만든 자그마한 꽃잎의 행방!\r\n     \r\n新 인륜지대사 <한쌍> 여섯 번째 이야기!",
+              "putupStrDtm": 1669872359000,
+              "sortSseq": 6
+            },
+            {
+              "arrayId": 9515,
+              "pgmTmnoPrevewSeq": 9515,
+              "dtlLayerSjCnts": null,
+              "prevewTit": "5화 '이보다 더 과감할 순 없다!' 두번째 출연자 공개!",
+              "prevewSubSjNm": null,
+              "prevewCnts": "부모X자식의 아주 특별한 인연 찾기!\r\n신개념 부모 관찰 맞선! 공개 구혼 리얼리티 <한쌍>\r\n     \r\n또 다른 ‘한쌍’을 꿈꾸는 9명의 남녀와\r\n자식의 결혼이 간절한 부모들의 새로운 만남이 시작된다!\r\n     \r\n내 자식의 ‘한쌍’을 찾기 위해 모였다!\r\n‘이보다 더 과감할 순 없다!’\r\n가식 0%! 답답한 가면은 저 멀리~ 벗어던진 채\r\n거침없는 입담으로 분위기를 쥐락펴락하는 새 얼굴들!\r\n아들 자랑에 날 새는 줄 모르는 ‘아들 바보’ 엄마부터\r\n상견례 자리 친화력 甲! ‘맘크러쉬’ 엄마, \r\n17살에 만난 첫사랑과 결혼한 ‘로맨틱’ 아빠까지~  \r\n자식의 인연 만들기에 새롭게 동참한 부모들의\r\n긴장 가득한 첫 만남 풍경은?! \r\n     \r\n상상력 자극~ 설렘 폭발! 블라인드 데이트\r\n“오직 ‘마음의 눈’으로 상대를 알아봐라”\r\n‘한쌍’이 되기 위한 첫 번째 관문이 시작된다!\r\n커튼 하나를 사이에 둔 아홉 남녀,\r\n어색함과 떨림이 공존하는 데이트 현장 속\r\n서로를 알아가기 위한 적극적인 탐색전이 펼쳐지는데~\r\n잠시 후, 호감 1위 男女에게만 주어진 특별한 시간,\r\n드디어 서로의 얼굴을 마주하게 된 두 사람!\r\n이때, 남자의 돌발 질문에 여자가 당황한 까닭은?!\r\n     \r\n한여름 밤 더욱 뜨겁고~ 더욱 대담해진\r\n청춘 남녀의 로맨스가 시작된다!\r\n     \r\n新 인륜지대사 <한쌍> 다섯 번째 이야기!\r\n8월 17일(금) 오후 8시 10분 大 공개!",
+              "putupStrDtm": 1669872359000,
+              "sortSseq": 5
+            }
+          ],
+          "pageNum": 1,
+          "pageSize": 4,
+          "size": 4,
+          "startRow": 1,
+          "endRow": 4,
+          "pages": 2,
+          "prePage": 0,
+          "nextPage": 2,
+          "isFirstPage": true,
+          "isLastPage": false,
+          "hasPreviousPage": false,
+          "hasNextPage": true,
+          "navigatePages": 5,
+          "navigatepageNums": [
+            1,
+            2
+          ],
+          "navigateFirstPage": 1,
+          "navigateLastPage": 2
+        }
+      }
+    },
+    "18410": {
+      "modulAttrTpCd": "MC020886",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "slotVal": "/57992224/CJENM_PoC/tvN",
+        "clntId": "tvN",
+        "scrtyKeyVal": "div-gpt-ad-1674722898352-0",
+        "pcImgWdhSize": 970,
+        "pcImgHgtSize": 90,
+        "mobImgWdhSize": 320,
+        "mobImgHgtSize": 100
+      },
+      "moduleInfo": {
+        "modulSjNm": "",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 60,
+        "pdngBotmSize": 60,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020885",
+        "modulBgValInfo": null
+      },
+      "data": null
+    }
+  }
+}

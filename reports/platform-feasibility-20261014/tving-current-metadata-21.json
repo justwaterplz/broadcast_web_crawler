@@ -1,0 +1,2268 @@
+{
+  "format": "tving-source-bundle",
+  "schema_version": 1,
+  "collection": {
+    "source_url": "https://www.tving.com/contents/P001776344",
+    "collected_at": "2026-10-14T09:37:51.042843+00:00",
+    "acquisition_method": "embedded_page_data_and_episode_api",
+    "status": "collected",
+    "episode_endpoint": "https://api.tving.com/v2/media/frequency/program/P001776344",
+    "error": "TVING API status 401; no usable episode list",
+    "complete_for_current_api_listing": true,
+    "verification": "current public q1 configuration"
+  },
+  "contentInfo": {
+    "code": "E004454417",
+    "vod_type": "CSMD0100",
+    "last_view_time": 0,
+    "preview_display_yn": "N",
+    "title": "친애하는 X",
+    "channel": "TVING",
+    "channel_code": "C50241",
+    "frequency": 1,
+    "duration": 3558,
+    "ending_credit_sec": 3486,
+    "grade_code": "CMMG0400",
+    "episode_grade_code": "CMMG0400",
+    "director": [
+      "이응복",
+      "박소현",
+      "최자원"
+    ],
+    "actor": [
+      "김유정",
+      "김영대",
+      "김도훈",
+      "이열음"
+    ],
+    "script": null,
+    "keywords": null,
+    "synopsis": "지옥에서 벗어나 가장 높은 곳으로 올라가기 위해 가면을 쓴 여자 '백아진' 그리고 그녀에게 잔혹하게 짓밟힌 X들의 이야기",
+    "image": [
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20251021/1250/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP0200"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP0400"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20251021/1250/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP0500"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP0900"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1110/ko/20251027/0505/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1110"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1120/ko/20251105/0521/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1120"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1130/ko/20251105/0521/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1130"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1140/ko/20251105/0521/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1140"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1150/ko/20251105/0521/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1150"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1160/ko/20251105/0521/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1160"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1170/ko/20251105/0521/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1170"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1180/ko/20251105/0521/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1180"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20251021/1250/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1500"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20251022/0917/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1700"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20250908/0545/P001776344.png",
+        "url2": null,
+        "code": "CAIP1800"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260916/0043/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1900"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20251104/0940/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP2530"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20251104/0940/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP2540"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20251104/0940/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP2550"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20251104/0940/P001776344.png",
+        "url2": null,
+        "code": "CAIP2560"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP3100/com/20251104/0941/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP3100"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP3110/com/20251104/0941/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP3110"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20251021/1250/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP4000"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20251021/1250/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP4200"
+      }
+    ],
+    "episode_broad_dt": "20251106",
+    "episode_title": "1. 그녀의 X들",
+    "episode_synopsis": "신광고 2학년에 재학 중인 백아진은 신경을 건드리는 심성희를 조력자들을 이용해 치워버릴 계획을 세운다.",
+    "episode_image": [
+      {
+        "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20251106/0855/E004454417.jpg",
+        "url2": null,
+        "code": "CAIE0400"
+      }
+    ],
+    "broad_state": "CPBS0300",
+    "broad_end_dt": "20251204",
+    "broad_dt": "20251106",
+    "broad_week": "목",
+    "broad_hour": "18",
+    "broad_minu": "00",
+    "product_year": 2025,
+    "release_date": 0,
+    "episode_sort": 1,
+    "season_no": "0",
+    "season_code": "T100008207",
+    "category_code": "PCA",
+    "category_name": "드라마",
+    "genre_code": "PCA001",
+    "genre_name": "공포/오컬트",
+    "program_code": "P001776344",
+    "insert_date": 20251030104033,
+    "open_text": null,
+    "hdr_type": "",
+    "audio_type": "",
+    "billing_package_tag": "",
+    "drm_yn": "Y",
+    "fan_yn": "N",
+    "tving_exclusive_yn": "N",
+    "tving_original_yn": "Y",
+    "paramount_yn": "N",
+    "apple_yn": "N",
+    "quickup_yn": "N",
+    "uhd_4k_yn": "Y",
+    "subtitle_ver_yn": "N",
+    "dub_ver_yn": "N",
+    "event_yn": "N",
+    "cine_same_yn": "N",
+    "first_open_yn": "N",
+    "ko_cc_yn": "Y",
+    "free_yn": "N",
+    "partial_free_yn": "N",
+    "total_free_yn": "N",
+    "view_permission_code": "MEMBER",
+    "thumbs_down_yn": "N",
+    "thumbs_up_yn": "N",
+    "two_thumbs_up_yn": "N",
+    "sale_status": 1650,
+    "display_title": "1. 그녀의 X들"
+  },
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TVSeries",
+      "url": "https://www.tving.com/contents/P001776344",
+      "contentRating": "18",
+      "name": "친애하는 X 1화",
+      "description": "지옥에서 벗어나 가장 높은 곳으로 올라가기 위해 가면을 쓴 여자 '백아진' 그리고 그녀에게 잔혹하게 짓밟힌 X들의 이야기",
+      "genre": "드라마",
+      "image": "https://image.tving.com/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg/dims/resize/500",
+      "dateCreated": "2025-11-06",
+      "actors": [
+        {
+          "@type": "Person",
+          "name": "김유정"
+        },
+        {
+          "@type": "Person",
+          "name": "김영대"
+        },
+        {
+          "@type": "Person",
+          "name": "김도훈"
+        },
+        {
+          "@type": "Person",
+          "name": "이열음"
+        }
+      ],
+      "creator": [
+        {
+          "@type": "Person",
+          "name": "이응복"
+        },
+        {
+          "@type": "Person",
+          "name": "박소현"
+        },
+        {
+          "@type": "Person",
+          "name": "최자원"
+        }
+      ],
+      "productionCompany": {
+        "@type": "Organization",
+        "name": "TVING",
+        "url": "https://www.tving.com"
+      },
+      "numberOfSeasons": "0",
+      "startDate": "2025-11-06"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "TVING",
+          "item": "https://www.tving.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "친애하는 X 1화",
+          "item": "https://www.tving.com/contents/P001776344"
+        }
+      ]
+    }
+  ],
+  "episodeApi": {
+    "header": {
+      "message": "OK",
+      "status": 200
+    },
+    "body": {
+      "result": [
+        {
+          "vod_name": {
+            "ko": "1. 그녀의 X들"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004454417",
+            "frequency": 1,
+            "broadcast_date": 20251106,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "신광고 2학년에 재학 중인 백아진은 신경을 건드리는 심성희를 조력자들을 이용해 치워버릴 계획을 세운다."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20251106/0855/E004454417.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3558,
+            "free_yn": "N",
+            "grade_code": "CMMG0400",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "1. 그녀의 X들",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "친애하는 X"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1110/ko/20251027/0505/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1120/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1120"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1130/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1130"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1140/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1140"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1150/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1150"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1160/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1160"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1170/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1170"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1180/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1180"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20251022/0917/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20250908/0545/P001776344.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260916/0043/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20251104/0940/P001776344.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3100/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3100"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3110/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "2. 인간이 악마가 되는 순간"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004445099",
+            "frequency": 2,
+            "broadcast_date": 20251106,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "아진은 꿈꾸던 법학과에 합격하지만, 도박으로 돈을 날린 백선규가 찾아와 위기에 빠진다."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20251106/0704/E004445099.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3343,
+            "free_yn": "N",
+            "grade_code": "CMMG0400",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "2. 인간이 악마가 되는 순간",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "친애하는 X"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1110/ko/20251027/0505/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1120/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1120"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1130/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1130"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1140/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1140"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1150/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1150"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1160/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1160"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1170/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1170"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1180/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1180"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20251022/0917/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20250908/0545/P001776344.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260916/0043/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20251104/0940/P001776344.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3100/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3100"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3110/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "3. 제물을 바쳐 족쇄를 풀어내다"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004445098",
+            "frequency": 3,
+            "broadcast_date": 20251106,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "대학 진학이 무산된 아진은 우연히 만난 최정호의 선한 성품을 알아보고, 그가 운영하는 카페에서 아르바이트를 시작한다. 아진은 최정호를 이용해 평생의 족쇄를 없앨 계획을 세우는데…"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20251106/0705/E004445098.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3946,
+            "free_yn": "N",
+            "grade_code": "CMMG0400",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "3. 제물을 바쳐 족쇄를 풀어내다",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "친애하는 X"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1110/ko/20251027/0505/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1120/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1120"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1130/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1130"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1140/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1140"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1150/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1150"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1160/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1160"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1170/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1170"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1180/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1180"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20251022/0917/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20250908/0545/P001776344.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260916/0043/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20251104/0940/P001776344.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3100/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3100"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3110/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "4. 돌이킬 수 없는"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004445140",
+            "frequency": 4,
+            "broadcast_date": 20251106,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "백선규 살인 사건의 살해 용의자로 최정호가 구속된다. 그러나 아진 역시 용의선상에 오르며 궁지에 몰린다. 사면초가에 빠진 아진에게 다가온 서미리는 도움의 손길을 뻗으며 연예계 데뷔를 또 한 번 제안한다."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20251106/0900/E004445140.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3967,
+            "free_yn": "N",
+            "grade_code": "CMMG0400",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "4. 돌이킬 수 없는",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "친애하는 X"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1110/ko/20251027/0505/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1120/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1120"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1130/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1130"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1140/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1140"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1150/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1150"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1160/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1160"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1170/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1170"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1180/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1180"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20251022/0917/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20250908/0545/P001776344.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260916/0043/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20251104/0940/P001776344.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3100/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3100"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3110/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "5. 나를 가장 높은 곳에 임하게 하소서"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004458283",
+            "frequency": 5,
+            "broadcast_date": 20251113,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "신인 여배우로 연예계 데뷔를 한 아진은 자신을 끌어 내리려는 선배 레나를 치워 버릴 계략을 꾸민다."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20251113/0900/E004458283.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3914,
+            "free_yn": "N",
+            "grade_code": "CMMG0400",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "5. 나를 가장 높은 곳에 임하게 하소서",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "친애하는 X"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1110/ko/20251027/0505/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1120/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1120"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1130/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1130"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1140/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1140"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1150/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1150"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1160/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1160"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1170/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1170"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1180/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1180"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20251022/0917/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20250908/0545/P001776344.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260916/0043/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20251104/0940/P001776344.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3100/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3100"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3110/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "6. 덫을 놓다"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004458282",
+            "frequency": 6,
+            "broadcast_date": 20251113,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "더 높은 곳에 오르기 위해 탑스타 허인강의 연인 타이틀이 필요한 아진은 인강의 마음을 사기 위해 준서에게 도움을 요청하고 인강 조모에게 접근한다."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20251113/0900/E004458282.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 4322,
+            "free_yn": "N",
+            "grade_code": "CMMG0400",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "6. 덫을 놓다",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "친애하는 X"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1110/ko/20251027/0505/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1120/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1120"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1130/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1130"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1140/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1140"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1150/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1150"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1160/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1160"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1170/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1170"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1180/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1180"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20251022/0917/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20250908/0545/P001776344.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260916/0043/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20251104/0940/P001776344.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3100/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3100"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3110/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "7. 운명의 수레바퀴"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004458281",
+            "frequency": 7,
+            "broadcast_date": 20251120,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "아진은 인강과의 1년간의 연애를 이어가며 여배우로서 인지도를 굳히는데, 아진의 과거 폭로글이 공개되며 실체를 들킬 위기에 처한다."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20251120/0915/E004458281.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 4476,
+            "free_yn": "N",
+            "grade_code": "CMMG0400",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "7. 운명의 수레바퀴",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "친애하는 X"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1110/ko/20251027/0505/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1120/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1120"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1130/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1130"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1140/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1140"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1150/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1150"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1160/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1160"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1170/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1170"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1180/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1180"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20251022/0917/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20250908/0545/P001776344.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260916/0043/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20251104/0940/P001776344.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3100/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3100"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3110/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "8. 신이 너의 죄를 심판하기 전에"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004458280",
+            "frequency": 8,
+            "broadcast_date": 20251120,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "인강 조모의 죽음 이후, 아진은 더 이상 필요 없어진 인강이 자신에게 프로포즈 하려 하자 이별 통보를 한다."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20251120/0915/E004458280.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 4976,
+            "free_yn": "N",
+            "grade_code": "CMMG0400",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "8. 신이 너의 죄를 심판하기 전에",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "친애하는 X"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1110/ko/20251027/0505/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1120/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1120"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1130/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1130"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1140/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1140"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1150/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1150"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1160/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1160"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1170/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1170"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1180/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1180"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20251022/0917/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20250908/0545/P001776344.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260916/0043/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20251104/0940/P001776344.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3100/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3100"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3110/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "9. 새로운 도약"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004466291",
+            "frequency": 9,
+            "broadcast_date": 20251127,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "아진은 인강의 죽음에 분노한 이들에게 마녀사냥을 당하고 궁지에 몰리는데, 그런 그녀 앞에 새로운 구원자 문도혁이 나타난다."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20251125/0950/E004466291.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 2825,
+            "free_yn": "N",
+            "grade_code": "CMMG0400",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "9. 새로운 도약",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "친애하는 X"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1110/ko/20251027/0505/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1120/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1120"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1130/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1130"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1140/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1140"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1150/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1150"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1160/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1160"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1170/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1170"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1180/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1180"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20251022/0917/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20250908/0545/P001776344.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260916/0043/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20251104/0940/P001776344.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3100/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3100"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3110/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "10. 거울 앞에 선 몬스터"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004466301",
+            "frequency": 10,
+            "broadcast_date": 20251127,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "아진은 문도혁과의 결혼과 동시에 소속사를 옮기고 더 높은 곳으로 나아가는데, 문도혁과의 결혼 생활에 알 수 없는 어둠의 그림자가 드리워진다."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20251125/0950/E004466301.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3541,
+            "free_yn": "N",
+            "grade_code": "CMMG0400",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "10. 거울 앞에 선 몬스터",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "친애하는 X"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1110/ko/20251027/0505/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1120/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1120"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1130/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1130"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1140/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1140"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1150/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1150"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1160/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1160"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1170/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1170"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1180/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1180"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20251022/0917/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20250908/0545/P001776344.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260916/0043/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20251104/0940/P001776344.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3100/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3100"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3110/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "11. 저를 구하소서, 나의 신이여"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004466297",
+            "frequency": 11,
+            "broadcast_date": 20251204,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "아진은 구원인 줄 알고 잡았던 남편 문도혁이 더 단단한 족쇄라는 걸 깨닫게 되고, 문도혁에게 휘둘리지 않기 위해 그의 약점을 잡으려 재오에게 도움을 요청한다."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20251202/0545/E004466297.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 4000,
+            "free_yn": "N",
+            "grade_code": "CMMG0400",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "11. 저를 구하소서, 나의 신이여",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "친애하는 X"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1110/ko/20251027/0505/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1120/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1120"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1130/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1130"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1140/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1140"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1150/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1150"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1160/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1160"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1170/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1170"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1180/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1180"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20251022/0917/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20250908/0545/P001776344.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260916/0043/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20251104/0940/P001776344.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3100/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3100"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3110/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "12. 백아진, 그녀의 마지막 X"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004466294",
+            "frequency": 12,
+            "broadcast_date": 20251204,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "아진은 문도혁의 손아귀에서 벗어나고, 청룡영화제에서 여우주연상을 수상하며 여배우로서 정점에 오르는데 그 순간, 백아진 폭로 다큐가 방송된다."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20251202/0545/E004466294.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3355,
+            "free_yn": "N",
+            "grade_code": "CMMG0400",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "12. 백아진, 그녀의 마지막 X",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "친애하는 X"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1110/ko/20251027/0505/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1120/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1120"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1130/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1130"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1140/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1140"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1150/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1150"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1160/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1160"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1170/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1170"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1180/ko/20251105/0521/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1180"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20251022/0917/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20250908/0545/P001776344.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260916/0043/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20251104/0940/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20251104/0940/P001776344.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3100/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3100"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP3110/com/20251104/0941/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP3110"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20251021/1250/P001776344.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        }
+      ],
+      "total_count": 12,
+      "has_more": "N"
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "format": "broadcast_program_metadata",
+  "format_version": "0.2.0",
+  "source": "TVING",
+  "collected_at": "2026-10-07T20:16:01+09:00",
+  "scope": {
+    "replaces": "CJ_ENM",
+    "robots": {
+      "allow": [
+        "/"
+      ],
+      "disallow": [
+        "/service/"
+      ]
+    },
+    "video_streams_excluded": true,
+    "roles_not_inferred": true,
+    "first_list_page_only": true,
+    "list": "PCA first 10 cards"
+  },
+  "program_count": 10,
+  "categories": [
+    {
+      "category_code": "PCA",
+      "category_title": "전체",
+      "list_url": "https://www.tving.com/more/genre/PCA",
+      "available_on_first_page": 20,
+      "collected_count": 10,
+      "programs": [
+        {
+          "group": "PCA",
+          "category_title": "전체",
+          "list_url": "https://www.tving.com/more/genre/PCA",
+          "title": "로또 1등도 출근합니다",
+          "source_url": "https://www.tving.com/contents/P001790587",
+          "http_status": 200,
+          "fields": {
+            "content_code": "P001790587",
+            "json_ld_name": "로또 1등도 출근합니다 1화",
+            "genre": "드라마",
+            "genre_detail": "오피스 드라마",
+            "content_rating": "15",
+            "date_created": "2026-09-10",
+            "start_date": "2026-09-10",
+            "end_date": "2026-10-08",
+            "schedule": "목 18:00",
+            "channel": "TVING",
+            "product_year": 2026,
+            "synopsis": "위아래로 치이며 하루하루를 버티던 팀장 '공은태'가 로또 1등에 당첨된 후 사직서 대신 당첨금 13억을 품고 이전과는 다른 마음가짐으로 출근하는 K-직장인 오피스 드라마",
+            "actors": [
+              "이준혁",
+              "서현우",
+              "오대환",
+              "이현균",
+              "옥자연"
+            ],
+            "directors": [
+              "윤영빈"
+            ],
+            "writers": null,
+            "episode_title": "1. 참는 자에게 복이 있나니",
+            "season_no": "0"
+          }
+        },
+        {
+          "group": "PCA",
+          "category_title": "전체",
+          "list_url": "https://www.tving.com/more/genre/PCA",
+          "title": "신병4 : 사보타주",
+          "source_url": "https://www.tving.com/contents/P001790586",
+          "http_status": 200,
+          "fields": {
+            "content_code": "P001790586",
+            "json_ld_name": "신병4 : 사보타주 1화",
+            "genre": "드라마",
+            "genre_detail": "코미디",
+            "content_rating": "15",
+            "date_created": "2026-08-24",
+            "start_date": "2026-08-24",
+            "end_date": "2026-09-29",
+            "schedule": "월화 22:00",
+            "channel": "스튜디오지니",
+            "product_year": 2026,
+            "synopsis": "계급이 오르고 고민도 늘어버린 상병 박민석! 하사로 돌아온 최일구와 미스터리 신병, 돌풍을 일으킬 대대장의 등장으로 그의 군생활은 다시 전투 태세에 돌입한다!",
+            "actors": [
+              "김민호",
+              "김동준",
+              "오대환",
+              "이현균",
+              "이원정",
+              "남태우",
+              "이수지",
+              "김요한",
+              "이충구",
+              "이정현"
+            ],
+            "directors": [
+              "민진기",
+              "조제욱",
+              "윤기영",
+              "김단"
+            ],
+            "writers": null,
+            "episode_title": "1. <에이스 신병>",
+            "season_no": "4"
+          }
+        },
+        {
+          "group": "PCA",
+          "category_title": "전체",
+          "list_url": "https://www.tving.com/more/genre/PCA",
+          "title": "막리 : 그대와 영원히",
+          "source_url": "https://www.tving.com/contents/P001791846",
+          "http_status": 200,
+          "fields": {
+            "content_code": "P001791846",
+            "json_ld_name": "막리 : 그대와 영원히 1화",
+            "genre": "드라마",
+            "genre_detail": "로맨스",
+            "content_rating": "15",
+            "date_created": "2026-09-14",
+            "start_date": "2026-09-14",
+            "end_date": "2026-10-09",
+            "schedule": "월화수목금 04:45",
+            "channel": "스튜디오지니",
+            "product_year": 2026,
+            "synopsis": "엽리는 이산이 봉쇄된 뒤 8년 동안 산에 갇혀 지내다가, 태후의 명으로 정왕 묵수요와 혼인하게 되면서 마침내 하산한다. 쇠락한 정왕부와 삶의 의욕을 잃은 남편을 마주한 엽리는 왕부의 질서를 바로잡는 동시에 과거 사건의 진상을 하나씩 파헤치며 자신에게 고통을 안긴 이들을 향한 복수에 나서는데…",
+            "actors": [
+              "백록",
+              "승뢰"
+            ],
+            "directors": [
+              "임옥분"
+            ],
+            "writers": null,
+            "episode_title": "1. 혼인",
+            "season_no": "0"
+          }
+        },
+        {
+          "group": "PCA",
+          "category_title": "전체",
+          "list_url": "https://www.tving.com/more/genre/PCA",
+          "title": "포핸즈",
+          "source_url": "https://www.tving.com/contents/P001790301",
+          "http_status": 200,
+          "fields": {
+            "content_code": "P001790301",
+            "json_ld_name": "포핸즈 1화",
+            "genre": "드라마",
+            "genre_detail": "로맨스",
+            "content_rating": "15",
+            "date_created": "2026-08-29",
+            "start_date": "2026-08-29",
+            "end_date": "2026-10-04",
+            "schedule": "토일 21:10",
+            "channel": "tvN",
+            "product_year": 2026,
+            "synopsis": "음악 천재들만 모인 예술고등학교에서 만난 청춘들의 우정과 사랑, 경쟁과 성장을 그리는 드라마",
+            "actors": [
+              "송강",
+              "이준영",
+              "장규리",
+              "정진영",
+              "윤세아",
+              "김주헌",
+              "서재희"
+            ],
+            "directors": [
+              "김선태",
+              "박현석",
+              "오슬기",
+              "이세희",
+              "신이원"
+            ],
+            "writers": null,
+            "episode_title": "1. 포핸즈 1화",
+            "season_no": "0"
+          }
+        },
+        {
+          "group": "PCA",
+          "category_title": "전체",
+          "list_url": "https://www.tving.com/more/genre/PCA",
+          "title": "가족관계증명서",
+          "source_url": "https://www.tving.com/contents/P001789076",
+          "http_status": 200,
+          "fields": {
+            "content_code": "P001789076",
+            "json_ld_name": "가족관계증명서 1화",
+            "genre": "드라마",
+            "genre_detail": "막장",
+            "content_rating": "15",
+            "date_created": "2026-07-06",
+            "start_date": "2026-07-06",
+            "end_date": null,
+            "schedule": "월화수목금 19:05",
+            "channel": "MBC",
+            "product_year": 2026,
+            "synopsis": "<가족관계증명서>는 경계선 없이 살아온 불륜 세대가 자녀들에게 깊은 상처를 주지만, 오히려 상처 입은 자녀들이 불륜 세대를 치유하는 드라마이다. 따라서 극 초반은 부모 세대의 이야기로 포문을 열지만, 자녀들의 사랑이 동력이 되어 부모 세대를 화해시키고, 새로운 결혼관, 인생관을 확립하는 이야기이다.",
+            "actors": [
+              "박세영",
+              "한고은",
+              "임지은"
+            ],
+            "directors": [
+              "김미숙",
+              "박지현"
+            ],
+            "writers": null,
+            "episode_title": "1. 가족은 꼭 결혼으로 이루어지는 걸까요?",
+            "season_no": "0"
+          }
+        },
+        {
+          "group": "PCA",
+          "category_title": "전체",
+          "list_url": "https://www.tving.com/more/genre/PCA",
+          "title": "작골",
+          "source_url": "https://www.tving.com/contents/P001791113",
+          "http_status": 200,
+          "fields": {
+            "content_code": "P001791113",
+            "json_ld_name": "작골 1화",
+            "genre": "드라마",
+            "genre_detail": "로맨스",
+            "content_rating": "15",
+            "date_created": "2026-09-09",
+            "start_date": "2026-09-09",
+            "end_date": "2026-10-16",
+            "schedule": "월화수목금 22:00",
+            "channel": "채널차이나",
+            "product_year": 2026,
+            "synopsis": "전쟁 영웅으로 금의환향한 정안왕 세자 소무의는 정적 장사왕에게 복수하기 위해 태부의 딸 사가어와 강제로 혼인한다. 서로 다른 목적을 품은 채 시작된 정략결혼은 황위와 권력을 둘러싼 음모 속에서 점점 예측할 수 없는 관계로 변해가고, 사가어의 첫사랑 이무까지 얽히며 세 사람의 운명은 거센 소용돌이에 휩싸이는데...",
+            "actors": [
+              "허우밍하오",
+              "아이미",
+              "왕이룬",
+              "마추위안",
+              "허룬둥"
+            ],
+            "directors": [
+              "가오이쥔",
+              "쑨멍페이"
+            ],
+            "writers": null,
+            "episode_title": "1. 작골 1화",
+            "season_no": "0"
+          }
+        },
+        {
+          "group": "PCA",
+          "category_title": "전체",
+          "list_url": "https://www.tving.com/more/genre/PCA",
+          "title": "우림령",
+          "source_url": "https://www.tving.com/contents/P001792267",
+          "http_status": 200,
+          "fields": {
+            "content_code": "P001792267",
+            "json_ld_name": "우림령 1화",
+            "genre": "드라마",
+            "genre_detail": "사극/시대극",
+            "content_rating": "15",
+            "date_created": "2026-08-06",
+            "start_date": "2026-08-06",
+            "end_date": "2026-08-17",
+            "schedule": "월화수목금 15:00",
+            "channel": "AsiaN",
+            "product_year": 2026,
+            "synopsis": "중국 고전 장편 명작 <삼협오의>를 원작으로, ‘남협’ 전조를 중심으로 이야기를 재구성한 작품이다. 무공과 인품을 겸비한 어전 4품 대도호위 전조는 옛 벗이 남긴 미제 사건의 단서를 쫓아 홀로 진실을 추적하던 중 정체불명의 세력에 끊임없는 습격을 받는다. 그 과정에서 영롱산장의 대소저 곽영롱, 그리고 ‘금모서’라 불리는 협객 백옥당을 만나게 되고, 뜻을 함께한 세 사람은 수차례 생사를 넘나드는 싸움 끝에 사건의 진실에 다가가게 되는데…",
+            "actors": [
+              "양양",
+              "장약남"
+            ],
+            "directors": [
+              "유홍원"
+            ],
+            "writers": null,
+            "episode_title": "1. 우림령 1화",
+            "season_no": "0"
+          }
+        },
+        {
+          "group": "PCA",
+          "category_title": "전체",
+          "list_url": "https://www.tving.com/more/genre/PCA",
+          "title": "신병3",
+          "source_url": "https://www.tving.com/contents/P001769310",
+          "http_status": 200,
+          "fields": {
+            "content_code": "P001769310",
+            "json_ld_name": "신병3 1화",
+            "genre": "드라마",
+            "genre_detail": "코미디",
+            "content_rating": "15",
+            "date_created": "2025-04-07",
+            "start_date": "2025-04-07",
+            "end_date": "2025-04-29",
+            "schedule": "월화 22:00",
+            "channel": "스튜디오지니",
+            "product_year": 2025,
+            "synopsis": "평화는 찰나였다! 예측 불허 ‘두 신병’의 폭격과 ‘그’의 귀환으로 긴장감이 감도는 신화부대. 진급을 앞둔 박민석 일병의 군 생활은 더욱 꼬여가는데... 예측 불허! 하이퍼 리얼리즘 코미디",
+            "actors": [
+              "김민호",
+              "김동준",
+              "오대환",
+              "남태우",
+              "이상진",
+              "김요한"
+            ],
+            "directors": [
+              "민진기",
+              "조제욱",
+              "윤기영",
+              "강고은"
+            ],
+            "writers": null,
+            "episode_title": "1. <두 신병>",
+            "season_no": "3"
+          }
+        },
+        {
+          "group": "PCA",
+          "category_title": "전체",
+          "list_url": "https://www.tving.com/more/genre/PCA",
+          "title": "신병2",
+          "source_url": "https://www.tving.com/contents/P001768526",
+          "http_status": 200,
+          "fields": {
+            "content_code": "P001768526",
+            "json_ld_name": "신병2 1화",
+            "genre": "드라마",
+            "genre_detail": "코미디",
+            "content_rating": "15",
+            "date_created": "2023-08-25",
+            "start_date": "2023-08-25",
+            "end_date": "2023-09-08",
+            "schedule": null,
+            "channel": "스튜디오지니",
+            "product_year": 2023,
+            "synopsis": "일병으로 진급한 박민석의 더욱 빡세진 생활관 라이프를 그린 군대 드라마",
+            "actors": [
+              "김지석",
+              "김민호",
+              "남태우",
+              "이충구",
+              "이상진"
+            ],
+            "directors": [
+              "민진기",
+              "조제욱",
+              "장삐쭈",
+              "윤기영",
+              "지정민",
+              "허혜원"
+            ],
+            "writers": null,
+            "episode_title": "1. 폭풍전야",
+            "season_no": "2"
+          }
+        },
+        {
+          "group": "PCA",
+          "category_title": "전체",
+          "list_url": "https://www.tving.com/more/genre/PCA",
+          "title": "신병",
+          "source_url": "https://www.tving.com/contents/P001670538",
+          "http_status": 200,
+          "fields": {
+            "content_code": "P001670538",
+            "json_ld_name": "신병 1화",
+            "genre": "드라마",
+            "genre_detail": "코미디",
+            "content_rating": "15",
+            "date_created": "2022-07-22",
+            "start_date": "2022-07-22",
+            "end_date": "2022-08-05",
+            "schedule": null,
+            "channel": "스튜디오지니",
+            "product_year": 2022,
+            "synopsis": "좋은놈, 나쁜놈, 이상한 놈… 별별 놈 모두 모인 그곳에 ‘군수저’ 신병이 등장하면서 벌어지는 본격 리얼 드라마",
+            "actors": [
+              "김민호",
+              "이정현",
+              "남태우",
+              "전승훈",
+              "이충구",
+              "차영남",
+              "이상진 등"
+            ],
+            "directors": [
+              "민진기",
+              "장삐쭈",
+              "김단",
+              "안용진"
+            ],
+            "writers": null,
+            "episode_title": "1화 <전입>",
+            "season_no": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

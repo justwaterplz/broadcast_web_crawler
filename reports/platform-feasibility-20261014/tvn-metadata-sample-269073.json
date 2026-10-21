@@ -1,0 +1,394 @@
+{
+  "source": "tvn",
+  "sample": "269073",
+  "page_info": {
+    "menuSeq": "27921",
+    "svcCd": "SV003",
+    "siteCd": "ST000007",
+    "ctgCd": "MC010003",
+    "menuCd": "MN00227921",
+    "menuNm": "메인",
+    "menuDescp": "",
+    "scheBtnFunc": {
+      "funcNm": "설정 - 방송알림신청",
+      "funcCd": "MC020790"
+    },
+    "dtlYn": null,
+    "dtlFgCd": null,
+    "reqUrlAddr": "happyanding/",
+    "templateAjaxUrl": "/apis/v1/ctg/MC010003/menu/MN00227921/tmpl/1040?svcCd=SV003&siteCd=ST000007",
+    "redirectYn": "N",
+    "redirectUrl": null,
+    "cacheVal": 0,
+    "pageInfo": {
+      "additionalClass": null,
+      "menuTpCd": "MC010006",
+      "titDmainUseYn": "P",
+      "titYn": "N",
+      "mainYn": "N",
+      "titDmainFgCd": null,
+      "menuPathDispYn": "Y",
+      "menuPathTitDispYn": "Y",
+      "textColorCd": null,
+      "htmlCnts": null,
+      "titScriptCnts": null,
+      "imgFileSeq": null,
+      "mobImgFileSeq": null,
+      "bgColorCd": null,
+      "menuTitNm": null,
+      "menuTitDescp": null,
+      "repImgSeq": 1321255,
+      "repUrl": "happyanding/",
+      "tagScriptCnts": null,
+      "refScriptCnts": null,
+      "menuTitTagCnts": "뜨거운 안녕 | tvN",
+      "menuDescpTagCnts": "뜨거운 안녕의 출연진 정보와 최신 영상, 포스터, 현장스틸 등 관련 콘텐츠를 한눈에 확인하세요.",
+      "srchKwdCnts": "뜨거운 안녕, tvN, 드라마, 기타",
+      "snsTitTagCnts": "뜨거운 안녕",
+      "snsDescpTagCnts": "뜨거운 안녕의 최신 정보와 영상을 만나보세요.",
+      "popupYn": "N",
+      "tabYn": null,
+      "metaInfoUseYn": "Y",
+      "titImgInfo": null,
+      "mobTitImgInfo": null,
+      "repImgInfo": {
+        "fileSeq": 1321255,
+        "fileGropNo": "1791424902821",
+        "fileFgCd": "MC010156",
+        "orgFileNm": "sns.png",
+        "fileSize": 283208,
+        "fileExtsnVal": "png",
+        "filePathAddr": "/share/menumng/sns_1791424902921.png",
+        "altTextCnts": "CJ ENM tvN 뜨거운 안녕 happyanding",
+        "pcImgWdhSize": 1200,
+        "pcImgHgtSize": 630,
+        "mobImgWdhSize": 1200,
+        "mobImgHgtSize": 630,
+        "sortSseq": 1,
+        "linkNwinYn": "",
+        "repImgYn": "Y",
+        "youtubeYn": "N",
+        "imgVideoLinkUrlAddr": "",
+        "useYn": "Y",
+        "delYn": "N"
+      },
+      "repGenreInfo": "드라마",
+      "ptclrGenreInfo": "기타",
+      "bdWkday": "",
+      "bdTm": "22:50"
+    },
+    "useYn": "Y",
+    "prevewYn": "N",
+    "displayMenuYn": "Y"
+  },
+  "modules": {
+    "28052": {
+      "modulAttrTpCd": "MC020867",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "pgmSeq": 269073,
+        "updanBnrUseYn": "N",
+        "updanBnrPcImgFilePathAddr": null,
+        "updanBnrMobImgFilePathAddr": null,
+        "pcImgWdhSize": null,
+        "pcImgHgtSize": null,
+        "mobImgWdhSize": null,
+        "mobImgHgtSize": null,
+        "updanBnrBgColorCd": "",
+        "chnCd": "",
+        "chnNm": null,
+        "markClauSetngCdList": [
+          "MC020838"
+        ]
+      },
+      "moduleInfo": {
+        "modulSjNm": "",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 0,
+        "pdngBotmSize": 5,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020866",
+        "modulBgValInfo": null
+      },
+      "data": {
+        "pgmNm": "뜨거운 안녕",
+        "bdTm": null,
+        "scheInfo": null,
+        "snsInfoList": null,
+        "plnngIntentInfo": null,
+        "plnngIntentDtlPopupInfo": null,
+        "replayIngo": null,
+        "scheAlarmInfo": null,
+        "newestClipInfo": {
+          "pcImgHgtSize": 744,
+          "playingTm": "00:06:47",
+          "pipClipSeq": "901643",
+          "videoTnailImgPathAddr": "https://cocosimage.pip.cjenm.com/CLIP/COCOS/B120267060/3619811/2e2a4ee9-1ca7-4f1d-8104-6dc578749bde_B.jpg",
+          "imgVideoLinkUrlAddr": "/CLIP/COCOS/B120267060/3619811/B120267060_3619811_t35.mp4",
+          "mobImgHgtSize": 365,
+          "adultYn": "N",
+          "videoTnailImgAltTextCnts": "금토 뜨거운 안녕 메이킹 꿈에 인생 건 개그 트리오 아수라 청춘들의 뜨겁고도 아름다운 성장기  뜨거운 안녕 대본리딩",
+          "pcImgWdhSize": 1320,
+          "mobImgWdhSize": 648,
+          "newestClipAutoTpCd": "MC010162",
+          "youtubeYn": "N",
+          "clipNm": "[메이킹] 꿈에 인생 건 개그 트리오 아수라🤹 청춘들의 뜨겁고도 아름다운 성장기 | [뜨거운 안녕] 대본리딩🔥👋",
+          "videoTnailImgFileSeq": "1321240"
+        }
+      }
+    },
+    "28053": {
+      "modulAttrTpCd": "MC020886",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "slotVal": "/57992224/CJENM_PoC/tvN",
+        "clntId": "tvN3",
+        "scrtyKeyVal": "div-gpt-ad-1674722898352-2",
+        "pcImgWdhSize": 970,
+        "pcImgHgtSize": 90,
+        "mobImgWdhSize": 320,
+        "mobImgHgtSize": 100
+      },
+      "moduleInfo": {
+        "modulSjNm": "",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 20,
+        "pdngBotmSize": 20,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020885",
+        "modulBgValInfo": null
+      },
+      "data": null
+    },
+    "28057": {
+      "modulAttrTpCd": "MC020870",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "attrSeq": 2335,
+        "cntntsMarkClauCd": "MC020850",
+        "dispCnt": 8,
+        "pgmSeq": 269073,
+        "dtlLayerSjInfoList": [
+          {
+            "pgmCntntsFgSeq": 5420,
+            "dtlLayerSjCd": "MC020850",
+            "dtlLayerSjCnts": "현장포토"
+          }
+        ]
+      },
+      "moduleInfo": {
+        "modulSjNm": "현장포토",
+        "modulSjDescp": "현장포토",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "FFFFFF",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 20,
+        "pdngBotmSize": 20,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020869",
+        "modulBgValInfo": null
+      },
+      "data": {
+        "dtlLayerSjCnts": "현장포토",
+        "localePhotoInfoList": [
+          {
+            "arrayId": 30154,
+            "pgmLocalePhotoSeq": 30154,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "청춘 시너지 폭발하는 대본리딩 현장❤️‍🔥",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120267060/kr/B120267060photogroup1791371118184.jpg?v=1791371119",
+            "localePhotoAltTextCnts": "CJ ENM tvN 기타 드라마 뜨거운 안녕  ",
+            "localePhotoCnt": 7,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1791417600000,
+            "sortSseq": 1
+          }
+        ]
+      }
+    },
+    "28058": {
+      "modulAttrTpCd": "MC020870",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "attrSeq": 2336,
+        "cntntsMarkClauCd": "MC020850",
+        "dispCnt": 8,
+        "pgmSeq": 269073,
+        "dtlLayerSjInfoList": [
+          {
+            "pgmCntntsFgSeq": 5421,
+            "dtlLayerSjCd": "MC020850",
+            "dtlLayerSjCnts": "대표이미지"
+          }
+        ]
+      },
+      "moduleInfo": {
+        "modulSjNm": "대표이미지 ",
+        "modulSjDescp": "대표이미지",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "FFFFFF",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 20,
+        "pdngBotmSize": 20,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020869",
+        "modulBgValInfo": null
+      },
+      "data": {
+        "dtlLayerSjCnts": "대표이미지",
+        "localePhotoInfoList": []
+      }
+    },
+    "28060": {
+      "modulAttrTpCd": "MC021204",
+      "pcImgWdhSize": 312,
+      "pcImgHgtSize": 175,
+      "mobImgWdhSize": 732,
+      "mobImgHgtSize": 412,
+      "modulAttrInfo": {
+        "attrSeq": 1320,
+        "dispCnt": 10,
+        "allDispFgCd": "MC010186",
+        "pgmSeq": 269073,
+        "pgmId": "B120267060",
+        "mainFiltTabCd": "MC020724",
+        "subFiltTabCd": "MC020724",
+        "cntntsInfDispTypeCd": "MC020727",
+        "clipTypeUseYn": "Y",
+        "delYn": "N",
+        "chnTabCdList": [
+          {
+            "label": "tvN",
+            "value": "MC010268",
+            "sortSseq": 1
+          }
+        ],
+        "clipTypeTabCdList": [
+          {
+            "label": "예고",
+            "value": "MC010223",
+            "sortSseq": 1
+          },
+          {
+            "label": "선공개/기획클립",
+            "value": "MC010220",
+            "sortSseq": 2
+          },
+          {
+            "label": "구간클립",
+            "value": "MC010210",
+            "sortSseq": 3
+          },
+          {
+            "label": "하이라이트",
+            "value": "MC010216",
+            "sortSseq": 4
+          },
+          {
+            "label": "메이킹",
+            "value": "MC010213",
+            "sortSseq": 5
+          }
+        ]
+      },
+      "moduleInfo": {
+        "modulSjNm": "최신 동영상",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "FFFFFF",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "MC020694",
+        "pdngTopSize": 20,
+        "pdngBotmSize": 20,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC010175",
+        "modulBgValInfo": null
+      },
+      "data": [
+        {
+          "arrayId": 901643,
+          "pipClipSeq": 901643,
+          "clipTypeCdNm": "메이킹",
+          "clipNm": "[메이킹] 꿈에 인생 건 개그 트리오 아수라🤹 청춘들의 뜨겁고도 아름다운 성장기 | [뜨거운 안녕] 대본리딩🔥👋",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "뜨거운 안녕 0화",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/happyanding/",
+          "playingTm": "00:06:47",
+          "videoTnailImgPathAddr": "https://cocosimage.pip.cjenm.com/CLIP/COCOS/B120267060/3619811/2e2a4ee9-1ca7-4f1d-8104-6dc578749bde_B.jpg",
+          "videoTnailImgAltTextCnts": "금토 뜨거운 안녕 메이킹 꿈에 인생 건 개그 트리오 아수라 청춘들의 뜨겁고도 아름다운 성장기  뜨거운 안녕 대본리딩"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "started_at": "2026-10-20T17:59:09.406266+09:00",
+  "output_dir": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\test-tmp-direct-url-20261020-02\\test_saved_inventory_collectio0\\20261020_175909_406266_드라마_전체",
+  "scope": {
+    "category": "드라마",
+    "subcategory": "전체",
+    "limit": null,
+    "start_rank": 1,
+    "max_pages": 500
+  },
+  "listing": {
+    "source_url": "https://www.tving.com/more/genre/PCA",
+    "order": "hit",
+    "pages_read": 1,
+    "programs": [
+      {
+        "rank": 1,
+        "title": "작품1",
+        "url": "https://www.tving.com/contents/P001"
+      }
+    ],
+    "inventory_checked_at": "2026-10-12T12:00:00+09:00",
+    "complete_listing": true
+  },
+  "summary": {
+    "requested_programs": 1,
+    "processed_programs": 1,
+    "successful_programs": 1,
+    "failed_programs": 0,
+    "complete_episode_lists": 1,
+    "collected_episodes": 0,
+    "episodes_with_synopsis": 0
+  },
+  "finished_at": "2026-10-20T17:59:09.408069+09:00",
+  "programs": [
+    {
+      "rank": 1,
+      "title": "작품1",
+      "url": "https://www.tving.com/contents/P001",
+      "folder": "작품1_20261020",
+      "status": "success",
+      "synopsis_count": 0,
+      "missing_synopsis_episode_codes": [],
+      "complete_episode_list": true,
+      "metadata_file": "작품1_20261020/metadata.json"
+    }
+  ]
+}

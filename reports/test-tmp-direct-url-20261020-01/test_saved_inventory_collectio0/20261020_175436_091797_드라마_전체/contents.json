@@ -1,0 +1,10 @@
+{
+  "format": "tving-source-index",
+  "schema_version": 1,
+  "programs": [
+    {
+      "title": "작품1",
+      "metadata_file": "작품1_20261020/metadata.json"
+    }
+  ]
+}

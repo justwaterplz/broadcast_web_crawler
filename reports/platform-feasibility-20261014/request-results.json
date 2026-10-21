@@ -1,0 +1,23 @@
+[
+  {
+    "file": "tvn-header-api.json",
+    "url": "https://poc-cf-api.cjenm.com/apis/v1/tmplModul/27919?removeCacheYn=N",
+    "status": 200,
+    "final_url": "https://poc-cf-api.cjenm.com/apis/v1/tmplModul/27919?removeCacheYn=N",
+    "bytes": 3663
+  },
+  {
+    "file": "tvn-people-api.json",
+    "url": "https://poc-cf-api.cjenm.com/apis/v1/tmplModul/27921?removeCacheYn=N",
+    "status": 200,
+    "final_url": "https://poc-cf-api.cjenm.com/apis/v1/tmplModul/27921?removeCacheYn=N",
+    "bytes": 19550
+  },
+  {
+    "file": "tvn-preview-api.json",
+    "url": "https://poc-cf-api.cjenm.com/apis/v1/tmplModul/27923?removeCacheYn=N",
+    "status": 200,
+    "final_url": "https://poc-cf-api.cjenm.com/apis/v1/tmplModul/27923?removeCacheYn=N",
+    "bytes": 1275
+  }
+]

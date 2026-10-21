@@ -1,0 +1,52 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "broadcast-web-crawler"
+version = "0.1.0"
+description = "Deterministic broadcast-site capture and parsing foundation"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = [
+  "beautifulsoup4>=4.12,<5",
+  "fastapi>=0.115,<1",
+  "pydantic>=2.8,<3",
+  "sqlalchemy>=2.0,<3",
+  "uvicorn>=0.30,<1",
+]
+
+[project.optional-dependencies]
+crawl = ["playwright>=1.46,<2"]
+llm = ["httpx>=0.27,<1"]
+postgres = ["psycopg[binary]>=3.2,<4"]
+dev = [
+  "mypy>=1.11",
+  "pytest>=8.3",
+  "pytest-asyncio>=0.24",
+  "ruff>=0.6",
+]
+
+[project.scripts]
+broadcast-metadata-api = "broadcast_web_crawler.main:run"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/broadcast_web_crawler"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]
+asyncio_mode = "auto"
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+packages = ["broadcast_web_crawler"]

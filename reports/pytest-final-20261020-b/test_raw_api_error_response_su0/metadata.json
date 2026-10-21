@@ -1,0 +1,25 @@
+{
+  "format": "tving-source-bundle",
+  "schema_version": 1,
+  "collection": {
+    "source_url": "https://www.tving.com/contents/P001",
+    "collected_at": "2026-10-20T09:09:23.168225+00:00",
+    "acquisition_method": "embedded_page_data_and_episode_api",
+    "status": "display_parser_failed",
+    "episode_endpoint": "https://api.tving.com/v2/media/frequency/program/P001",
+    "error": "TVING API status 401; no usable episode list"
+  },
+  "contentInfo": {
+    "program_code": "P001",
+    "title": "작품",
+    "director": null
+  },
+  "jsonLd": [],
+  "episodeApi": {
+    "header": {
+      "status": 401,
+      "message": "source error"
+    },
+    "body": null
+  }
+}

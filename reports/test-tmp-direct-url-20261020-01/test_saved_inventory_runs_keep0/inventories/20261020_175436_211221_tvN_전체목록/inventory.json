@@ -1,0 +1,59 @@
+{
+  "format": "tvn-program-inventory",
+  "schema_version": 1,
+  "source_url": "https://tvn.cjenm.com/ko/program/",
+  "category": "tvn",
+  "checked_at": "2026-10-20T17:54:36.215767+09:00",
+  "max_pages": 500,
+  "complete_listing": true,
+  "programs": [
+    {
+      "rank": 1,
+      "program_id": "1",
+      "title": "작품",
+      "url": "https://tvn.cjenm.com/ko/show-1/",
+      "listing_item": {
+        "pgmSeq": 1,
+        "pgmNm": "작품",
+        "repGenreInfo": "예능",
+        "ptclrGenreInfo": "예능",
+        "frontDetailUrlAddr": "https://tvn.cjenm.com/ko/show-1/",
+        "nullable": null,
+        "unknown": {
+          "image": "poster.jpg",
+          "flag": false
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "program_id": "2",
+      "title": "드라마작품",
+      "url": "https://tvn.cjenm.com/ko/show-2/",
+      "listing_item": {
+        "pgmSeq": 2,
+        "pgmNm": "드라마작품",
+        "repGenreInfo": "드라마",
+        "ptclrGenreInfo": "드라마",
+        "frontDetailUrlAddr": "https://tvn.cjenm.com/ko/show-2/",
+        "nullable": null,
+        "unknown": {
+          "image": "poster.jpg",
+          "flag": false
+        }
+      }
+    }
+  ],
+  "unique_count": 2,
+  "pages_read": 2,
+  "duplicate_items_count": 1,
+  "module_id": "14382",
+  "endpoint": "https://poc-cf-api.cjenm.com/apis/v1/tmplModul/14382",
+  "filters": {
+    "pageNum": 1,
+    "searchChnCd": "ALL",
+    "repGenreCdList": "ALL"
+  },
+  "channel_tab": "전체 채널",
+  "reported_total": 2
+}

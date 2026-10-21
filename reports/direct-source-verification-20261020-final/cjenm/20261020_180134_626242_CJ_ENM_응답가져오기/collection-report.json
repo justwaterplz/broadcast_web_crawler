@@ -1,0 +1,20 @@
+{
+  "source_url": "https://www.cjenm.com/ko/featured-contents/포핸즈/",
+  "output_dir": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\direct-source-verification-20261020-final\\cjenm\\20261020_180134_626242_CJ_ENM_응답가져오기",
+  "metadata_file": "포핸즈_20261020/metadata.json",
+  "acquisition_method": "user_saved_responses",
+  "summary": {
+    "successful_programs": 1
+  },
+  "target_review": {
+    "url": "https://www.cjenm.com/ko/featured-contents/포핸즈/",
+    "kind": "cjenm_detail",
+    "site": "CJ ENM",
+    "status": "ready",
+    "title": "포핸즈",
+    "program_id": "220264",
+    "scope": "사용자가 저장한 응답",
+    "source_binding": "requires_user_confirmation",
+    "checked_at": "2026-10-20T18:01:34.626234+09:00"
+  }
+}

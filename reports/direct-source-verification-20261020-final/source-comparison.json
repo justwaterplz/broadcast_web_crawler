@@ -1,0 +1,52 @@
+{
+  "title": "포핸즈",
+  "automatic_title_search": false,
+  "same_work_evidence": {
+    "cjenm_explicit_replay_url": "https://www.tving.com/contents/P001790301",
+    "tvn_explicit_replay_urls": [
+      {
+        "path": "modules.27774.data.replayIngo.pgmReplayUrlAddr",
+        "url": "https://www.tving.com/contents/P001790301"
+      }
+    ],
+    "tving_input_url": "https://www.tving.com/contents/P001790301",
+    "official_links_agree": true
+  },
+  "sources": [
+    {
+      "source": "CJ ENM",
+      "program_id": 220264,
+      "acquisition": "existing saved response; not a fresh crawl",
+      "episode_count_field": "12",
+      "episode_synopses": 0,
+      "original_file": "reports\\cjenm-api-verification\\20261012_085630\\program_minimal.json"
+    },
+    {
+      "source": "TVING",
+      "program_id": "P001790301",
+      "cast_count": 7,
+      "creator_source_field": "director",
+      "roles_inferred": false,
+      "episode_synopses": 12,
+      "complete_listing": true
+    },
+    {
+      "source": "tvN",
+      "program_ids": [
+        "220269"
+      ],
+      "character_count": 3,
+      "episode_previews": 12,
+      "preview_listing": {
+        "source_url": "https://tvn.cjenm.com/ko/Four-Hands-Two-Sonatas/episodes/",
+        "reported_total": 12,
+        "collected_unique": 12,
+        "pages_read": 1,
+        "complete_for_current_preview_listing": true
+      },
+      "screenplay_collected": false
+    }
+  ],
+  "country_filtering": "not inferred from channel, title or original flags",
+  "raw_documents_merged": false
+}

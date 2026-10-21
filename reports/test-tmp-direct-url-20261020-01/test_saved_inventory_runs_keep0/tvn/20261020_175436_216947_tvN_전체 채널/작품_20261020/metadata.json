@@ -1,0 +1,81 @@
+{
+  "format": "tvn-source-bundle",
+  "schema_version": 1,
+  "collection": {
+    "source_url": "https://tvn.cjenm.com/ko/show-1/",
+    "collected_at": "2026-10-20T17:54:36.218153+09:00",
+    "acquisition_method": "embedded_page_modules",
+    "status": "collected",
+    "program_ids": [
+      "1"
+    ],
+    "episode_coverage": "available_preview_modules",
+    "complete_episode_list": false,
+    "channel_tab": "전체 채널"
+  },
+  "listingItem": {
+    "pgmSeq": 1,
+    "pgmNm": "작품",
+    "repGenreInfo": "예능",
+    "ptclrGenreInfo": "예능",
+    "frontDetailUrlAddr": "https://tvn.cjenm.com/ko/show-1/",
+    "nullable": null,
+    "unknown": {
+      "image": "poster.jpg",
+      "flag": false
+    }
+  },
+  "pageInfo": {
+    "pageInfo": {
+      "snsTitTagCnts": "작품",
+      "repGenreInfo": "드라마"
+    }
+  },
+  "modules": {
+    "10": {
+      "modulAttrInfo": {
+        "pgmSeq": 1
+      },
+      "data": {
+        "pgmNm": "작품",
+        "plnngIntentInfo": {
+          "plnngIntentSumryCnts": "소개"
+        },
+        "nullable": null,
+        "unknown": {
+          "image": "poster.jpg",
+          "flag": false
+        }
+      }
+    },
+    "11": {
+      "data": {
+        "simplePrsnInfoList": [
+          {
+            "prsnNm": "등장인물"
+          }
+        ]
+      }
+    },
+    "12": {
+      "data": {
+        "previewInfoList": [
+          {
+            "pgmTmnoPrevewSeq": 7,
+            "prevewTit": "2화 미리보기",
+            "prevewCnts": "<p>회차 소개</p>"
+          }
+        ]
+      }
+    }
+  },
+  "templates": {
+    "template": {
+      "tempInfo": [
+        {
+          "tmplModulSeq": 10
+        }
+      ]
+    }
+  }
+}

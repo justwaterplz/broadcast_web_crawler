@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-10-12T08:52:42.079824+09:00",
+  "api_robots_permits_test_paths": false,
+  "requests": [
+    {
+      "label": "robots",
+      "url": "https://web2-cf-api.cjenm.com/robots.txt",
+      "method": "GET",
+      "request_headers": {
+        "User-Agent": "BroadcastMetadataVerifier/1.0",
+        "Accept": "application/json"
+      },
+      "cookies_sent": false,
+      "http_status": 200,
+      "final_url": "https://web2-cf-api.cjenm.com/robots.txt",
+      "content_type": "text/plain;charset=UTF-8"
+    }
+  ]
+}

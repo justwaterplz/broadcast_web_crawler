@@ -1,0 +1,1079 @@
+{
+  "format": "broadcast_program_metadata",
+  "format_version": "0.2.0",
+  "source": "COM2US_N",
+  "collected_at": "2026-10-07T18:35:14+09:00",
+  "scope": {
+    "catalog": "required_contents.txt Com2usn movie, drama, entertainment",
+    "viewer_posts_excluded": true,
+    "cast_synopsis_schedule_absent_on_source": true,
+    "image_text_not_used": true,
+    "roles_not_inferred": true
+  },
+  "program_count": 38,
+  "programs": [
+    {
+      "group": "movie",
+      "title": "타짜: 벨제붑의 노래",
+      "source_url": "https://com2usn.com/work/408",
+      "image_text": [],
+      "page_text": [
+        "TAZZA: The Song of Beelzebub",
+        "Content 영화",
+        "2026-09-18",
+        "https://www.youtube.com/watch?v=aMOrloU5Bho"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 408,
+        "title_en": "TAZZA: The Song of Beelzebub",
+        "category": "Content 영화",
+        "year": null,
+        "published_date": "2026-09-18",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=aMOrloU5Bho",
+        "image_count": 1
+      }
+    },
+    {
+      "group": "movie",
+      "title": "실연당한 사람들을 위한 일곱 시 조찬모임",
+      "source_url": "https://com2usn.com/work/257",
+      "image_text": [],
+      "page_text": [
+        "Seven O'Clock Breakfast Club for the Brokenhearted",
+        "Content 영화",
+        "2026-08-13",
+        "https://www.youtube.com/watch?v=zQGubDif2EA"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 257,
+        "title_en": "Seven O'Clock Breakfast Club for the Brokenhearted",
+        "category": "Content 영화",
+        "year": null,
+        "published_date": "2026-08-13",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=zQGubDif2EA",
+        "image_count": 5
+      }
+    },
+    {
+      "group": "movie",
+      "title": "왕을 찾아서",
+      "source_url": "https://com2usn.com/work/215",
+      "image_text": [],
+      "page_text": [
+        "Seeking the King",
+        "Content 영화",
+        "2026",
+        "2026-01-01",
+        "https://www.youtube.com/watch?v=rFkO2_n2WAE"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 215,
+        "title_en": "Seeking the King",
+        "category": "Content 영화",
+        "year": "2026",
+        "published_date": "2026-01-01",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=rFkO2_n2WAE",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "movie",
+      "title": "한국이 싫어서",
+      "source_url": "https://com2usn.com/work/219",
+      "image_text": [],
+      "page_text": [
+        "Because I Hate Korea",
+        "Content 영화",
+        "2024",
+        "2024-08-28",
+        "https://www.youtube.com/watch?v=TE_oG8FLUqQ"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 219,
+        "title_en": "Because I Hate Korea",
+        "category": "Content 영화",
+        "year": "2024",
+        "published_date": "2024-08-28",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=TE_oG8FLUqQ",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "movie",
+      "title": "세기말의 사랑",
+      "source_url": "https://com2usn.com/work/217",
+      "image_text": [],
+      "page_text": [
+        "Ms. Apocalypse",
+        "Content 영화",
+        "2024",
+        "2024-01-24",
+        "https://www.youtube.com/watch?v=xfWX6XHrC1M"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 217,
+        "title_en": "Ms. Apocalypse",
+        "category": "Content 영화",
+        "year": "2024",
+        "published_date": "2024-01-24",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=xfWX6XHrC1M",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "movie",
+      "title": "도티와 영원의 탑",
+      "source_url": "https://com2usn.com/work/216",
+      "image_text": [],
+      "page_text": [
+        "Dotty and the Tower of Eternity",
+        "Content 영화",
+        "2023",
+        "2023-12-27",
+        "https://www.youtube.com/watch?v=FY9FrrfGCiY"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 216,
+        "title_en": "Dotty and the Tower of Eternity",
+        "category": "Content 영화",
+        "year": "2023",
+        "published_date": "2023-12-27",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=FY9FrrfGCiY",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "movie",
+      "title": "육사오",
+      "source_url": "https://com2usn.com/work/218",
+      "image_text": [],
+      "page_text": [
+        "6/45",
+        "Content 영화",
+        "2022",
+        "2022-08-24",
+        "https://www.youtube.com/watch?v=u5sC5GoNTAQ"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 218,
+        "title_en": "6/45",
+        "category": "Content 영화",
+        "year": "2022",
+        "published_date": "2022-08-24",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=u5sC5GoNTAQ",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "movie",
+      "title": "2016 구글플레이 플레이타운",
+      "source_url": "https://com2usn.com/work/342",
+      "image_text": [],
+      "page_text": [
+        "2016 Google Play PlayTown",
+        "Content 영화",
+        "2016-07-01",
+        "client: Google",
+        "period: 2016.07 ~ 2016.08",
+        "venue: 동대문디자인플라자"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 342,
+        "title_en": "2016 Google Play PlayTown",
+        "category": "Content 영화",
+        "year": null,
+        "published_date": "2016-07-01",
+        "client": "Google",
+        "period": "2016.07 ~ 2016.08",
+        "venue": "동대문디자인플라자",
+        "video_url": null,
+        "image_count": 3
+      }
+    },
+    {
+      "group": "drama",
+      "title": "킬러들의 쇼핑몰2",
+      "source_url": "https://com2usn.com/work/255",
+      "image_text": [],
+      "page_text": [
+        "A Shop for Killers Season 2",
+        "Content 드라마",
+        "2026",
+        "2026-07-22",
+        "https://www.youtube.com/watch?v=Th-z5DyWdzE"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 255,
+        "title_en": "A Shop for Killers Season 2",
+        "category": "Content 드라마",
+        "year": "2026",
+        "published_date": "2026-07-22",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=Th-z5DyWdzE",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "S라인",
+      "source_url": "https://com2usn.com/work/256",
+      "image_text": [],
+      "page_text": [
+        "S Line",
+        "Content 드라마",
+        "2025",
+        "2025-07-11",
+        "https://www.youtube.com/watch?v=MJIYlPPnj7k"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 256,
+        "title_en": "S Line",
+        "category": "Content 드라마",
+        "year": "2025",
+        "published_date": "2025-07-11",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=MJIYlPPnj7k",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "살롱 드 홈즈",
+      "source_url": "https://com2usn.com/work/261",
+      "image_text": [],
+      "page_text": [
+        "Salon de Holmes",
+        "Content 드라마",
+        "2025",
+        "2025-06-16",
+        "https://www.youtube.com/watch?v=2j_bHClCCPY"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 261,
+        "title_en": "Salon de Holmes",
+        "category": "Content 드라마",
+        "year": "2025",
+        "published_date": "2025-06-16",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=2j_bHClCCPY",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "신병3",
+      "source_url": "https://com2usn.com/work/260",
+      "image_text": [],
+      "page_text": [
+        "Recruit (Season 3)",
+        "Content 드라마",
+        "2025",
+        "2025-04-07",
+        "https://www.youtube.com/watch?v=fEs-kAoGSyg"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 260,
+        "title_en": "Recruit (Season 3)",
+        "category": "Content 드라마",
+        "year": "2025",
+        "published_date": "2025-04-07",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=fEs-kAoGSyg",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "귀살",
+      "source_url": "https://com2usn.com/work/85",
+      "image_text": [],
+      "page_text": [
+        "SPECTER",
+        "숏폼드라마 귀살",
+        "Content 드라마",
+        "2025",
+        "2025-02-25"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 85,
+        "title_en": "SPECTER",
+        "category": "Content 드라마",
+        "year": "2025",
+        "published_date": "2025-02-25",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": null,
+        "image_count": 4
+      }
+    },
+    {
+      "group": "drama",
+      "title": "보물섬",
+      "source_url": "https://com2usn.com/work/259",
+      "image_text": [],
+      "page_text": [
+        "Buried Hearts",
+        "Content 드라마",
+        "2025",
+        "2025-02-21",
+        "https://www.youtube.com/watch?v=GTGNJ69-6XY"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 259,
+        "title_en": "Buried Hearts",
+        "category": "Content 드라마",
+        "year": "2025",
+        "published_date": "2025-02-21",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=GTGNJ69-6XY",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "인스타메리드",
+      "source_url": "https://com2usn.com/work/86",
+      "image_text": [],
+      "page_text": [
+        "Insta-Married",
+        "숏폼드라마 인스타메리드",
+        "Content 드라마",
+        "2025",
+        "2025-02-04"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 86,
+        "title_en": "Insta-Married",
+        "category": "Content 드라마",
+        "year": "2025",
+        "published_date": "2025-02-04",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": null,
+        "image_count": 2
+      }
+    },
+    {
+      "group": "drama",
+      "title": "킬러들의 쇼핑몰",
+      "source_url": "https://com2usn.com/work/221",
+      "image_text": [],
+      "page_text": [
+        "A Shop for Killers",
+        "Content 드라마",
+        "2024",
+        "2024-01-17",
+        "https://www.youtube.com/watch?v=3VrAwFB2Bm8"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 221,
+        "title_en": "A Shop for Killers",
+        "category": "Content 드라마",
+        "year": "2024",
+        "published_date": "2024-01-17",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=3VrAwFB2Bm8",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "마에스트라",
+      "source_url": "https://com2usn.com/work/222",
+      "image_text": [],
+      "page_text": [
+        "Maestra: Strings of Truth",
+        "Content 드라마",
+        "2023",
+        "2023-12-09",
+        "https://www.youtube.com/watch?v=EbJEEG93zG0"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 222,
+        "title_en": "Maestra: Strings of Truth",
+        "category": "Content 드라마",
+        "year": "2023",
+        "published_date": "2023-12-09",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=EbJEEG93zG0",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "신병2",
+      "source_url": "https://com2usn.com/work/224",
+      "image_text": [],
+      "page_text": [
+        "Recruit (Season 2)",
+        "Content 드라마",
+        "2023",
+        "2023-08-28",
+        "https://www.youtube.com/watch?v=AjGdSFfcQx0"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 224,
+        "title_en": "Recruit (Season 2)",
+        "category": "Content 드라마",
+        "year": "2023",
+        "published_date": "2023-08-28",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=AjGdSFfcQx0",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "잔혹한 인턴",
+      "source_url": "https://com2usn.com/work/231",
+      "image_text": [],
+      "page_text": [
+        "Cold Blooded Intern",
+        "Content 드라마",
+        "2023",
+        "2023-08-11",
+        "https://www.youtube.com/watch?v=94UYv5fnATE"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 231,
+        "title_en": "Cold Blooded Intern",
+        "category": "Content 드라마",
+        "year": "2023",
+        "published_date": "2023-08-11",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=94UYv5fnATE",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "넘버스",
+      "source_url": "https://com2usn.com/work/228",
+      "image_text": [],
+      "page_text": [
+        "Numbers",
+        "Content 드라마",
+        "2023",
+        "2023-06-23",
+        "https://www.youtube.com/watch?v=pbplmNJF7kM"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 228,
+        "title_en": "Numbers",
+        "category": "Content 드라마",
+        "year": "2023",
+        "published_date": "2023-06-23",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=pbplmNJF7kM",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "풀카운트",
+      "source_url": "https://com2usn.com/work/225",
+      "image_text": [],
+      "page_text": [
+        "Full Count",
+        "Content 드라마",
+        "2023",
+        "2023-05-10",
+        "https://www.youtube.com/watch?v=V7hDhWukEbc"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 225,
+        "title_en": "Full Count",
+        "category": "Content 드라마",
+        "year": "2023",
+        "published_date": "2023-05-10",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=V7hDhWukEbc",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "가면의 여왕",
+      "source_url": "https://com2usn.com/work/227",
+      "image_text": [],
+      "page_text": [
+        "Queen of Masks",
+        "Content 드라마",
+        "2023",
+        "2023-04-24",
+        "https://www.youtube.com/watch?v=qXJEkYIL-eY"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 227,
+        "title_en": "Queen of Masks",
+        "category": "Content 드라마",
+        "year": "2023",
+        "published_date": "2023-04-24",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=qXJEkYIL-eY",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "오아시스",
+      "source_url": "https://com2usn.com/work/229",
+      "image_text": [],
+      "page_text": [
+        "Oasis",
+        "Content 드라마",
+        "2023",
+        "2023-03-06",
+        "https://www.youtube.com/watch?v=D3xy1I2slls"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 229,
+        "title_en": "Oasis",
+        "category": "Content 드라마",
+        "year": "2023",
+        "published_date": "2023-03-06",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=D3xy1I2slls",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "재벌집 막내아들",
+      "source_url": "https://com2usn.com/work/220",
+      "image_text": [],
+      "page_text": [
+        "Reborn Rich",
+        "Content 드라마",
+        "2022",
+        "2022-11-18",
+        "https://www.youtube.com/watch?v=KPSFUOQiTEQ"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 220,
+        "title_en": "Reborn Rich",
+        "category": "Content 드라마",
+        "year": "2022",
+        "published_date": "2022-11-18",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=KPSFUOQiTEQ",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "신병1",
+      "source_url": "https://com2usn.com/work/223",
+      "image_text": [],
+      "page_text": [
+        "Recruit (Season 1)",
+        "Content 드라마",
+        "2022",
+        "2022-07-23",
+        "https://www.youtube.com/watch?v=5zi_8wi6KdI"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 223,
+        "title_en": "Recruit (Season 1)",
+        "category": "Content 드라마",
+        "year": "2022",
+        "published_date": "2022-07-23",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=5zi_8wi6KdI",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "블랙의 신부",
+      "source_url": "https://com2usn.com/work/226",
+      "image_text": [],
+      "page_text": [
+        "Remarriage & Desires",
+        "Content 드라마",
+        "2022",
+        "2022-07-15",
+        "https://www.youtube.com/watch?v=nVXozGn0tdg"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 226,
+        "title_en": "Remarriage & Desires",
+        "category": "Content 드라마",
+        "year": "2022",
+        "published_date": "2022-07-15",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=nVXozGn0tdg",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "학교 2021",
+      "source_url": "https://com2usn.com/work/247",
+      "image_text": [],
+      "page_text": [
+        "School 2021",
+        "Content 드라마",
+        "2021",
+        "2021-11-24",
+        "https://www.youtube.com/watch?v=3ilFA4FO4Ig"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 247,
+        "title_en": "School 2021",
+        "category": "Content 드라마",
+        "year": "2021",
+        "published_date": "2021-11-24",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=3ilFA4FO4Ig",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "drama",
+      "title": "하이클래스",
+      "source_url": "https://com2usn.com/work/246",
+      "image_text": [],
+      "page_text": [
+        "High Class",
+        "Content 드라마",
+        "2021",
+        "2021-09-06",
+        "https://www.youtube.com/watch?v=q_JSNWEKUx8"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 246,
+        "title_en": "High Class",
+        "category": "Content 드라마",
+        "year": "2021",
+        "published_date": "2021-09-06",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=q_JSNWEKUx8",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "entertainment",
+      "title": "우리엄마 이경실",
+      "source_url": "https://com2usn.com/work/265",
+      "image_text": [],
+      "page_text": [
+        "My Mom Lee Kyung-sil",
+        "Content 예능 · 유튜브",
+        "2026",
+        "2026-07-01",
+        "https://www.youtube.com/watch?v=C0PkFBx1oz0"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 265,
+        "title_en": "My Mom Lee Kyung-sil",
+        "category": "Content 예능 · 유튜브",
+        "year": "2026",
+        "published_date": "2026-07-01",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=C0PkFBx1oz0",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "entertainment",
+      "title": "디디컴퍼니",
+      "source_url": "https://com2usn.com/work/264",
+      "image_text": [],
+      "page_text": [
+        "ddcompany",
+        "Content 예능 · 유튜브",
+        "2025",
+        "2025-09-17",
+        "https://www.youtube.com/shorts/qkZ8gdLsKb0"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 264,
+        "title_en": "ddcompany",
+        "category": "Content 예능 · 유튜브",
+        "year": "2025",
+        "published_date": "2025-09-17",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/shorts/qkZ8gdLsKb0",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "entertainment",
+      "title": "신여성",
+      "source_url": "https://com2usn.com/work/258",
+      "image_text": [],
+      "page_text": [
+        "New Woman",
+        "Content 예능 · 유튜브",
+        "2025",
+        "2025-07-15",
+        "https://www.youtube.com/watch?v=j3ScZlZnuLc"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 258,
+        "title_en": "New Woman",
+        "category": "Content 예능 · 유튜브",
+        "year": "2025",
+        "published_date": "2025-07-15",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=j3ScZlZnuLc",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "entertainment",
+      "title": "밈고리즘",
+      "source_url": "https://com2usn.com/work/263",
+      "image_text": [],
+      "page_text": [
+        "Memegorithm",
+        "Content 예능 · 유튜브",
+        "2025",
+        "2025-06-08",
+        "https://www.youtube.com/watch?v=gswqDdzdmBI&t=855s"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 263,
+        "title_en": "Memegorithm",
+        "category": "Content 예능 · 유튜브",
+        "year": "2025",
+        "published_date": "2025-06-08",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=gswqDdzdmBI&t=855s",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "entertainment",
+      "title": "깐죽포차",
+      "source_url": "https://com2usn.com/work/248",
+      "image_text": [],
+      "page_text": [
+        "Kkanjuk Pocha",
+        "Content 예능 · 유튜브",
+        "2023",
+        "2023-12-16",
+        "https://www.youtube.com/watch?v=Krn6ysnLY4A"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 248,
+        "title_en": "Kkanjuk Pocha",
+        "category": "Content 예능 · 유튜브",
+        "year": "2023",
+        "published_date": "2023-12-16",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=Krn6ysnLY4A",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "entertainment",
+      "title": "내 귀에 띵곡",
+      "source_url": "https://com2usn.com/work/250",
+      "image_text": [],
+      "page_text": [
+        "A Ddingok in My Ears",
+        "Content 예능 · 유튜브",
+        "2023",
+        "2023-11-18",
+        "https://www.youtube.com/watch?v=5Z2iFt-eLlE"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 250,
+        "title_en": "A Ddingok in My Ears",
+        "category": "Content 예능 · 유튜브",
+        "year": "2023",
+        "published_date": "2023-11-18",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=5Z2iFt-eLlE",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "entertainment",
+      "title": "도시어부5",
+      "source_url": "https://com2usn.com/work/252",
+      "image_text": [],
+      "page_text": [
+        "The Fishermen and the City (Season 5)",
+        "Content 예능 · 유튜브",
+        "2023",
+        "2023-09-07",
+        "https://www.youtube.com/watch?v=sLIyfFf8gOY"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 252,
+        "title_en": "The Fishermen and the City (Season 5)",
+        "category": "Content 예능 · 유튜브",
+        "year": "2023",
+        "published_date": "2023-09-07",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=sLIyfFf8gOY",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "entertainment",
+      "title": "스트릿 우먼 파이터2",
+      "source_url": "https://com2usn.com/work/251",
+      "image_text": [],
+      "page_text": [
+        "Street Woman Fighter 2",
+        "Content 예능 · 유튜브",
+        "2023",
+        "2023-08-22",
+        "https://www.youtube.com/watch?v=YksjTSEIURY"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 251,
+        "title_en": "Street Woman Fighter 2",
+        "category": "Content 예능 · 유튜브",
+        "year": "2023",
+        "published_date": "2023-08-22",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=YksjTSEIURY",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "entertainment",
+      "title": "햄과 함께",
+      "source_url": "https://com2usn.com/work/249",
+      "image_text": [],
+      "page_text": [
+        "With My Dear Bro",
+        "Content 예능 · 유튜브",
+        "2023",
+        "2023-01-01",
+        "https://www.youtube.com/watch?v=wANxpO3o-ms"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 249,
+        "title_en": "With My Dear Bro",
+        "category": "Content 예능 · 유튜브",
+        "year": "2023",
+        "published_date": "2023-01-01",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=wANxpO3o-ms",
+        "image_count": 0
+      }
+    },
+    {
+      "group": "entertainment",
+      "title": "개는 훌륭하다",
+      "source_url": "https://com2usn.com/work/253",
+      "image_text": [],
+      "page_text": [
+        "Dogs Are Amazing",
+        "Content 예능 · 유튜브",
+        "2019",
+        "2019-11-04",
+        "https://www.youtube.com/watch?v=m8YyBFOF7hg"
+      ],
+      "corners": [],
+      "page_text_source": "public project detail",
+      "lists": [],
+      "fields": {
+        "project_id": 253,
+        "title_en": "Dogs Are Amazing",
+        "category": "Content 예능 · 유튜브",
+        "year": "2019",
+        "published_date": "2019-11-04",
+        "client": null,
+        "period": null,
+        "venue": null,
+        "video_url": "https://www.youtube.com/watch?v=m8YyBFOF7hg",
+        "image_count": 0
+      }
+    }
+  ]
+}

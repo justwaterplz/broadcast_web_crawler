@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.tving.com/contents/P001790301",
+  "collected_at": "2026-10-20T09:09:37.666761+00:00",
+  "acquisition_method": "embedded_page_data_and_episode_api",
+  "status": "collected",
+  "episode_endpoint": "https://api.tving.com/v2/media/frequency/program/P001790301",
+  "complete_for_current_api_listing": true,
+  "metadata_file": "포핸즈_20261020/metadata.json",
+  "target_review": {
+    "url": "https://www.tving.com/contents/P001790301",
+    "kind": "tving_detail",
+    "status": "ready",
+    "checked_at": "2026-10-20T18:09:36.944852+09:00",
+    "title": "포핸즈",
+    "program_id": "P001790301",
+    "site": "TVING",
+    "scope": "작품 상세",
+    "genre": "로맨스",
+    "confirmed_target": true,
+    "confirmed_at": "2026-10-20T18:09:37.328506+09:00"
+  }
+}

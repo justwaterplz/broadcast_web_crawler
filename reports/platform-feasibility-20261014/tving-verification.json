@@ -1,0 +1,26 @@
+{
+  "input_url": "https://www.tving.com/more/genre/PCA",
+  "details": [
+    {
+      "rank": 1,
+      "title": "로또 1등도 출근합니다\t\t\t\t",
+      "status": "error",
+      "error": "TVING API status 401; no usable episode list"
+    },
+    {
+      "rank": 21,
+      "title": "친애하는 X",
+      "status": "error",
+      "error": "TVING API status 401; no usable episode list"
+    }
+  ],
+  "listing": {
+    "source_url": "https://www.tving.com/more/genre/PCA",
+    "order": "hit",
+    "pages_read": 2,
+    "unique_count": 40,
+    "duplicate_items_count": 0,
+    "complete_listing": false,
+    "program_count": 21
+  }
+}

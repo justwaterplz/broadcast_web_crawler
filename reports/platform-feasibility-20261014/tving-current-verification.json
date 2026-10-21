@@ -1,0 +1,29 @@
+{
+  "old_extractor_returned_url_prefix": true,
+  "current_export": "q1",
+  "current_variable": "y",
+  "details": [
+    {
+      "rank": 1,
+      "program_code": "P001790587",
+      "title": "로또 1등도 출근합니다\t\t\t\t",
+      "http_status": 200,
+      "api_status": 200,
+      "episodes": 10,
+      "total_count": 10,
+      "complete": true,
+      "nonempty_synopses": 10
+    },
+    {
+      "rank": 21,
+      "program_code": "P001776344",
+      "title": "친애하는 X",
+      "http_status": 200,
+      "api_status": 200,
+      "episodes": 12,
+      "total_count": 12,
+      "complete": true,
+      "nonempty_synopses": 12
+    }
+  ]
+}

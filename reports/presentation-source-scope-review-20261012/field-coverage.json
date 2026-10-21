@@ -1,0 +1,29 @@
+{
+  "programs": 20,
+  "episodes": 341,
+  "program_fields": {
+    "program_id": 20,
+    "title": 20,
+    "content_type": 20,
+    "genre": 20,
+    "production_year": 20,
+    "channel": 20,
+    "directors": 20,
+    "writers": 0,
+    "cast": 20,
+    "synopsis": 20,
+    "keywords": 0,
+    "age_rating": 20,
+    "broadcast_start_date": 20,
+    "broadcast_end_date": 19,
+    "broadcast_schedule": 20
+  },
+  "episode_fields": {
+    "episode_id": 341,
+    "number": 341,
+    "title": 341,
+    "synopsis": 341,
+    "broadcast_date": 341,
+    "duration_seconds": 341
+  }
+}

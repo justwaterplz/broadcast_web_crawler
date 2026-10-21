@@ -1,0 +1,30 @@
+{
+  "title": "포핸즈",
+  "confirmed_same_program": true,
+  "sources": [
+    {
+      "source": "cjenm",
+      "source_url": "https://www.cjenm.com/ko/featured-contents/포핸즈/",
+      "collected_at": "2026-10-12T08:56:31.267717+09:00",
+      "acquisition_method": "saved_api_response_import",
+      "program_response_file": "../../reports/cjenm-api-verification/20261012_085630/program_minimal.json",
+      "characters_response_file": "../../reports/cjenm-api-verification/20261012_085630/characters_minimal.json"
+    },
+    {
+      "source": "tving",
+      "source_url": "https://www.tving.com/contents/P001790301",
+      "collected_at": "2026-10-07T12:09:08.251349+00:00",
+      "source_time_basis": "collection_run_started_at",
+      "acquisition_method": "saved_embedded_page_data_and_episode_api",
+      "content_file": "../../data/tving/20261007_210908_251349_드라마_전체/contents.json",
+      "program_id": "P001790301"
+    },
+    {
+      "source": "namuwiki",
+      "source_url": "https://namu.wiki/w/%ED%8F%AC%ED%95%B8%EC%A6%88",
+      "collected_at": "2026-10-08T15:12:59.005720+09:00",
+      "acquisition_method": "saved_wiki_infobox_and_selected_sections",
+      "content_file": "../../data/namuwiki/20261008_151253_308786_나무위키_TVING_20개작품/포핸즈_20261008/program.json"
+    }
+  ]
+}

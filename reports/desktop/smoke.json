@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "backend": "ok",
+  "savedCollections": 13,
+  "rendered": true,
+  "interactions": {
+    "cards": true,
+    "checkbox": true,
+    "tabs": true,
+    "report": true,
+    "sourceRouting": true,
+    "historyMenu": true,
+    "historyUndo": true,
+    "inventoryControls": true,
+    "monochromeTheme": true,
+    "directUrlReview": true
+  },
+  "screenshot": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\desktop\\studio.png"
+}

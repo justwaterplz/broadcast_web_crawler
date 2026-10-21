@@ -1,0 +1,226 @@
+{
+  "checked_at": "2026-10-14T09:41:57.474Z",
+  "method": "Direct anonymous HTTP requests, existing Python collector execution, inspection of public embedded JSON and client JavaScript; no browser network interception was executed",
+  "tving": {
+    "input_url": "https://www.tving.com/more/genre/PCA",
+    "unchanged_collector": {
+      "input_url": "https://www.tving.com/more/genre/PCA",
+      "details": [
+        {
+          "rank": 1,
+          "title": "로또 1등도 출근합니다\t\t\t\t",
+          "status": "error",
+          "error": "TVING API status 401; no usable episode list"
+        },
+        {
+          "rank": 21,
+          "title": "친애하는 X",
+          "status": "error",
+          "error": "TVING API status 401; no usable episode list"
+        }
+      ],
+      "listing": {
+        "source_url": "https://www.tving.com/more/genre/PCA",
+        "order": "hit",
+        "pages_read": 2,
+        "unique_count": 40,
+        "duplicate_items_count": 0,
+        "complete_listing": false,
+        "program_count": 21
+      }
+    },
+    "current_public_configuration": {
+      "old_extractor_returned_url_prefix": true,
+      "current_export": "q1",
+      "current_variable": "y",
+      "details": [
+        {
+          "rank": 1,
+          "program_code": "P001790587",
+          "title": "로또 1등도 출근합니다\t\t\t\t",
+          "http_status": 200,
+          "api_status": 200,
+          "episodes": 10,
+          "total_count": 10,
+          "complete": true,
+          "nonempty_synopses": 10
+        },
+        {
+          "rank": 21,
+          "program_code": "P001776344",
+          "title": "친애하는 X",
+          "http_status": 200,
+          "api_status": 200,
+          "episodes": 12,
+          "total_count": 12,
+          "complete": true,
+          "nonempty_synopses": 12
+        }
+      ]
+    },
+    "production_code_modified": false
+  },
+  "tvn": {
+    "filtered_url": "https://tvn.cjenm.com/ko/program/?14382=removeCacheYn%3DN%26repGenreCdList%3DALL%26sortType%3DMC010207%26pageNum%3D1%26searchTlviseStatCd%3DALL%26searchChnCd%3DMC010271",
+    "all_start_url": "https://tvn.cjenm.com/ko/program/?14382=removeCacheYn%3DN%26repGenreCdList%3DALL%26sortType%3DMC010207%26pageNum%3D1%26searchTlviseStatCd%3DALL%26searchChnCd%3DALL",
+    "static_html_ignores_page_and_filter": true,
+    "list_endpoint": "https://poc-cf-api.cjenm.com/apis/v1/tmplModul/14382",
+    "filters": {
+      "MC010271": "tvN DRAMA channel",
+      "ALL": "all channels",
+      "repGenreCdList": "ALL (not drama-only)"
+    },
+    "inventory": {
+      "pages_read": 33,
+      "reported_total": 778,
+      "collected_rows": 778,
+      "unique_program_ids": 778,
+      "duplicate_ids": 0,
+      "complete": true,
+      "with_detail_url": 778,
+      "errors": []
+    },
+    "tested_pages": [
+      {
+        "condition": "page1",
+        "page": 1,
+        "total": 778,
+        "pages": 33,
+        "count": 24,
+        "first_title": "뜨거운 안녕",
+        "last_title": "포핸즈"
+      },
+      {
+        "condition": "page2",
+        "page": 2,
+        "total": 778,
+        "pages": 33,
+        "count": 24,
+        "first_title": "최애의 사원",
+        "last_title": "평행이론"
+      },
+      {
+        "condition": "page21",
+        "page": 21,
+        "total": 778,
+        "pages": 33,
+        "count": 24,
+        "first_title": "한쌍",
+        "last_title": "숲속의 작은 집"
+      },
+      {
+        "condition": "filter-page1",
+        "page": 1,
+        "total": 15,
+        "pages": 1,
+        "count": 15,
+        "first_title": "이불쓰고 정주행",
+        "last_title": "Let 美人 5"
+      }
+    ],
+    "details": [
+      {
+        "sample": "223164",
+        "title": "나의 유죄인간",
+        "genre": "드라마",
+        "module_count": 8,
+        "module_names": [
+          "인물 소개",
+          "미리보기",
+          "현장포토",
+          "대표이미지 ",
+          "OST",
+          "최신 동영상"
+        ],
+        "has_program_intro": true,
+        "people_count": 4,
+        "preview_count": 1
+      },
+      {
+        "sample": "269073",
+        "title": "뜨거운 안녕",
+        "genre": "드라마",
+        "module_count": 5,
+        "module_names": [
+          "현장포토",
+          "대표이미지 ",
+          "최신 동영상"
+        ],
+        "has_program_intro": false,
+        "people_count": 0,
+        "preview_count": 0
+      },
+      {
+        "sample": "tvn-detail-page21-21270.html",
+        "title": "한쌍",
+        "genre": "예능",
+        "module_count": 4,
+        "module_names": [
+          "최신 동영상",
+          "최신 콘텐츠"
+        ],
+        "has_program_intro": true,
+        "people_count": 0,
+        "preview_count": 0
+      },
+      {
+        "sample": "tvn-detail-page21-21304.html",
+        "title": "외계통신",
+        "genre": "교양",
+        "module_count": 5,
+        "module_names": [
+          "최신 동영상",
+          "최신 콘텐츠",
+          "인물 소개"
+        ],
+        "has_program_intro": true,
+        "people_count": 5,
+        "preview_count": 0
+      }
+    ],
+    "api_modules": [
+      {
+        "module": 27919,
+        "name": "header",
+        "result_code": "0000",
+        "keys": [
+          "pgmNm",
+          "bdTm",
+          "scheInfo",
+          "snsInfoList",
+          "plnngIntentInfo",
+          "plnngIntentDtlPopupInfo",
+          "replayIngo",
+          "scheAlarmInfo",
+          "newestClipInfo"
+        ]
+      },
+      {
+        "module": 27921,
+        "name": "people",
+        "result_code": "0000",
+        "keys": [
+          "pgmPrsnIntrcnSeq",
+          "pgmSeq",
+          "pgmId",
+          "pgmNm",
+          "prsnRelDgrBtnDispYn",
+          "simplPrsnLeftSortYn",
+          "pgmPrsnRelImgInfo",
+          "simplePrsnInfoList",
+          "detailPrsnInfoList"
+        ]
+      },
+      {
+        "module": 27923,
+        "name": "preview",
+        "result_code": "0000",
+        "keys": [
+          "dtlLayerSjCnts",
+          "previewInfoList"
+        ]
+      }
+    ],
+    "existing_app_support": false
+  }
+}

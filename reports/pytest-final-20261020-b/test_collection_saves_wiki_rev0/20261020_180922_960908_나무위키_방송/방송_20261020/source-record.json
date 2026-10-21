@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "record_id": "namuwiki:0c0241e60b164cee8f4f6198",
+  "source": "namuwiki",
+  "source_url": "https://namu.wiki/w/방송",
+  "collected_at": "2026-10-12T12:00:00+09:00",
+  "acquisition_method": "wiki_infobox_and_selected_sections",
+  "content_sha256": "8cfb0521c2fb2d9c33ce546fd06d880d505ae94975fba9c6cdaa937223737867",
+  "content": {
+    "program_id": null,
+    "title": "방송",
+    "content_type": "TV쇼",
+    "genre": "예능, 쿡방",
+    "production_year": null,
+    "channel": "JTBC",
+    "directors": [
+      "감독1",
+      "감독2"
+    ],
+    "writers": [
+      "작가1",
+      "작가2"
+    ],
+    "cast": null,
+    "synopsis": "프로그램 소개 내용.",
+    "keywords": null,
+    "age_rating": null,
+    "broadcast_start_date": "2014-11-17",
+    "broadcast_end_date": "2019-11-25",
+    "broadcast_schedule": null,
+    "episodes": [],
+    "production_company": null,
+    "hosts": null,
+    "episode_count": 254,
+    "content_sections": {
+      "개요": "프로그램 소개 내용."
+    },
+    "cast_reference": "셰프 군단 문서 참조",
+    "related_documents": [],
+    "official_links": []
+  },
+  "field_provenance": {
+    "title": {
+      "source_url": "https://namu.wiki/w/방송",
+      "collected_at": "2026-10-12T12:00:00+09:00",
+      "extraction_path": null,
+      "review_status": "unreviewed"
+    },
+    "content_type": {
+      "source_url": "https://namu.wiki/w/방송",
+      "collected_at": "2026-10-12T12:00:00+09:00",
+      "extraction_path": null,
+      "review_status": "unreviewed"
+    },
+    "genre": {
+      "source_url": "https://namu.wiki/w/방송",
+      "collected_at": "2026-10-12T12:00:00+09:00",
+      "extraction_path": "infobox.장르",
+      "review_status": "unreviewed"
+    },
+    "channel": {
+      "source_url": "https://namu.wiki/w/방송",
+      "collected_at": "2026-10-12T12:00:00+09:00",
+      "extraction_path": "infobox.채널",
+      "review_status": "unreviewed"
+    },
+    "directors": {
+      "source_url": "https://namu.wiki/w/방송",
+      "collected_at": "2026-10-12T12:00:00+09:00",
+      "extraction_path": "infobox.연출",
+      "review_status": "unreviewed"
+    },
+    "writers": {
+      "source_url": "https://namu.wiki/w/방송",
+      "collected_at": "2026-10-12T12:00:00+09:00",
+      "extraction_path": "infobox.극본/작가",
+      "review_status": "unreviewed"
+    },
+    "synopsis": {
+      "source_url": "https://namu.wiki/w/방송",
+      "collected_at": "2026-10-12T12:00:00+09:00",
+      "extraction_path": null,
+      "review_status": "unreviewed"
+    },
+    "broadcast_start_date": {
+      "source_url": "https://namu.wiki/w/방송",
+      "collected_at": "2026-10-12T12:00:00+09:00",
+      "extraction_path": "infobox.방송 기간/공개 기간/공개일",
+      "review_status": "unreviewed"
+    },
+    "broadcast_end_date": {
+      "source_url": "https://namu.wiki/w/방송",
+      "collected_at": "2026-10-12T12:00:00+09:00",
+      "extraction_path": "infobox.방송 기간/공개 기간/공개일",
+      "review_status": "unreviewed"
+    },
+    "episode_count": {
+      "source_url": "https://namu.wiki/w/방송",
+      "collected_at": "2026-10-12T12:00:00+09:00",
+      "extraction_path": "infobox.방송 횟수/공개 회차",
+      "review_status": "unreviewed"
+    },
+    "content_sections": {
+      "source_url": "https://namu.wiki/w/방송",
+      "collected_at": "2026-10-12T12:00:00+09:00",
+      "extraction_path": null,
+      "review_status": "unreviewed"
+    },
+    "cast_reference": {
+      "source_url": "https://namu.wiki/w/방송",
+      "collected_at": "2026-10-12T12:00:00+09:00",
+      "extraction_path": null,
+      "review_status": "unreviewed"
+    }
+  },
+  "evidence": {
+    "infobox_fields": {
+      "장르": "예능, 쿡방",
+      "채널": "JTBC",
+      "방송 기간": "2014년 11월 17일 ~ 2019년 11월 25일",
+      "방송 횟수": "254부작",
+      "제작진": "연출 : 감독1, 감독2 조연출 : 보조 작가 : 작가1, 작가2",
+      "출연": "셰프 군단 문서 참조"
+    },
+    "content_sections": {
+      "개요": "프로그램 소개 내용."
+    },
+    "related_documents_checked": false
+  },
+  "review": {
+    "status": "pending",
+    "flags": [
+      {
+        "code": "community_edited",
+        "field": "*",
+        "reason": "공동 편집 문서: 공식 출처 대조와 사실·평가 구분이 필요합니다."
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "format": "cjenm-source-bundle",
+  "schema_version": 1,
+  "programResponse": {
+    "resultCd": "0000",
+    "result": {
+      "data": {
+        "pgmSeq": 123,
+        "pgmNm": "작품",
+        "unknown": [
+          false,
+          null,
+          0,
+          "001"
+        ],
+        "image": "poster.jpg"
+      }
+    }
+  },
+  "collection": {
+    "source_url": "https://www.cjenm.com/ko/featured-contents/작품/",
+    "collected_at": "2026-10-20T17:54:36.447040+09:00",
+    "acquisition_method": "user_saved_responses",
+    "status": "imported",
+    "network_requests": 0,
+    "target_review": {
+      "url": "https://www.cjenm.com/ko/featured-contents/작품/",
+      "kind": "cjenm_detail",
+      "site": "CJ ENM",
+      "status": "ready",
+      "title": "작품",
+      "program_id": "123",
+      "scope": "사용자가 저장한 응답",
+      "source_binding": "requires_user_confirmation",
+      "checked_at": "2026-10-20T17:54:36.444605+09:00",
+      "confirmed_target": true,
+      "confirmed_at": "2026-10-20T17:54:36.446998+09:00"
+    },
+    "source_binding": "user_confirmed",
+    "confirmed_target": true
+  },
+  "charactersResponse": {
+    "resultCd": "0000",
+    "result": {
+      "data": {
+        "pgmSeq": 123,
+        "detailPrsnInfoList": [],
+        "original": "<p>설명</p>"
+      }
+    }
+  }
+}

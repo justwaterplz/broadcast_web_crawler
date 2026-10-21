@@ -1,0 +1,14 @@
+[
+  {
+    "file": "tvn-header-api.json",
+    "url": "https://poc-cf-api.cjenm.com/apis/v1/tmplModul/27919?removeCacheYn=N"
+  },
+  {
+    "file": "tvn-people-api.json",
+    "url": "https://poc-cf-api.cjenm.com/apis/v1/tmplModul/27921?removeCacheYn=N"
+  },
+  {
+    "file": "tvn-preview-api.json",
+    "url": "https://poc-cf-api.cjenm.com/apis/v1/tmplModul/27923?removeCacheYn=N"
+  }
+]

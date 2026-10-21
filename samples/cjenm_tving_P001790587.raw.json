@@ -1,0 +1,375 @@
+{
+  "format": "broadcast_metadata_census",
+  "format_version": "0.1.0",
+  "collected_at": "2026-10-05T18:32:00+09:00",
+  "collection_scope": {
+    "program": "로또 1등도 출근합니다",
+    "content_metadata_only": true,
+    "images_excluded": true,
+    "video_streams_excluded": true,
+    "site_navigation_excluded": true,
+    "inference_allowed": false
+  },
+  "source_records": [
+    {
+      "source": "CJ_ENM",
+      "source_url": "https://www.cjenm.com/ko/featured-contents/%EB%A1%9C%EB%98%90-1%EB%93%B1%EB%8F%84-%EC%B6%9C%EA%B7%BC%ED%95%A9%EB%8B%88%EB%8B%A4/",
+      "access": {
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "extraction_channels": [
+          "rendered_dom",
+          "json_ld",
+          "meta"
+        ]
+      },
+      "page": {
+        "title": "로또 1등도 출근합니다 | 드라마 | CJ ENM",
+        "meta_description": "CJ ENM 드라마 로또 1등도 출근합니다 관련 정보를 확인하세요.",
+        "og_title": "로또 1등도 출근합니다 | 드라마 | CJ ENM",
+        "og_description": "CJ ENM 드라마 로또 1등도 출근합니다 관련 정보를 확인하세요."
+      },
+      "json_ld_tv_series": {
+        "@context": "https://schema.org",
+        "@type": "TVSeries",
+        "name": "로또 1등도 출근합니다",
+        "dateCreated": "2026-09-10",
+        "actor": [
+          {
+            "@type": "Person",
+            "name": "이준혁"
+          },
+          {
+            "@type": "Person",
+            "name": "서현우"
+          },
+          {
+            "@type": "Person",
+            "name": "오대환"
+          }
+        ],
+        "description": "선배는 물론 후배들한테까지 위, 아래로 치이며 하루하루를 버티는 팀장 ‘공은태’. 어느 날 우연히 구매한 로또가 1등에 당첨되고, 늘 참고 살던 회사 생활에 큰 변화가 온다. 당첨금 13억을 품고 반전은 없어도 발전은 있을 월요일을 맞이한다. 로또 1등에 당첨된 후 사직서 대신 당첨금을 품고 출근하는 K-직장인 오피스 드라마.",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "윤영빈"
+          }
+        ],
+        "director": [
+          {
+            "@type": "Person",
+            "name": "윤영빈"
+          }
+        ]
+      },
+      "visible_fields": {
+        "title": "로또 1등도 출근합니다",
+        "category_labels": [
+          "드라마",
+          "드라마",
+          "tvN"
+        ],
+        "introduction": "선배는 물론 후배들한테까지 위, 아래로 치이며 하루하루를 버티는 팀장 ‘공은태’. 어느 날 우연히 구매한 로또가 1등에 당첨되고, 늘 참고 살던 회사 생활에 큰 변화가 온다. 당첨금 13억을 품고 반전은 없어도 발전은 있을 월요일을 맞이한다. 로또 1등에 당첨된 후 사직서 대신 당첨금을 품고 출근하는 K-직장인 오피스 드라마.",
+        "genre": "드라마",
+        "broadcast_period_text": "2026.09.10 ~ 2026.10.08",
+        "director_text": "윤영빈",
+        "writer_text": "윤영빈",
+        "cast_text": "이준혁, 서현우, 오대환"
+      },
+      "characters": [
+        {
+          "character_name": "공은태",
+          "actor_name": "이준혁",
+          "description": "영업5팀 팀장이자 영업사원. 성실하게 하루하루를 버티던 중 로또 1등에 당첨되고 당첨금 13억이라는 인생 대박을 맞이한다. 하지만 사직서 대신 변화된 마음가짐으로 다시 출근한다."
+        },
+        {
+          "character_name": "양준호",
+          "actor_name": "서현우",
+          "description": "능력도 좋고 싹싹한 성격으로 인기가 많지만 승진 운이 따라주지 않아 만년 대리이다. 자신보다 먼저 승진한 ‘공은태’에게 열등감을 가지고 있지만, 팀이 잘 되기를 바라는 마음은 누구보다 크다."
+        }
+      ]
+    },
+    {
+      "source": "TVING",
+      "source_url": "https://www.tving.com/contents/P001790587",
+      "access": {
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "robots_rule": {
+          "user_agent": "*",
+          "allow": [
+            "/"
+          ],
+          "disallow": [
+            "/service/"
+          ]
+        },
+        "extraction_channels": [
+          "rendered_dom",
+          "json_ld",
+          "__NEXT_DATA__",
+          "meta"
+        ]
+      },
+      "page": {
+        "title": "로또 1등도 출근합니다 1화 | TVING",
+        "meta_description": "위아래로 치이며 하루하루를 버티던 팀장 '공은태'가 로또 1등에 당첨된 후 사직서 대신 당첨금 13억을 품고 이전과는 다른 마음가짐으로 출근하는 K-직장인 오피스 드라마",
+        "og_title": "로또 1등도 출근합니다 1화 | TVING",
+        "og_description": "위아래로 치이며 하루하루를 버티던 팀장 '공은태'가 로또 1등에 당첨된 후 사직서 대신 당첨금 13억을 품고 이전과는 다른 마음가짐으로 출근하는 K-직장인 오피스 드라마",
+        "og_type": "website",
+        "og_site_name": "TVING"
+      },
+      "json_ld_tv_series": {
+        "@context": "https://schema.org",
+        "@type": "TVSeries",
+        "url": "https://www.tving.com/contents/P001790587",
+        "contentRating": "15",
+        "name": "로또 1등도 출근합니다 1화",
+        "description": "위아래로 치이며 하루하루를 버티던 팀장 '공은태'가 로또 1등에 당첨된 후 사직서 대신 당첨금 13억을 품고 이전과는 다른 마음가짐으로 출근하는 K-직장인 오피스 드라마",
+        "genre": "드라마",
+        "dateCreated": "2026-09-10",
+        "actors": [
+          {
+            "@type": "Person",
+            "name": "이준혁"
+          },
+          {
+            "@type": "Person",
+            "name": "서현우"
+          },
+          {
+            "@type": "Person",
+            "name": "오대환"
+          },
+          {
+            "@type": "Person",
+            "name": "이현균"
+          },
+          {
+            "@type": "Person",
+            "name": "옥자연"
+          }
+        ],
+        "creator": [
+          {
+            "@type": "Person",
+            "name": "윤영빈"
+          }
+        ],
+        "productionCompany": {
+          "@type": "Organization",
+          "name": "TVING",
+          "url": "https://www.tving.com"
+        },
+        "numberOfSeasons": "0",
+        "startDate": "2026-09-10"
+      },
+      "next_data_content_info": {
+        "code": "E004615359",
+        "vod_type": "CSMD0100",
+        "frequency": 1,
+        "duration": 2842,
+        "ending_credit_sec": 2785,
+        "grade_code": "CMMG0300",
+        "episode_grade_code": "CMMG0300",
+        "title": "로또 1등도 출근합니다",
+        "channel": "TVING",
+        "channel_code": "C50241",
+        "director": [
+          "윤영빈"
+        ],
+        "actor": [
+          "이준혁",
+          "서현우",
+          "오대환",
+          "이현균",
+          "옥자연"
+        ],
+        "script": null,
+        "keywords": null,
+        "synopsis": "위아래로 치이며 하루하루를 버티던 팀장 '공은태'가 로또 1등에 당첨된 후 사직서 대신 당첨금 13억을 품고 이전과는 다른 마음가짐으로 출근하는 K-직장인 오피스 드라마",
+        "episode_broad_dt": "20260910",
+        "episode_title": "1. 참는 자에게 복이 있나니",
+        "episode_synopsis": "어제와 같았고, 내일과도 같을 오늘을 살아가는 은태. 맥주를 사러 들렸던 편의점에서 얼떨결에 로또를 사게 된다",
+        "broad_state": "CPBS0200",
+        "broad_end_dt": "20261008",
+        "broad_dt": "20260910",
+        "broad_week": "목",
+        "broad_hour": "18",
+        "broad_minu": "00",
+        "product_year": 2026,
+        "release_date": 0,
+        "episode_sort": 1,
+        "season_no": "0",
+        "season_code": "T100009261",
+        "category_code": "PCA",
+        "category_name": "드라마",
+        "genre_code": "PCA040",
+        "genre_name": "오피스 드라마",
+        "program_code": "P001790587",
+        "insert_date": 20260818161635,
+        "display_title": "1. 참는 자에게 복이 있나니",
+        "hdr_type": "",
+        "audio_type": "",
+        "drm_yn": "Y",
+        "fan_yn": "N",
+        "tving_exclusive_yn": "N",
+        "tving_original_yn": "Y",
+        "paramount_yn": "N",
+        "apple_yn": "N",
+        "quickup_yn": "N",
+        "uhd_4k_yn": "N",
+        "subtitle_ver_yn": "N",
+        "dub_ver_yn": "N",
+        "event_yn": "N",
+        "cine_same_yn": "N",
+        "first_open_yn": "N",
+        "ko_cc_yn": "Y",
+        "free_yn": "Y",
+        "partial_free_yn": "Y",
+        "total_free_yn": "N",
+        "view_permission_code": "GUEST",
+        "sale_status": 1650
+      },
+      "visible_program_fields": {
+        "page_heading": "로또 1등도 출근합니다 1화",
+        "schedule_text": "목 오후6:00",
+        "genre_text": "드라마",
+        "channel_text": "TVING",
+        "season_text": "시즌 1개",
+        "accessibility_labels": [
+          "해설",
+          "자막"
+        ],
+        "creator_text": "윤영빈",
+        "cast_text": "이준혁, 서현우, 오대환, 이현균, 옥자연",
+        "episode_count_text": "총 8화"
+      },
+      "episodes": [
+        {
+          "episode_number": 1,
+          "title": "참는 자에게 복이 있나니",
+          "synopsis": "어제와 같았고, 내일과도 같을 오늘을 살아가는 은태. 맥주를 사러 들렸던 편의점에서 얼떨결에 로또를 사게 된다",
+          "broadcast_date_text": "2026.09.10",
+          "duration_text": "47분",
+          "content_code": "E004615359",
+          "duration_seconds": 2842
+        },
+        {
+          "episode_number": 2,
+          "title": "8,145,060분의 1",
+          "synopsis": "당첨금을 찾느라 처음으로 늦은 출근을 하는 은태. 모두가 일하는 그 시각, 사무실에는 5팀의 자리만 비어있다",
+          "broadcast_date_text": "2026.09.10",
+          "duration_text": "50분"
+        },
+        {
+          "episode_number": 3,
+          "title": "내가 믿는 것",
+          "synopsis": "라크네스 회의 준비로 분주한 5팀. 은태는 회사가 짜놓은 판을 흔들고, 자신이 준비한 카드를 꺼낸다",
+          "broadcast_date_text": "2026.09.17",
+          "duration_text": "44분"
+        },
+        {
+          "episode_number": 4,
+          "title": "서로의 원인, 서로의 결과",
+          "synopsis": "기태의 이직 소식을 들은 은태, 그 놀람도 잠시 홍성의 적이 되려하는 정선혁 팀장과 마주하게 된다",
+          "broadcast_date_text": "2026.09.17",
+          "duration_text": "51분"
+        },
+        {
+          "episode_number": 5,
+          "title": "아무도 진심을 말하지 못할 때",
+          "synopsis": "은태는 정선혁을 막기위해 만토바로 향하고 스폰짜에게 솔깃한 제안을 하지만 예상치 못한 반대에 부딪친다",
+          "broadcast_date_text": "2026.09.24",
+          "duration_text": "47분"
+        },
+        {
+          "episode_number": 6,
+          "title": "문제를 인식하는 문제",
+          "synopsis": "엄청난 물량을 떠안게 된 5팀. 은태는 라크네스 모델 유지현을 찾아가 이혼 법정에 서 줄것을 부탁한다",
+          "broadcast_date_text": "2026.09.24",
+          "duration_text": "45분"
+        },
+        {
+          "episode_number": 7,
+          "title": "아무것도 바뀐 게 없다",
+          "synopsis": "내부감사를 성공적으로 끝낸 은태, 그 과정에서 의도치 않게 여러 사람에게 상처를 준다. 도망치듯 고향으로 향하는 은태",
+          "broadcast_date_text": "2026.10.01",
+          "duration_text": "46분"
+        },
+        {
+          "episode_number": 8,
+          "title": "위선이 만드는 세상",
+          "synopsis": "CGM의 한국 진출로 업체들은 홍성에 재계약을 요구하고, 홍성이 거절한다면 위약금을 내고 계약 해지를 하겠다고 한다",
+          "broadcast_date_text": "2026.10.01",
+          "duration_text": "46분"
+        }
+      ],
+      "related_clips": [
+        {
+          "code": "RVA0002376",
+          "title": "[메인 예고] 로또 1등도 출근합니다",
+          "duration_seconds": 89,
+          "grade_code": "CPTG0100",
+          "synopsis": "[메인 예고] 로또 1등도 출근합니다",
+          "insert_date": 20260826104705,
+          "update_date": 20260826110911
+        },
+        {
+          "code": "RVA0002367",
+          "title": "[티저 예고] 로또 1등도 출근합니다",
+          "duration_seconds": 59,
+          "grade_code": "CPTG0100",
+          "synopsis": "",
+          "insert_date": 20260811153823,
+          "update_date": 20260826110911
+        },
+        {
+          "code": "RVA0002416",
+          "title": "[하이라이트] 로또 1등도 출근합니다",
+          "duration_seconds": 184,
+          "grade_code": "CPTG0100",
+          "synopsis": "",
+          "insert_date": 20260907182204,
+          "update_date": 20260908120004
+        },
+        {
+          "code": "RVA0002534",
+          "title": "[코멘터리 영상] 로또 1등도 출근합니다",
+          "duration_seconds": 4603,
+          "grade_code": "CPTG0100",
+          "synopsis": "",
+          "insert_date": 20260929175345,
+          "update_date": 20260929190323
+        }
+      ]
+    }
+  ],
+  "unresolved_observations": [
+    {
+      "field": "cast_roles",
+      "observation": "오대환, 이현균, 옥자연의 배역은 두 출처에서 확인되지 않음",
+      "action": "추정하지 않고 null로 유지"
+    },
+    {
+      "field": "cast",
+      "observation": "CJ ENM은 3명, TVING은 5명을 제공",
+      "action": "출처별 원본 배열을 각각 보존"
+    },
+    {
+      "field": "season_count",
+      "observation": "화면에는 '시즌 1개', JSON-LD numberOfSeasons와 내부 season_no는 '0'",
+      "action": "표시값과 내부값을 별도 보존"
+    },
+    {
+      "field": "broadcast_end",
+      "observation": "방영 종료일은 2026-10-08이나 현재 공개 회차 목록의 마지막 날짜는 2026-10-01",
+      "action": "프로그램 기간과 회차 공개일을 별도 보존"
+    },
+    {
+      "field": "production_company",
+      "observation": "TVING JSON-LD는 productionCompany를 TVING으로 표시하지만 실제 외주 제작사 정보는 확인되지 않음",
+      "action": "TVING의 공식 표기만 보존하고 실제 제작사로 확대 해석하지 않음"
+    }
+  ]
+}

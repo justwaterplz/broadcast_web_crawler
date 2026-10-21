@@ -1,0 +1,481 @@
+{
+  "format": "cjenm-source-bundle",
+  "schema_version": 1,
+  "programResponse": {
+    "resultCd": "0000",
+    "resultMsg": "성공",
+    "result": {
+      "data": {
+        "pgmSeq": 220264,
+        "pgmId": "B120266117",
+        "pgmNm": "포핸즈",
+        "repGenreCd": "MC010229",
+        "repGenreNm": "드라마",
+        "ptclrGenreInfo": "드라마",
+        "allEpino": "12",
+        "pgmReplayNm": "TVING 바로가기",
+        "pgmReplayUrlAddr": "https://www.tving.com/contents/P001790301",
+        "dtlBgImgFilePathAddr": null,
+        "pgmDescp": "음악 천재들이 모인 한국예술고등학교에서 늘 1등을 놓치지 않는 완벽주의자 ‘강비오’. 타고난 재능에 더해 하루 연습 10시간을 채우는 노력파 천재로 반 친구들의 질투 어린 시선을 받지만 개의치 않는다. 그러던 그에게 어릴 적 딱 한 번 자신을 이긴 천재 소년 ‘최정요’가 나타난다. 불우한 환경 탓에 재능을 외면해 온 ‘최정요’는 ‘강비오’와 마주하며 피아노에 대한 열정을 다시 깨우기 시작한다. 음악 천재들만 모인 예술고등학교에서 만난 청춘들의 우정과 사랑, 경쟁과 성장을 그리는 드라마.",
+        "dlbrtGrd": "15세 이상",
+        "dlbrtGrdSiteDispYn": "N",
+        "bdStrDt": 1787929200000,
+        "bdEndDt": 1791039600000,
+        "bdStrTm": "0000",
+        "pdNm": "박현석",
+        "cpNm": "",
+        "orgbcRendYn": "방송종료",
+        "dirctNm": "",
+        "writrNm": "신이원",
+        "playrsNm": "송강, 이준영, 장규리, 정진영",
+        "mkComNm": "",
+        "spagdCnts": "",
+        "prfplcNm": "",
+        "frontListUrlAddr": "featured-contents/",
+        "snsInfoList": [],
+        "chnInfoList": [
+          {
+            "arrayId": 289568,
+            "chnCd": "MC010268",
+            "chnNm": "tvN"
+          }
+        ],
+        "repImgList": [
+          {
+            "arrayId": "21301",
+            "pgmFileSeq": 21301,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailposterfourhandstwosonatas01.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 포스터",
+            "pcImgWdhSize": 648,
+            "pcImgHgtSize": 933,
+            "mobImgWdhSize": 520,
+            "mobImgHgtSize": 748,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 1
+          }
+        ],
+        "photoImgList": [
+          {
+            "arrayId": "21302",
+            "pgmFileSeq": 21302,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas01.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 송강",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 1
+          },
+          {
+            "arrayId": "21303",
+            "pgmFileSeq": 21303,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas02.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 이준영",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 2
+          },
+          {
+            "arrayId": "21304",
+            "pgmFileSeq": 21304,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas03.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 송강 이준영",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 3
+          },
+          {
+            "arrayId": "21305",
+            "pgmFileSeq": 21305,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas04.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 장규리",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 4
+          },
+          {
+            "arrayId": "21306",
+            "pgmFileSeq": 21306,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas05.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 송강",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 5
+          },
+          {
+            "arrayId": "21307",
+            "pgmFileSeq": 21307,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas06.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 이준영",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 6
+          },
+          {
+            "arrayId": "21308",
+            "pgmFileSeq": 21308,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas07.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 이준영 송강",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 7
+          },
+          {
+            "arrayId": "21309",
+            "pgmFileSeq": 21309,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas08.jpg?v=1790838361",
+            "photoImgAltTextCnts": "",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 8
+          },
+          {
+            "arrayId": "21310",
+            "pgmFileSeq": 21310,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas09.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 이준영",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 9
+          },
+          {
+            "arrayId": "21311",
+            "pgmFileSeq": 21311,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas10.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 송강",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 10
+          },
+          {
+            "arrayId": "21312",
+            "pgmFileSeq": 21312,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas11.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 장규리",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 11
+          },
+          {
+            "arrayId": "21313",
+            "pgmFileSeq": 21313,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas12.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 이준영",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 12
+          },
+          {
+            "arrayId": "21314",
+            "pgmFileSeq": 21314,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas13.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 송강",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 13
+          },
+          {
+            "arrayId": "21315",
+            "pgmFileSeq": 21315,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas14.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 이준영",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 14
+          },
+          {
+            "arrayId": "21316",
+            "pgmFileSeq": 21316,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas15.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 장규리",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 15
+          },
+          {
+            "arrayId": "21317",
+            "pgmFileSeq": 21317,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas16.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 송강",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 16
+          },
+          {
+            "arrayId": "21318",
+            "pgmFileSeq": 21318,
+            "photoImgFilePathAddr": "/share/metamng/programs/contentsdetailimagefourhandstwosonatas17.jpg?v=1790838361",
+            "photoImgAltTextCnts": "CJ ENM 드라마 포핸즈 송강",
+            "pcImgWdhSize": 1344,
+            "pcImgHgtSize": 756,
+            "mobImgWdhSize": 1344,
+            "mobImgHgtSize": 756,
+            "previewPcImgWdhSize": null,
+            "previewPcImgHgtSize": null,
+            "previewMobImgWdhSize": null,
+            "previewMobImgHgtSize": null,
+            "sortSseq": 17
+          }
+        ],
+        "videoList": [],
+        "relatedPutupList": null,
+        "relatedContentsList": null,
+        "prodImgList": [],
+        "pgmTpCd": "MC010517",
+        "cntntsTpCd": "MC020401",
+        "mainCntntsSumryDescp": null,
+        "runtime": 0,
+        "rlPutupSntencStatCd": "MC010164",
+        "rlContsStatCd": "MC010164",
+        "wrtmcusrNm": "",
+        "wrtsongusrNm": "",
+        "logLineCnts": "",
+        "onslfLangCdNmList": [],
+        "prevewDataYn": "N",
+        "ostDataYn": "N",
+        "prsnDataYn": "Y",
+        "bdTmCnts": "",
+        "bdWkday": ""
+      },
+      "seoData": {
+        "type": "TVSeries",
+        "name": "포핸즈",
+        "image": [
+          "/share/metamng/programs/contentsdetailposterfourhandstwosonatas01.jpg?v=1790838361"
+        ],
+        "dateCreated": 1787929200000,
+        "actor": [
+          {
+            "name": "송강"
+          },
+          {
+            "name": " 이준영"
+          },
+          {
+            "name": " 장규리"
+          },
+          {
+            "name": " 정진영"
+          }
+        ],
+        "description": "음악 천재들이 모인 한국예술고등학교에서 늘 1등을 놓치지 않는 완벽주의자 ‘강비오’. 타고난 재능에 더해 하루 연습 10시간을 채우는 노력파 천재로 반 친구들의 질투 어린 시선을 받지만 개의치 않는다. 그러던 그에게 어릴 적 딱 한 번 자신을 이긴 천재 소년 ‘최정요’가 나타난다. 불우한 환경 탓에 재능을 외면해 온 ‘최정요’는 ‘강비오’와 마주하며 피아노에 대한 열정을 다시 깨우기 시작한다. 음악 천재들만 모인 예술고등학교에서 만난 청춘들의 우정과 사랑, 경쟁과 성장을 그리는 드라마.",
+        "director": [
+          {
+            "name": "박현석"
+          }
+        ],
+        "author": [
+          {
+            "name": "신이원"
+          }
+        ],
+        "meta": {
+          "title": "포핸즈 | 드라마 | CJ ENM",
+          "description": "CJ ENM 드라마 포핸즈 관련 정보를 확인하세요."
+        },
+        "og": {
+          "title": "포핸즈 | 드라마 | CJ ENM",
+          "description": "CJ ENM 드라마 포핸즈 관련 정보를 확인하세요."
+        }
+      }
+    }
+  },
+  "collection": {
+    "source_url": "https://www.cjenm.com/ko/featured-contents/포핸즈/",
+    "collected_at": "2026-10-20T18:09:42.998377+09:00",
+    "acquisition_method": "user_saved_responses",
+    "status": "imported",
+    "network_requests": 0,
+    "target_review": {
+      "url": "https://www.cjenm.com/ko/featured-contents/포핸즈/",
+      "kind": "cjenm_detail",
+      "site": "CJ ENM",
+      "status": "ready",
+      "title": "포핸즈",
+      "program_id": "220264",
+      "scope": "사용자가 저장한 응답",
+      "source_binding": "requires_user_confirmation",
+      "checked_at": "2026-10-20T18:09:42.995994+09:00",
+      "confirmed_target": true,
+      "confirmed_at": "2026-10-20T18:09:42.998359+09:00"
+    },
+    "imported_at": "2026-10-20T18:09:42.998377+09:00",
+    "source_capture_time": null,
+    "source_binding": "user_confirmed",
+    "confirmed_target": true
+  },
+  "charactersResponse": {
+    "resultCd": "0000",
+    "resultMsg": "성공",
+    "result": {
+      "data": {
+        "pgmPrsnRelImgInfo": null,
+        "simplePrsnInfoList": [
+          {
+            "arrayId": 18543,
+            "pgmPrsnGropSeq": 4073,
+            "pgmPrsnSeq": 18543,
+            "prsnNm": "강비오 (송강)",
+            "prsnImgFilePathAddr": null,
+            "prsnImgAltTextCnts": null,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "sortSseq": 1
+          },
+          {
+            "arrayId": 18544,
+            "pgmPrsnGropSeq": 4073,
+            "pgmPrsnSeq": 18544,
+            "prsnNm": "최정요 (이준영)",
+            "prsnImgFilePathAddr": null,
+            "prsnImgAltTextCnts": null,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "sortSseq": 2
+          }
+        ],
+        "detailPrsnInfoList": [
+          {
+            "arrayId": 4073,
+            "pgmPrsnGropSeq": 4073,
+            "prsnGropNm": "Character",
+            "sortSseq": 1,
+            "pgmPrsnIntrcnInfoList": [
+              {
+                "arrayId": 18543,
+                "pgmPrsnSeq": 18543,
+                "prsnMarkTpCd": "MC020820",
+                "prsnNm": "강비오 (송강)",
+                "adiDescpCnts": "",
+                "dtlDescpCnts": "어릴 때부터 영재 아카데미를 휩쓸고 늘 1등을 놓치지 않으며 살았다. 타고난 재능에 더해 하루 10시간을 채우는 노력파, 세계 3대 콩쿠르에서 입상할 미래주자라는 수식어가 따라다니는 것이 익숙해진 천재. 그런 그에게 어릴 적 딱 한 번 자신을 이긴 천재 소년이 나타나고, 지금껏 피나는 노력으로 지켜온 자리를 뺏길까 전전긍긍하게 된다.",
+                "prsnImgFilePathAddr": null,
+                "prsnImgAltTextCnts": null,
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 1
+              },
+              {
+                "arrayId": 18544,
+                "pgmPrsnSeq": 18544,
+                "prsnMarkTpCd": "MC020820",
+                "prsnNm": "최정요 (이준영)",
+                "adiDescpCnts": "",
+                "dtlDescpCnts": "어느 날 학교 선생님의 강요에 못 이겨 피아노 공연을 보게 되고, 옛 기억이 떠오르며 미묘한 감정에 젖는다. 그렇게 단 한 번도 탐내보지 못했던 무대에 대한 열정이 조금씩 피어오르고 결국 천재들만 모여있다는 한국예고 1학년 음악반에 전학하게 된다. 한국예고와 어울리지 않는 차림에 아이들은 수근 거리지만, 그런 그의 삶으로 결코 잊을 수 없는 운명적 우정이 다가온다.",
+                "prsnImgFilePathAddr": null,
+                "prsnImgAltTextCnts": null,
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 2
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

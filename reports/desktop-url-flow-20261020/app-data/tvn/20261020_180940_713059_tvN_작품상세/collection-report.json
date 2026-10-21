@@ -1,0 +1,47 @@
+{
+  "source_url": "https://tvn.cjenm.com/ko/Four-Hands-Two-Sonatas/",
+  "started_at": "2026-10-20T18:09:40.713059+09:00",
+  "output_dir": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\desktop-url-flow-20261020\\app-data\\tvn\\20261020_180940_713059_tvN_작품상세",
+  "scope": {
+    "channel_tab": "작품상세",
+    "start_rank": 1,
+    "limit": 20,
+    "max_pages": 500
+  },
+  "listing": {},
+  "programs": [
+    {
+      "rank": 1,
+      "title": "Four-Hands-Two-Sonatas",
+      "url": "https://tvn.cjenm.com/ko/Four-Hands-Two-Sonatas/",
+      "status": "success",
+      "metadata_file": "Four-Hands-Two-Sonatas_20261020/metadata.json",
+      "preview_count": 12,
+      "complete_preview_listing": true,
+      "warning": null
+    }
+  ],
+  "summary": {
+    "requested_programs": 1,
+    "processed_programs": 1,
+    "successful_programs": 1,
+    "failed_programs": 0,
+    "collected_previews": 12
+  },
+  "finished_at": "2026-10-20T18:09:42.797313+09:00",
+  "target_review": {
+    "url": "https://tvn.cjenm.com/ko/Four-Hands-Two-Sonatas/",
+    "kind": "tvn_detail",
+    "status": "ready",
+    "checked_at": "2026-10-20T18:09:39.762288+09:00",
+    "title": "포핸즈",
+    "program_ids": [
+      "220269"
+    ],
+    "genre": "드라마",
+    "scope": "작품 상세",
+    "site": "tvN",
+    "confirmed_target": true,
+    "confirmed_at": "2026-10-20T18:09:40.712955+09:00"
+  }
+}

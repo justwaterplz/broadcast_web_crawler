@@ -1,0 +1,293 @@
+{
+  "format": "tving-source-bundle",
+  "schema_version": 1,
+  "collection": {
+    "source_url": "https://www.tving.com/contents/P001776344",
+    "collected_at": "2026-10-14T09:37:51.042843+00:00",
+    "acquisition_method": "embedded_page_data_and_episode_api",
+    "status": "display_parser_failed",
+    "episode_endpoint": "https://api.tving.com/v2/media/frequency/program/P001776344",
+    "error": "TVING API status 401; no usable episode list"
+  },
+  "contentInfo": {
+    "code": "E004454417",
+    "vod_type": "CSMD0100",
+    "last_view_time": 0,
+    "preview_display_yn": "N",
+    "title": "친애하는 X",
+    "channel": "TVING",
+    "channel_code": "C50241",
+    "frequency": 1,
+    "duration": 3558,
+    "ending_credit_sec": 3486,
+    "grade_code": "CMMG0400",
+    "episode_grade_code": "CMMG0400",
+    "director": [
+      "이응복",
+      "박소현",
+      "최자원"
+    ],
+    "actor": [
+      "김유정",
+      "김영대",
+      "김도훈",
+      "이열음"
+    ],
+    "script": null,
+    "keywords": null,
+    "synopsis": "지옥에서 벗어나 가장 높은 곳으로 올라가기 위해 가면을 쓴 여자 '백아진' 그리고 그녀에게 잔혹하게 짓밟힌 X들의 이야기",
+    "image": [
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20251021/1250/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP0200"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP0400"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20251021/1250/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP0500"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP0900"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1110/ko/20251027/0505/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1110"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1120/ko/20251105/0521/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1120"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1130/ko/20251105/0521/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1130"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1140/ko/20251105/0521/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1140"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1150/ko/20251105/0521/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1150"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1160/ko/20251105/0521/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1160"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1170/ko/20251105/0521/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1170"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1180/ko/20251105/0521/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1180"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20251021/1250/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1500"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20251022/0917/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1700"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20250908/0545/P001776344.png",
+        "url2": null,
+        "code": "CAIP1800"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260916/0043/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP1900"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20251104/0940/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP2530"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20251104/0940/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP2540"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20251104/0940/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP2550"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20251104/0940/P001776344.png",
+        "url2": null,
+        "code": "CAIP2560"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP3100/com/20251104/0941/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP3100"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP3110/com/20251104/0941/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP3110"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20251021/1250/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP4000"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20251021/1250/P001776344.jpg",
+        "url2": null,
+        "code": "CAIP4200"
+      }
+    ],
+    "episode_broad_dt": "20251106",
+    "episode_title": "1. 그녀의 X들",
+    "episode_synopsis": "신광고 2학년에 재학 중인 백아진은 신경을 건드리는 심성희를 조력자들을 이용해 치워버릴 계획을 세운다.",
+    "episode_image": [
+      {
+        "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20251106/0855/E004454417.jpg",
+        "url2": null,
+        "code": "CAIE0400"
+      }
+    ],
+    "broad_state": "CPBS0300",
+    "broad_end_dt": "20251204",
+    "broad_dt": "20251106",
+    "broad_week": "목",
+    "broad_hour": "18",
+    "broad_minu": "00",
+    "product_year": 2025,
+    "release_date": 0,
+    "episode_sort": 1,
+    "season_no": "0",
+    "season_code": "T100008207",
+    "category_code": "PCA",
+    "category_name": "드라마",
+    "genre_code": "PCA001",
+    "genre_name": "공포/오컬트",
+    "program_code": "P001776344",
+    "insert_date": 20251030104033,
+    "open_text": null,
+    "hdr_type": "",
+    "audio_type": "",
+    "billing_package_tag": "",
+    "drm_yn": "Y",
+    "fan_yn": "N",
+    "tving_exclusive_yn": "N",
+    "tving_original_yn": "Y",
+    "paramount_yn": "N",
+    "apple_yn": "N",
+    "quickup_yn": "N",
+    "uhd_4k_yn": "Y",
+    "subtitle_ver_yn": "N",
+    "dub_ver_yn": "N",
+    "event_yn": "N",
+    "cine_same_yn": "N",
+    "first_open_yn": "N",
+    "ko_cc_yn": "Y",
+    "free_yn": "N",
+    "partial_free_yn": "N",
+    "total_free_yn": "N",
+    "view_permission_code": "MEMBER",
+    "thumbs_down_yn": "N",
+    "thumbs_up_yn": "N",
+    "two_thumbs_up_yn": "N",
+    "sale_status": 1650,
+    "display_title": "1. 그녀의 X들"
+  },
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TVSeries",
+      "url": "https://www.tving.com/contents/P001776344",
+      "contentRating": "18",
+      "name": "친애하는 X 1화",
+      "description": "지옥에서 벗어나 가장 높은 곳으로 올라가기 위해 가면을 쓴 여자 '백아진' 그리고 그녀에게 잔혹하게 짓밟힌 X들의 이야기",
+      "genre": "드라마",
+      "image": "https://image.tving.com/ntgs/contents/CTC/caip/CAIP0400/ko/20251021/1250/P001776344.jpg/dims/resize/500",
+      "dateCreated": "2025-11-06",
+      "actors": [
+        {
+          "@type": "Person",
+          "name": "김유정"
+        },
+        {
+          "@type": "Person",
+          "name": "김영대"
+        },
+        {
+          "@type": "Person",
+          "name": "김도훈"
+        },
+        {
+          "@type": "Person",
+          "name": "이열음"
+        }
+      ],
+      "creator": [
+        {
+          "@type": "Person",
+          "name": "이응복"
+        },
+        {
+          "@type": "Person",
+          "name": "박소현"
+        },
+        {
+          "@type": "Person",
+          "name": "최자원"
+        }
+      ],
+      "productionCompany": {
+        "@type": "Organization",
+        "name": "TVING",
+        "url": "https://www.tving.com"
+      },
+      "numberOfSeasons": "0",
+      "startDate": "2025-11-06"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "TVING",
+          "item": "https://www.tving.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "친애하는 X 1화",
+          "item": "https://www.tving.com/contents/P001776344"
+        }
+      ]
+    }
+  ],
+  "episodeApi": {
+    "header": {
+      "message": "Unauthorized",
+      "status": 401
+    },
+    "body": null
+  }
+}

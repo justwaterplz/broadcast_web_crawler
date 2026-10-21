@@ -1,0 +1,792 @@
+{
+  "source": "tvn",
+  "sample": "tvn-detail-page21-21304.html",
+  "page_info": {
+    "menuSeq": "14268",
+    "svcCd": "SV003",
+    "siteCd": "ST000007",
+    "ctgCd": "MC010003",
+    "menuCd": "MT00003555",
+    "menuNm": "메인",
+    "menuDescp": "",
+    "scheBtnFunc": {
+      "funcNm": "설정 - 방송알림신청",
+      "funcCd": "MC020790"
+    },
+    "dtlYn": null,
+    "dtlFgCd": null,
+    "reqUrlAddr": "globalviews/",
+    "templateAjaxUrl": "/apis/v1/ctg/MC010003/menu/MT00003555/tmpl/1071?svcCd=SV003&siteCd=ST000007",
+    "redirectYn": "N",
+    "redirectUrl": null,
+    "cacheVal": 180,
+    "pageInfo": {
+      "additionalClass": null,
+      "menuTpCd": "MC010006",
+      "titDmainUseYn": "Y",
+      "titYn": "N",
+      "mainYn": "N",
+      "titDmainFgCd": "MC010080",
+      "menuPathDispYn": "Y",
+      "menuPathTitDispYn": "Y",
+      "textColorCd": "000000",
+      "htmlCnts": "",
+      "titScriptCnts": "",
+      "imgFileSeq": 974309,
+      "mobImgFileSeq": 976729,
+      "bgColorCd": "FFFFFF",
+      "menuTitNm": "",
+      "menuTitDescp": "",
+      "repImgSeq": null,
+      "repUrl": "globalviews/",
+      "tagScriptCnts": "",
+      "refScriptCnts": null,
+      "menuTitTagCnts": "외계통신 | tvN",
+      "menuDescpTagCnts": "외계통신의 출연진 정보와 최신 영상, 포스터, 현장스틸 등 관련 콘텐츠를 한눈에 확인하세요.",
+      "srchKwdCnts": "외계통신,tvN,교양,토론,박경림,김동완,장강명,박재민,안톤 숄츠,프랭크 스미스,동애영,나라카와 아야,에바 존,이독실",
+      "snsTitTagCnts": "외계통신",
+      "snsDescpTagCnts": "외계통신의 최신 정보와 영상을 만나보세요.",
+      "popupYn": "N",
+      "tabYn": null,
+      "metaInfoUseYn": "P",
+      "titImgInfo": {
+        "fileSeq": 974309,
+        "fileGropNo": "P1676462691677",
+        "fileFgCd": "MC010156",
+        "orgFileNm": "1676462897430980847847.jpg",
+        "fileSize": 1,
+        "fileExtsnVal": "jpg",
+        "filePathAddr": "/share/menumng/1676462897430980847847.jpg",
+        "altTextCnts": "CJ ENM tvN 메인 globalviews",
+        "pcImgWdhSize": 0,
+        "pcImgHgtSize": 0,
+        "mobImgWdhSize": 0,
+        "mobImgHgtSize": 0,
+        "sortSseq": 1,
+        "linkNwinYn": "",
+        "repImgYn": "Y",
+        "youtubeYn": "N",
+        "imgVideoLinkUrlAddr": "",
+        "useYn": "Y",
+        "delYn": "N"
+      },
+      "mobTitImgInfo": {
+        "fileSeq": 976729,
+        "fileGropNo": "M1676462691677",
+        "fileFgCd": "MC010156",
+        "orgFileNm": "1676462897672984183391.jpg",
+        "fileSize": 1,
+        "fileExtsnVal": "jpg",
+        "filePathAddr": "/share/menumng/1676462897672984183391.jpg",
+        "altTextCnts": "CJ ENM tvN 메인 globalviews",
+        "pcImgWdhSize": 0,
+        "pcImgHgtSize": 0,
+        "mobImgWdhSize": 0,
+        "mobImgHgtSize": 0,
+        "sortSseq": 1,
+        "linkNwinYn": "",
+        "repImgYn": "Y",
+        "youtubeYn": "N",
+        "imgVideoLinkUrlAddr": "",
+        "useYn": "Y",
+        "delYn": "N"
+      },
+      "repImgInfo": null,
+      "repGenreInfo": "교양",
+      "ptclrGenreInfo": "토론",
+      "bdWkday": "",
+      "bdTm": "00:20"
+    },
+    "useYn": "Y",
+    "prevewYn": "N",
+    "displayMenuYn": "Y"
+  },
+  "modules": {
+    "7722": {
+      "modulAttrTpCd": "MC020867",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "pgmSeq": 21304,
+        "updanBnrUseYn": "N",
+        "updanBnrPcImgFilePathAddr": null,
+        "updanBnrMobImgFilePathAddr": null,
+        "pcImgWdhSize": null,
+        "pcImgHgtSize": null,
+        "mobImgWdhSize": null,
+        "mobImgHgtSize": null,
+        "updanBnrBgColorCd": "",
+        "chnCd": "MC010268",
+        "chnNm": null,
+        "markClauSetngCdList": [
+          "MC020838",
+          "MC020839",
+          "MC020840",
+          "MC020841",
+          "MC021191",
+          "MC020843",
+          "MC020845"
+        ]
+      },
+      "moduleInfo": {
+        "modulSjNm": "",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 0,
+        "pdngBotmSize": 0,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020866",
+        "modulBgValInfo": null
+      },
+      "data": {
+        "pgmNm": "외계통신",
+        "bdTm": "[종영] 2018.07.19 ~ 2018.12.27",
+        "scheInfo": null,
+        "snsInfoList": [
+          {
+            "arrayId": "29933",
+            "snsTypeCd": "MC010120",
+            "snsLinkUrlAddr": "https://www.youtube.com/@tvNJoy_official"
+          },
+          {
+            "arrayId": "29934",
+            "snsTypeCd": "MC021037",
+            "snsLinkUrlAddr": "https://tv.naver.com/b/cjenm/212144"
+          },
+          {
+            "arrayId": "29935",
+            "snsTypeCd": "MC010122",
+            "snsLinkUrlAddr": "https://x.com/chtvn"
+          },
+          {
+            "arrayId": "29936",
+            "snsTypeCd": "MC010123",
+            "snsLinkUrlAddr": "https://www.instagram.com/tvn_joy/"
+          },
+          {
+            "arrayId": "29937",
+            "snsTypeCd": "MC010121",
+            "snsLinkUrlAddr": "https://www.facebook.com/cjtvngo/"
+          }
+        ],
+        "plnngIntentInfo": {
+          "plnngIntentSumryCnts": "한국사회의 다양한 이슈를 제 3자인 다국적 외신들의 시점으로 풀어보는 외신 버라이어티"
+        },
+        "plnngIntentDtlPopupInfo": null,
+        "replayIngo": {
+          "pgmReplayUrlAddr": "https://www.tving.com/contents/P000532670",
+          "pgmReplayNm": "TVING 다시보기"
+        },
+        "scheAlarmInfo": {
+          "pgmId": "B120189915"
+        },
+        "newestClipInfo": {
+          "pcImgHgtSize": 744,
+          "playingTm": "00:00:30",
+          "pipClipSeq": "210046",
+          "videoTnailImgPathAddr": "/cocos/B120189915/B120189915_EPI0018_03_B.jpg?v=1791426841",
+          "imgVideoLinkUrlAddr": "/CLIP/COCOS/B120189915/3165866/B120189915_3165866_t35.mp4",
+          "mobImgHgtSize": 365,
+          "adultYn": "N",
+          "videoTnailImgAltTextCnts": "외계통신 서지현 검사의 용기 있는 고백 그 이후 외계통신 올해의인물",
+          "pcImgWdhSize": 1320,
+          "mobImgWdhSize": 648,
+          "newestClipAutoTpCd": "MC010162",
+          "youtubeYn": "N",
+          "clipNm": "서지현 검사의 용기 있는 고백 그 이후 #외계통신 #올해의인물",
+          "videoTnailImgFileSeq": "506495"
+        }
+      }
+    },
+    "13096": {
+      "modulAttrTpCd": "MC021204",
+      "pcImgWdhSize": 312,
+      "pcImgHgtSize": 175,
+      "mobImgWdhSize": 732,
+      "mobImgHgtSize": 412,
+      "modulAttrInfo": {
+        "attrSeq": 500,
+        "dispCnt": 12,
+        "allDispFgCd": "MC010186",
+        "pgmSeq": 21304,
+        "pgmId": "B120189915",
+        "mainFiltTabCd": "MC020724",
+        "subFiltTabCd": "MC020724",
+        "cntntsInfDispTypeCd": "MC020727",
+        "clipTypeUseYn": "Y",
+        "delYn": "N",
+        "chnTabCdList": [
+          {
+            "label": "tvN",
+            "value": "MC010268",
+            "sortSseq": 1
+          }
+        ],
+        "clipTypeTabCdList": [
+          {
+            "label": "예고",
+            "value": "MC010223",
+            "sortSseq": 1
+          },
+          {
+            "label": "선공개/기획클립",
+            "value": "MC010220",
+            "sortSseq": 2
+          },
+          {
+            "label": "구간클립",
+            "value": "MC010210",
+            "sortSseq": 3
+          },
+          {
+            "label": "하이라이트",
+            "value": "MC010216",
+            "sortSseq": 4
+          },
+          {
+            "label": "미공개",
+            "value": "MC010214",
+            "sortSseq": 6
+          }
+        ]
+      },
+      "moduleInfo": {
+        "modulSjNm": "최신 동영상",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "FFFFFF",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "MC020694",
+        "pdngTopSize": 60,
+        "pdngBotmSize": 60,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC010175",
+        "modulBgValInfo": null
+      },
+      "data": [
+        {
+          "arrayId": 210068,
+          "pipClipSeq": 210068,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "'김밥에 들어간 모래까지..' 닥터 헬기에 쏟아진 황당한 민원",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "외계통신 18화",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/globalviews/",
+          "playingTm": "00:03:46",
+          "videoTnailImgPathAddr": "/cocos/B120189915/B120189915_EPI0018_15_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "외계통신 김밥에 들어간 모래까지 닥터 헬기에 쏟아진 황당한 민원"
+        },
+        {
+          "arrayId": 210066,
+          "pipClipSeq": 210066,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "올해의 인물 1위! 이국종 교수의 파일럿 '이세형 기장'",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "외계통신 18화",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/globalviews/",
+          "playingTm": "00:03:51",
+          "videoTnailImgPathAddr": "/cocos/B120189915/B120189915_EPI0018_14_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "외계통신 올해의 인물 1위 이국종 교수의 파일럿 이세형 기장"
+        },
+        {
+          "arrayId": 210064,
+          "pipClipSeq": 210064,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "서지현 검사의 고백에 붉어진 MC 박경림의 눈시울",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "외계통신 18화",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/globalviews/",
+          "playingTm": "00:01:15",
+          "videoTnailImgPathAddr": "/cocos/B120189915/B120189915_EPI0018_13_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "외계통신 서지현 검사의 고백에 붉어진 MC 박경림의 눈시울"
+        },
+        {
+          "arrayId": 210062,
+          "pipClipSeq": 210062,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "'日 미투 상징' 이토 시오리 기자가 일본을 떠난 이유",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "외계통신 18화",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/globalviews/",
+          "playingTm": "00:02:47",
+          "videoTnailImgPathAddr": "/cocos/B120189915/B120189915_EPI0018_12_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "외계통신  미투 상징 이토 시오리 기자가 일본을 떠난 이유"
+        },
+        {
+          "arrayId": 210060,
+          "pipClipSeq": 210060,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "'루머와의 싸움' 서지현 검사가 말하는 고백 이후의 삶",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "외계통신 18화",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/globalviews/",
+          "playingTm": "00:03:48",
+          "videoTnailImgPathAddr": "/cocos/B120189915/B120189915_EPI0018_11_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "외계통신 루머와의 싸움 서지현 검사가 말하는 고백 이후의 삶"
+        },
+        {
+          "arrayId": 210058,
+          "pipClipSeq": 210058,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "파벌의 희생자? 감독 박항서의 파란만장 일대기",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "외계통신 18화",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/globalviews/",
+          "playingTm": "00:03:56",
+          "videoTnailImgPathAddr": "/cocos/B120189915/B120189915_EPI0018_10_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "외계통신 파벌의 희생자 감독 박항서의 파란만장 일대기"
+        },
+        {
+          "arrayId": 210056,
+          "pipClipSeq": 210056,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "북한 '서열 2위' 김여정, 美 재무부 추정 나이가..",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "외계통신 18화",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/globalviews/",
+          "playingTm": "00:03:50",
+          "videoTnailImgPathAddr": "/cocos/B120189915/B120189915_EPI0018_08_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "외계통신 북한 서열 2위 김여정  재무부 추정 나이가"
+        },
+        {
+          "arrayId": 210054,
+          "pipClipSeq": 210054,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "위안부 재판 변호인이 생각하는 '화해와 치유 재단' 해체",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "외계통신 18화",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/globalviews/",
+          "playingTm": "00:02:41",
+          "videoTnailImgPathAddr": "/cocos/B120189915/B120189915_EPI0018_07_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "외계통신 위안부 재판 변호인이 생각하는 화해와 치유 재단 해체"
+        },
+        {
+          "arrayId": 210052,
+          "pipClipSeq": 210052,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "'강제 징용 배상' 일본 정부에 맞선 100인의 양심",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "외계통신 18화",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/globalviews/",
+          "playingTm": "00:04:40",
+          "videoTnailImgPathAddr": "/cocos/B120189915/B120189915_EPI0018_06_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "외계통신 강제 징용 배상 일본 정부에 맞선 100인의 양심"
+        },
+        {
+          "arrayId": 210050,
+          "pipClipSeq": 210050,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "외신 PICK 올해의 인물 BTS! 2018 大기록 총정리",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "외계통신 18화",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/globalviews/",
+          "playingTm": "00:03:20",
+          "videoTnailImgPathAddr": "/cocos/B120189915/B120189915_EPI0018_05_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "외계통신 외신 PICK 올해의 인물 BTS 2018 기록 총정리"
+        },
+        {
+          "arrayId": 210048,
+          "pipClipSeq": 210048,
+          "clipTypeCdNm": "구간클립",
+          "clipNm": "[선공개] '후회한 적은 없었는지..' 서지현 검사의 담담한 대답",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "외계통신 18화",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/globalviews/",
+          "playingTm": "00:01:57",
+          "videoTnailImgPathAddr": "/cocos/B120189915/B120189915_EPI0018_04_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "외계통신 선공개 후회한 적은 없었는지 서지현 검사의 담담한 대답"
+        },
+        {
+          "arrayId": 210046,
+          "pipClipSeq": 210046,
+          "clipTypeCdNm": "예고",
+          "clipNm": "서지현 검사의 용기 있는 고백 그 이후 #외계통신 #올해의인물",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "외계통신 18화",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/globalviews/",
+          "playingTm": "00:00:30",
+          "videoTnailImgPathAddr": "/cocos/B120189915/B120189915_EPI0018_03_B.jpg?v=1791426841",
+          "videoTnailImgAltTextCnts": "외계통신 서지현 검사의 용기 있는 고백 그 이후 외계통신 올해의인물"
+        }
+      ]
+    },
+    "14101": {
+      "modulAttrTpCd": "MC020871",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "cntntsMarkClauCd": "MC020849",
+        "pageViewCnt": 4,
+        "pgmSeq": 21304,
+        "dtlLayerSjCnts": "미리보기",
+        "pgmCntntsFgSeq": 1862
+      },
+      "moduleInfo": {
+        "modulSjNm": "최신 콘텐츠",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "FFFFFF",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 60,
+        "pdngBotmSize": 60,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020869",
+        "modulBgValInfo": null
+      },
+      "data": {
+        "dataInfo": {
+          "total": 22,
+          "list": [
+            {
+              "arrayId": 9455,
+              "pgmTmnoPrevewSeq": 9455,
+              "dtlLayerSjCnts": null,
+              "prevewTit": "18회 미리보기",
+              "prevewSubSjNm": null,
+              "prevewCnts": "방송일: 2018-12-27 (목)\r\n\r\n\r\n\r\n[외통속보]\r\n굿바이 2018, 외계통신 특집!\r\n통신원들과 3MC가 기억하는 올해는 과연 어떤 모습일까?\r\n<외계통신>의 탄생, 통신원들과의 만남을 비롯해\r\n모두가 각자의 자리에서 숨 가쁘게 달린 2018년!\r\n말도 많고 탈도 많았던 한 해를 정리하기 위한\r\n초특급, 연말 특집을 준비했다!\r\n<외계통신>에서만 맛볼 수 있는 아주 특별한 송년회,\r\nComing soon~!\r\n[연말 특집]\r\n이들이 있었기에 더욱 빛났다!\r\n2018 올해의 인물 어워즈\r\n이 사람을 빼놓고 2018년을 논할 수 없다?!\r\n<타임(Time)지>가 선정한 ‘올해의 인물’ NO, NO!\r\n통신원들이 직접 선정하고 소개하는\r\n<외계통신지>의 표지 인물은 누구일까?\r\n통신원들이 PICK 하다!\r\n~ 2018 올해의 인물 후보 전격 소개 ~ \r\n[후보 1]\r\n대한민국 사회를 뒤흔든 하나의 해시태그, #MeToo\r\n그 시작점에 선 인물! 서지현 검사\r\n대한민국을 충격에 빠뜨린 한 검사의 충격 고백……\r\n지난 1월, 언론에 성추행 피해 사실을 폭로하며\r\n대한민국 미투 운동의 신호탄을 쏘아 올린 서지현 검사.\r\n그 후 사회 전반으로 확대된 미투 운동과 다양한 논란들까지~\r\n서지현 검사와 미투, 그리고 그 후 1년을 짚어본다.\r\n[후보 2]\r\nK-POP의 새 역사를 쓰다! BTS(방탄소년단)\r\n미국 ‘빌보드 200’ 차트 두 차례 1위, \r\n전례 없는 한국 가수의 UN 총회 연설 등……\r\n‘21세기 비틀즈’라 불리는 BTS의 기념비적인 활약들!\r\n수많은 아이돌 그룹 중 BTS가 세계의 중심에 서게 된 이유는?\r\n[후보 3]\r\n북한의 실세는 김정은 위원장이 아니다?!\r\n숨은 실세로서 활약 펼친 김여정 부부장\r\n평창 동계올림픽, 남북정상회담 등\r\n유난히 북한과의 만남이 많았던 올해!\r\n그런데, 북한을 대표하는 올해의 인물은 다름 아닌 김여정 부부장?!\r\n익숙하지만 여전히 베일 속에 감춰진 그의 프로필을 전격 공개한다!\r\n[후보 4]\r\n베트남을 강타한 ‘쌀딩크’ 신드롬!\r\n비주류에서 영웅이 된 박항서 감독\r\n베트남 축구 국가대표팀 감독으로 부임한 지 \r\n약 1년 2개월 만에 ‘국민 영웅’으로 등극한 박항서 감독!\r\n베트남에서 ‘갓항서’를 모르면 간첩일 지경!\r\n그러나 박항서 감독의 베트남行 뒤에는\r\n파벌‧비주류 논란이 있었다?!\r\n박항서 감독의 활약과 대한민국 인맥 논란을 짚어본다.\r\n \r\n[후보 5]\r\n강제징용 피해자들을 위해 뛰는 양심,\r\n야마모토 세이타 변호사\r\n강제징용 보상소송이 연달아 승소하면서\r\n피해자들과 일본 정부의 갈등은 더욱더 깊어졌는데…\r\n이에 대해 용감하게 양심선언 한 일본인 변호사가 있다?!\r\n90년대부터 위안부 피해자를 비롯해\r\n강제징용 피해자들을 변호해 온 야마모토 세이타 변호사!\r\n그의 양심을 움직이게 한 원동력은 무엇일까?\r\n<외계통신> 카메라가 직접 그를 만나고 왔다.\r\n[후보 6]\r\n골든아워를 사수하는 숨은 영웅, 이세형 기장\r\n올해 많은 관심을 받았던 ‘이국종 교수’와 ‘닥터 헬기’.\r\n그 뒤에서 묵묵히 인명구조에 동참한 이가 있었으니~\r\n헬기가 뜨려면 반드시 있어야 할 이 사람, 바로 이세형 기장!\r\n안톤 숄츠 기자가 직접 취재한 이세형 기장의 비하인드 스토리,\r\n그리고 이국종 교수와 함께한 8년여의 세월까지 모두 들어본다.\r\n쟁쟁한 후보들 사이에서\r\n영광의 1위를 차지할 올해의 인물은?\r\n[심층 토크]\r\n서지현 검사, 외계통신에 출격!\r\n올해의 인물, 서지현 검사가 <외계통신>에 떴다!\r\n깜짝 선물 같은 등장에 통신원들의 눈은 초롱초롱~ \r\n미투 고발 후 1년, 서지현 검사의 근황은?\r\n“저는 대한민국 검사잖아요.”\r\n많은 이들에게 깊은 울림을 준 그의 말을 들어본다.\r\n12월 27일 목요일 밤 12시 20분\r\n <외계통신>\r\n- 외계와의 교신이 시작된다 -",
+              "putupStrDtm": 1669872359000,
+              "sortSseq": 22
+            },
+            {
+              "arrayId": 9454,
+              "pgmTmnoPrevewSeq": 9454,
+              "dtlLayerSjCnts": null,
+              "prevewTit": "17회 미리보기",
+              "prevewSubSjNm": null,
+              "prevewCnts": "방송일: 2018-12-20 (목)\r\n\r\n\r\n\r\n [외통속보]\r\n★메리 크리스마스~ 외계통신 특집!★\r\n아무도 없는 깜깜한 밤...\r\n외계통신 오피스에 의문의 산타가 떴다?!\r\n그동안 한국의 이슈를 샅샅이 파헤치기 위해 고생한\r\n통신원들과 3MC를 위해 \r\n누군가 특별한 크리스마스 선물을 준비했다고 하는데!\r\n현장을 웃음바다로 만든\r\n통신원들의 취향을 고려한 아주 특별한 선물♥\r\n외계통신원들의 크리스마스 선물 오픈식, \r\n大/공/개!\r\n[크리스마스 특집] \r\n2018년 올해의 뉴스 어워즈\r\n다사다난했던 대한민국의 2018년,\r\n외계통신원 “PICK” 올해의 뉴스 어워즈 특집!\r\n올 한해도 다양한 사건들로 \r\n끊임없이 달렸던 2018년 대한민국!\r\n연말 특집으로 준비한 뉴스 랭킹 쇼★\r\n통신원들이 직접 뽑은 대한민국 이슈 정산 TIME!\r\n~ 2018년 뉴스 어워즈 후보 ~\r\n[후보 1]\r\n침묵을 깬 여성들, 대한민국 #METOO 열풍! \r\n2018년 대한민국 여성들의 힘을 보여준 #미 투 운동!\r\n통신원들이 생각하는 대한민국의 미 투 운동은 물론,\r\n최근 한국 미 투 운동에서 번진 젠더 이슈까지!\r\nME TOO 운동, 다시 한번 꼼꼼하게 살펴본다!\r\n[후보2]\r\n세계인의 축제, 남북 화합의 시작 평창 동계대회\r\n전쟁위기에서 평화 무드로!\r\n남북관계를 완전히 뒤바꾼 평화 올림픽!\r\n통신원이 꼽은 평창의 최고의 순간은?\r\n[후보3]\r\n역사적인 만남의 순간, 남북·북미 정상회담\r\n11년 만에 이뤄진 남북정상회담!\r\n살얼음판을 걷던 남북관계는 어느새 평화 분위기 뿜뿜~\r\n거기에 예상치 못했던 북·미 케미까지?!\r\n올 한해 통신원이 꼽은 남북, 북미 정상회담 최고의 순간은?\r\n[후보4]\r\n끝나지 않는 한일 문제, 욱일기 논란 재점화\r\n한일관계에 유독 적신호가 켜졌던 2018년!\r\n최근 일어난 보헤미안 랩소디의 욱일기 논란으로 짚어본\r\n일본의 욱일기, 아직도 공공연하게 쓰이고 있는 이유!?\r\n[후보5]\r\n제주를 찾은 ‘예멘 난민’ 뜨거웠던 6월의 제주\r\n제주를 찾은 약 500명의 난민으로 더~욱 뜨거웠던 지난여름!\r\n외계통신이 그 현장을 다시 찾았다!\r\n[현장 르포] 6월의 제주, 지금은 어떨까? \r\n무사증 입국을 불허한 제주,\r\n쌀쌀한 분위기만 감돌고 있다고 하는데~\r\n남은 제주 난민은 현재 약 200여 명!\r\n지금은 어떻게 지내고 있을까?\r\n모두 2018년 대한민국을 뜨겁게 달궜던 이슈인 만큼\r\n모두 쟁쟁한 뉴스들이 가득한데~\r\n2018년 대한민국 뉴스 어워즈 특집!\r\n과연 외계통신원이 뽑은 올해의 뉴스 1위는?\r\n12월 20일 목요일 밤 12시 20분\r\n <외계통신>\r\n- 외계와의 교신이 시작된다 -",
+              "putupStrDtm": 1669872359000,
+              "sortSseq": 21
+            },
+            {
+              "arrayId": 9453,
+              "pgmTmnoPrevewSeq": 9453,
+              "dtlLayerSjCnts": null,
+              "prevewTit": "16회 미리보기",
+              "prevewSubSjNm": null,
+              "prevewCnts": "방송일: 2018-12-13 (목)\r\n\r\n[금주 HOT이슈] 대한민국을 강타한 ‘채무 스캔들’\r\n인기 래퍼 마이크로닷의 부모님 사건에서 비롯된 연예계 채무 스캔들\r\n연일 쓰나미처럼 번지고 있는 폭로!\r\n그/런/데 대중은 왜 이토록 분노하는 걸까?\r\n     \r\n 통신원 대격돌!\r\n공인이라면 도의적 책임 있다 VS 과도한 연좌제다\r\n시끌시끌한 논란의 배경을 살피고\r\n동서양 간 ‘채무’에 관한 인식까지 짚어본다\r\n     \r\n     \r\n[기획 아젠다] 카풀 도입 논란!\r\n이달 K사가 카풀 서비스 도입을 밝히면서 촉발된\r\n전국 택시 기사들의 반대 시위!\r\n2018년 기준, 전국의 택시 기사는 약 269,000여 명\r\n카풀 도입이 생존권을 박탈한다고 이들은 주장하는데..\r\n한편, 시민 여론조사 결과에선 카풀 찬성이 56.0%! (리얼미터)\r\n     \r\n또다시 불붙은 외계통신원들의 열띤 토론!\r\n카풀 도입! 택시 기사 생존권 침해다 \r\nVS\r\n시대의 흐름이자 소비자 선택의 자유다\r\n \r\n     \r\n[현장취재] 영/일/베 3국으로 카풀 도입 미리 보기\r\n카풀 서비스 도입이 한국 사회에 불러올 변화와 문제점들!\r\n영국·일본·베트남 3개국을 통해 미리 알아본다\r\n     \r\n차량 공유 서비스 경쟁 없는 일본의 택시 드라이버들!\r\n택시업계는 물론, 시민들조차 필요성을 느끼지 못한다는데..\r\n이들이 유독 승차 공유에 소극적인 이유는?\r\n     \r\n관광의 나라 베트남, 그들이 선택한 ‘그랩’\r\n동남아시아의 우버인 그랩과 불법 택시 간의\r\n같은 거리 · 다른 금액, 전격 비교!\r\n     \r\n 유럽 내 우버 강국, 영국\r\n고소득자는 연봉 1억?! 평균 4년의 수험생활도 불사한다\r\n런던의 얼굴, 블랙캡 기사들!\r\n블랙캡과 우버가 공존하는 런던 시내로 떠나본다\r\n     \r\n     \r\n[심층 토크] 대북 제재 강경했던 UN·美, \r\n남북철도 조사는 OK! 달리는 건 글쎄?\r\n그동안 강경했던 대북 제재!\r\n 하지만 5만 5천ℓ의 경유를 비롯해\r\n공동조사에 필요한 물품은 면제되면서\r\n4·27 판문점 선언의 약속, 남북철도 연결 공동조사 순항 중!\r\n     \r\n▶ 깐깐했던 UN 안보리와 미국, 마음 바꾼 진짜 속내는?\r\n▶ 10년 안에 남북 철도 연결 가능하다 Yes or No?\r\n놀랍게도 외계통신원의 답은 만/장/일/치\r\n그 화살표가 어디로 향하는지 궁금하다면\r\n     \r\n12월 13일 목요일 밤 12시 20분\r\n<외계통신>\r\n- 외계와의 교신이 시작된다 -",
+              "putupStrDtm": 1669872359000,
+              "sortSseq": 20
+            },
+            {
+              "arrayId": 9452,
+              "pgmTmnoPrevewSeq": 9452,
+              "dtlLayerSjCnts": null,
+              "prevewTit": "15회 미리보기",
+              "prevewSubSjNm": null,
+              "prevewCnts": "방송일: 2018-12-6 (목)\r\n\r\n[외통 속보]\r\n더욱 강력해진 외신 어벤저스?! NEW FACE 대거 등장!\r\nMC들마저 당황하게 만든 프로 입담꾼이 떴다!\r\n한국 생활 23년 차, ‘남자 이다도시’라 불리는 수려한 언변의 사나이!\r\n<10매거진> 스티븐 리비어 편집장(미국)부터~\r\n     \r\n아프가니스탄, 시리아 등 분쟁지역에서의 활약은 물론,\r\n정치‧경제‧사회 등 분야 막론하고 저널리즘의 진수를 보여주는\r\n25년 베테랑 저널리스트, <채널10> 잭 바튼 기자(호주) 등판!\r\n     \r\n마지막으로 국제정세 전문가이자 정치 용어 분석가로서 정평 난 \r\n한국외국어대학교 메이슨 리치 교수(미국)까지~\r\n     \r\n더욱더 뜨거워진 외신 어벤저스들의 격돌과 활약이 공개됩니다!\r\n     \r\n     \r\n[금주의 HOT 이슈] \r\n'양심적 병역거부' 무죄 판결! 그럼 군필자는 非양심?\r\n전 세계 유일의 분단국가이자 징병제 시행 국가인 대한민국,\r\n14년 만에 뒤바뀐 ‘양심적 병역거부 무죄 판결’로 뜨거운 갑론을박 중! \r\n     \r\n개인의 믿음과 평화에 대한 신념을 이유로\r\n‘주홍글씨’가 새겨진 양심적 병역거부자들과,\r\n“대한민국 체제상 징병제는 필수!”\r\n양심적 병역거부자에 대한 처벌은 불가피하다고 맞서는 이들까지!\r\n     \r\n‣ ‘양심’은 재단할 수 있는 것인가? ‘양심’의 기준은 도대체 무엇?\r\n‣ 양심적 병역거부자의 ‘36개월 교도소 합숙 근무’, 마땅하다 vs 과하다\r\n이 이슈에 대한 외계통신원들의 생각은?\r\n     \r\n     \r\n[기획 아젠다] \r\n술 취하면 장땡?! ‘음주범죄’와 주취감형 논란 전격 해부\r\n하루가 멀다 하고 들려오는 음주범죄 사건․사고 소식,\r\n음주운전에서부터 시작해 강력범죄까지, 그야말로 ‘술’에 찌든 대한민국?!\r\n‘酒님’ 앞에서 한없이 관대해지는 대한민국 음주문화 전격 분석!\r\n     \r\n술 취하면 봐줘야 한다?!\r\n국민 정서와 동떨어진 주취감형에 사회적 분노가 들끓는 요즘!\r\n‣ 음주로 인한 심신장애 상태에서 저지른 범죄, 감형이냐 vs 가중처벌이냐\r\n세계 각국은 음주 범죄에 어떻게 대처하는지,\r\n외계통신원들이 제시하는 바른 음주문화는 무엇인지 낱낱이 들어본다!\r\n     \r\n한편, ‘전과자 조회’를 해야만 술집 입장이 가능한 나라가 있다?!\r\n대한민국보다 많은 술 소비량을 가진 호주,\r\n그러나 술 마시는 방법 자체는 천차만별~\r\n호주의 음주문화 확인을 위해 외계통신 카메라가 직접 출동했다!\r\n     \r\n     \r\n[심층 토크]\r\n제집 드나들듯 카디즈(KADIZ) 넘는 中 군용기, 그 속내는?\r\n지난 26일, 사전 통보 관행을 싹~ 무시한 채 \r\n한국방공식별구역(a.k.a. 카디즈)에 진입한 中 군용기.\r\n알고 보니 올해만 110여 차례 무단 진입했다는 사실!\r\n     \r\n명백히 ‘대한민국을 무시하는 행동’이라는 의견이 나오는 상황!\r\n‣ 中 군용기의 카디즈 진입, 침범이냐 vs 단순 진입이냐\r\n‣ 카디즈를 반복 진입하는 그 속내는?\r\n어느 때보다도 뜨거운 논쟁 폭발! \r\n     \r\n12월 6일 목요일 밤 12시 20분\r\n<외계통신>\r\n- 외계와의 교신이 시작된다 -",
+              "putupStrDtm": 1669872359000,
+              "sortSseq": 19
+            }
+          ],
+          "pageNum": 1,
+          "pageSize": 4,
+          "size": 4,
+          "startRow": 1,
+          "endRow": 4,
+          "pages": 6,
+          "prePage": 0,
+          "nextPage": 2,
+          "isFirstPage": true,
+          "isLastPage": false,
+          "hasPreviousPage": false,
+          "hasNextPage": true,
+          "navigatePages": 5,
+          "navigatepageNums": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "navigateFirstPage": 1,
+          "navigateLastPage": 5
+        }
+      }
+    },
+    "14477": {
+      "modulAttrTpCd": "",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": null,
+      "moduleInfo": {
+        "modulSjNm": "인물 소개",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 60,
+        "pdngBotmSize": 60,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020772",
+        "modulBgValInfo": null
+      },
+      "data": {
+        "pgmPrsnIntrcnSeq": 748,
+        "pgmSeq": 21304,
+        "pgmId": "B120189915",
+        "pgmNm": "외계통신",
+        "prsnRelDgrBtnDispYn": "N",
+        "simplPrsnLeftSortYn": "N",
+        "pgmPrsnRelImgInfo": null,
+        "simplePrsnInfoList": [
+          {
+            "arrayId": 9112,
+            "pgmPrsnGropSeq": 1527,
+            "pgmPrsnSeq": 9112,
+            "prsnNm": "\r\n박경림 | 전문 MC",
+            "prsnImgFilePathAddr": "/pcms/character/B120189915/kr/B120189915_character_1669718615325.png?v=1716957266",
+            "prsnImgAltTextCnts": "CJ ENM tvN 토론 교양 외계통신 \r\n박경림 | 전문 MC ",
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "sortSseq": 1
+          },
+          {
+            "arrayId": 9113,
+            "pgmPrsnGropSeq": 1527,
+            "pgmPrsnSeq": 9113,
+            "prsnNm": "\r\n김동완 | 시사돌",
+            "prsnImgFilePathAddr": "/pcms/character/B120189915/kr/B120189915_character_1669718615326.png?v=1716957266",
+            "prsnImgAltTextCnts": "CJ ENM tvN 토론 교양 외계통신 \r\n김동완 | 시사돌 ",
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "sortSseq": 2
+          },
+          {
+            "arrayId": 9114,
+            "pgmPrsnGropSeq": 1527,
+            "pgmPrsnSeq": 9114,
+            "prsnNm": "\r\n이독실 | 원조 공대 오빠",
+            "prsnImgFilePathAddr": "/pcms/character/B120189915/kr/B120189915_character_1669718615327.png?v=1716957266",
+            "prsnImgAltTextCnts": "CJ ENM tvN 토론 교양 외계통신 \r\n이독실 | 원조 공대 오빠 ",
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "sortSseq": 3
+          },
+          {
+            "arrayId": 9115,
+            "pgmPrsnGropSeq": 1528,
+            "pgmPrsnSeq": 9115,
+            "prsnNm": "\r\n안톤숄츠",
+            "prsnImgFilePathAddr": "/pcms/character/B120189915/kr/B120189915_character_1669718615328.png?v=1716957266",
+            "prsnImgAltTextCnts": "CJ ENM tvN 토론 교양 외계통신 \r\n안톤숄츠 ",
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "sortSseq": 1
+          },
+          {
+            "arrayId": 9116,
+            "pgmPrsnGropSeq": 1528,
+            "pgmPrsnSeq": 9116,
+            "prsnNm": "\r\n프랭크 스미스",
+            "prsnImgFilePathAddr": "/pcms/character/B120189915/kr/B120189915_character_1669718615329.png?v=1716957266",
+            "prsnImgAltTextCnts": "CJ ENM tvN 토론 교양 외계통신 \r\n프랭크 스미스 ",
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "sortSseq": 2
+          }
+        ],
+        "detailPrsnInfoList": [
+          {
+            "arrayId": 1527,
+            "pgmPrsnGropSeq": 1527,
+            "prsnGropNm": "외계통신 MC",
+            "sortSseq": 1,
+            "pgmPrsnIntrcnInfoList": [
+              {
+                "arrayId": 9112,
+                "pgmPrsnSeq": 9112,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "\r\n박경림 | 전문 MC",
+                "adiDescpCnts": null,
+                "dtlDescpCnts": "\r\n\r\n나는 듣는다. 고로 존재한다. \r\n쉴 새 없는 수다쟁이, 투 머치 토커에서\r\n베스트 리스너로 변신! \r\n\r\n외계통신 통신원들의\r\n입과 귀가 되어줄 ‘외계통신 함장’!",
+                "prsnImgFilePathAddr": "/pcms/character/B120189915/kr/B120189915_character_1669718615325.png?v=1716957266",
+                "prsnImgAltTextCnts": "CJ ENM tvN 토론 교양 외계통신 \r\n박경림 | 전문 MC ",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 1
+              },
+              {
+                "arrayId": 9113,
+                "pgmPrsnSeq": 9113,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "\r\n김동완 | 시사돌",
+                "adiDescpCnts": null,
+                "dtlDescpCnts": "\r\n\r\n시사토크계의 새 지평을 창조하러 왔다!\r\n가요계의 ’해결사’에서 외계통신의 '시사 해결사'로~\r\n\r\n신화 창조를 이룬 아이돌 최고참이자\r\n사회적 이슈에 대해 적극적으로\r\n자신의 의견을 밝혀온 소신남.",
+                "prsnImgFilePathAddr": "/pcms/character/B120189915/kr/B120189915_character_1669718615326.png?v=1716957266",
+                "prsnImgAltTextCnts": "CJ ENM tvN 토론 교양 외계통신 \r\n김동완 | 시사돌 ",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 2
+              },
+              {
+                "arrayId": 9114,
+                "pgmPrsnSeq": 9114,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "\r\n이독실 | 원조 공대 오빠",
+                "adiDescpCnts": null,
+                "dtlDescpCnts": "\r\n\r\n 과학도의 눈으로 보는 세상!\r\n넓고 얕은(?) 지식으로 쉴 틈 없이 질문하기가 특기인\r\nKAIST 출신 과학 칼럼니스트 이독실!\r\n\r\n그는 과연 외계통신의 험난한 문턱을\r\n무사히 넘을 수 있을 것인가?!",
+                "prsnImgFilePathAddr": "/pcms/character/B120189915/kr/B120189915_character_1669718615327.png?v=1716957266",
+                "prsnImgAltTextCnts": "CJ ENM tvN 토론 교양 외계통신 \r\n이독실 | 원조 공대 오빠 ",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 3
+              }
+            ]
+          },
+          {
+            "arrayId": 1528,
+            "pgmPrsnGropSeq": 1528,
+            "prsnGropNm": "외계통신원",
+            "sortSseq": 2,
+            "pgmPrsnIntrcnInfoList": [
+              {
+                "arrayId": 9115,
+                "pgmPrsnSeq": 9115,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "\r\n안톤숄츠",
+                "adiDescpCnts": null,
+                "dtlDescpCnts": "\r\n독일철학 스웩과 구수한~ 광주비트가 \r\n돋보이는 숄크라테스\r\n\r\n- 現 독일 프리랜서 기자\r\n- 前 조선대 사범대 교수",
+                "prsnImgFilePathAddr": "/pcms/character/B120189915/kr/B120189915_character_1669718615328.png?v=1716957266",
+                "prsnImgAltTextCnts": "CJ ENM tvN 토론 교양 외계통신 \r\n안톤숄츠 ",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 1
+              },
+              {
+                "arrayId": 9116,
+                "pgmPrsnSeq": 9116,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "\r\n프랭크 스미스",
+                "adiDescpCnts": null,
+                "dtlDescpCnts": "\r\n입에 쓴 약일수록 몸에도 좋다!\r\n독설도 마다하지 않는 농약 같은 기자\r\n\r\n- 現 프레스 tv 기자\r\n- 前 ABC, CNN, 코리아 헤럴드 기자",
+                "prsnImgFilePathAddr": "/pcms/character/B120189915/kr/B120189915_character_1669718615329.png?v=1716957266",
+                "prsnImgAltTextCnts": "CJ ENM tvN 토론 교양 외계통신 \r\n프랭크 스미스 ",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "18417": {
+      "modulAttrTpCd": "MC020886",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "slotVal": "/57992224/CJENM_PoC/tvN",
+        "clntId": "tvN",
+        "scrtyKeyVal": "div-gpt-ad-1674722898352-0",
+        "pcImgWdhSize": 970,
+        "pcImgHgtSize": 90,
+        "mobImgWdhSize": 320,
+        "mobImgHgtSize": 100
+      },
+      "moduleInfo": {
+        "modulSjNm": "",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 60,
+        "pdngBotmSize": 60,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020885",
+        "modulBgValInfo": null
+      },
+      "data": null
+    }
+  }
+}

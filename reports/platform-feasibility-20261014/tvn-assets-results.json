@@ -1,0 +1,127 @@
+[
+  {
+    "file": "_app-9138e7f89754c8c1.js",
+    "status": 200,
+    "bytes": 514994
+  },
+  {
+    "file": "b637e9a5-ebfee6b48b492480.js",
+    "status": 200,
+    "bytes": 86700
+  },
+  {
+    "file": "a53a333e-d249d21c28ed842e.js",
+    "status": 200,
+    "bytes": 76058
+  },
+  {
+    "file": "d6e1aeb5-d31051edc92ce98e.js",
+    "status": 200,
+    "bytes": 482231
+  },
+  {
+    "file": "632cba62-d3d00d3e07ff43fd.js",
+    "status": 200,
+    "bytes": 55138
+  },
+  {
+    "file": "fec483df-41dc141f10540dcd.js",
+    "status": 200,
+    "bytes": 325163
+  },
+  {
+    "file": "5fd563b6-f9f7a136a29480b7.js",
+    "status": 200,
+    "bytes": 80348
+  },
+  {
+    "file": "1216-8bc119fe57250b6c.js",
+    "status": 200,
+    "bytes": 7898
+  },
+  {
+    "file": "1494-bc0442295df63e95.js",
+    "status": 200,
+    "bytes": 109052
+  },
+  {
+    "file": "1664-6c60f7de364c1f5f.js",
+    "status": 200,
+    "bytes": 7832
+  },
+  {
+    "file": "8236-030e5af92ecf5b23.js",
+    "status": 200,
+    "bytes": 535493
+  },
+  {
+    "file": "7536-ed8748a10621073d.js",
+    "status": 200,
+    "bytes": 23283
+  },
+  {
+    "file": "2077-e01534da0c1024e5.js",
+    "status": 200,
+    "bytes": 11107
+  },
+  {
+    "file": "6841-d3be15e3b8432e68.js",
+    "status": 200,
+    "bytes": 77932
+  },
+  {
+    "file": "3450-3909962fc2ce54e8.js",
+    "status": 200,
+    "bytes": 283199
+  },
+  {
+    "file": "5830-52429c1515e550c8.js",
+    "status": 200,
+    "bytes": 498281
+  },
+  {
+    "file": "2005-9a88b606fe4b2ffa.js",
+    "status": 200,
+    "bytes": 294220
+  },
+  {
+    "file": "8341-3d95ea55f8e88763.js",
+    "status": 200,
+    "bytes": 7831
+  },
+  {
+    "file": "6508-9166d3917bce7210.js",
+    "status": 200,
+    "bytes": 51970
+  },
+  {
+    "file": "9584-5592a33cbd06b052.js",
+    "status": 200,
+    "bytes": 49697
+  },
+  {
+    "file": "73-3df7c42b6e6b64a4.js",
+    "status": 200,
+    "bytes": 6973
+  },
+  {
+    "file": "4698-6da33595678ca5c7.js",
+    "status": 200,
+    "bytes": 1604338
+  },
+  {
+    "file": "%5B...uri%5D-e66c06ffbc88fdf5.js",
+    "status": 200,
+    "bytes": 5474
+  },
+  {
+    "file": "_buildManifest.js",
+    "status": 200,
+    "bytes": 11158
+  },
+  {
+    "file": "_ssgManifest.js",
+    "status": 200,
+    "bytes": 275
+  }
+]

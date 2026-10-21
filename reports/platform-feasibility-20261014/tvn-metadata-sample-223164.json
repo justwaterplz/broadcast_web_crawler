@@ -1,0 +1,1317 @@
+{
+  "source": "tvn",
+  "sample": "223164",
+  "page_info": {
+    "menuSeq": "27844",
+    "svcCd": "SV003",
+    "siteCd": "ST000007",
+    "ctgCd": "MC010003",
+    "menuCd": "MN00227844",
+    "menuNm": "메인",
+    "menuDescp": "",
+    "scheBtnFunc": {
+      "funcNm": "설정 - 방송알림신청",
+      "funcCd": "MC020790"
+    },
+    "dtlYn": null,
+    "dtlFgCd": null,
+    "reqUrlAddr": "Love-in-Disguise/",
+    "templateAjaxUrl": "/apis/v1/ctg/MC010003/menu/MN00227844/tmpl/1040?svcCd=SV003&siteCd=ST000007",
+    "redirectYn": "N",
+    "redirectUrl": null,
+    "cacheVal": 0,
+    "pageInfo": {
+      "additionalClass": null,
+      "menuTpCd": "MC010006",
+      "titDmainUseYn": "P",
+      "titYn": "N",
+      "mainYn": "N",
+      "titDmainFgCd": null,
+      "menuPathDispYn": "Y",
+      "menuPathTitDispYn": "Y",
+      "textColorCd": null,
+      "htmlCnts": null,
+      "titScriptCnts": null,
+      "imgFileSeq": null,
+      "mobImgFileSeq": null,
+      "bgColorCd": null,
+      "menuTitNm": null,
+      "menuTitDescp": null,
+      "repImgSeq": 1320251,
+      "repUrl": "Love-in-Disguise/",
+      "tagScriptCnts": null,
+      "refScriptCnts": null,
+      "menuTitTagCnts": "나의 유죄인간 | tvN",
+      "menuDescpTagCnts": "나의 유죄인간의 출연진 정보와 최신 영상, 포스터, 현장스틸 등 관련 콘텐츠를 한눈에 확인하세요.",
+      "srchKwdCnts": "나의 유죄인간, tvN, 드라마, 로맨스",
+      "snsTitTagCnts": "나의 유죄인간",
+      "snsDescpTagCnts": "나의 유죄인간의 최신 정보와 영상을 만나보세요.",
+      "popupYn": "N",
+      "tabYn": null,
+      "metaInfoUseYn": "Y",
+      "titImgInfo": null,
+      "mobTitImgInfo": null,
+      "repImgInfo": {
+        "fileSeq": 1320251,
+        "fileGropNo": "1790129136415",
+        "fileFgCd": "MC010156",
+        "orgFileNm": "sns banner.jpg",
+        "fileSize": 469252,
+        "fileExtsnVal": "jpg",
+        "filePathAddr": "/share/menumng/snsbanner_1790129136490.jpg",
+        "altTextCnts": "CJ ENM tvN 프로그램 소개 ",
+        "pcImgWdhSize": 1200,
+        "pcImgHgtSize": 630,
+        "mobImgWdhSize": 1200,
+        "mobImgHgtSize": 630,
+        "sortSseq": 1,
+        "linkNwinYn": "",
+        "repImgYn": "Y",
+        "youtubeYn": "N",
+        "imgVideoLinkUrlAddr": "",
+        "useYn": "Y",
+        "delYn": "N"
+      },
+      "repGenreInfo": "드라마",
+      "ptclrGenreInfo": "로맨스",
+      "bdWkday": "월,화",
+      "bdTm": "20:50"
+    },
+    "useYn": "Y",
+    "prevewYn": "N",
+    "displayMenuYn": "Y"
+  },
+  "modules": {
+    "27919": {
+      "modulAttrTpCd": "MC020867",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "pgmSeq": 223164,
+        "updanBnrUseYn": "N",
+        "updanBnrPcImgFilePathAddr": null,
+        "updanBnrMobImgFilePathAddr": null,
+        "pcImgWdhSize": null,
+        "pcImgHgtSize": null,
+        "mobImgWdhSize": null,
+        "mobImgHgtSize": null,
+        "updanBnrBgColorCd": "",
+        "chnCd": "MC010268",
+        "chnNm": null,
+        "markClauSetngCdList": [
+          "MC020838",
+          "MC020839",
+          "MC020840",
+          "MC020841",
+          "MC021191",
+          "MC020842",
+          "MC020843",
+          "MC020845"
+        ]
+      },
+      "moduleInfo": {
+        "modulSjNm": "",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 0,
+        "pdngBotmSize": 5,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020866",
+        "modulBgValInfo": null
+      },
+      "data": {
+        "pgmNm": "나의 유죄인간",
+        "bdTm": "10/19 [월] 저녁 8:50 첫 방송",
+        "scheInfo": null,
+        "snsInfoList": [
+          {
+            "arrayId": "69503",
+            "snsTypeCd": "MC010120",
+            "snsLinkUrlAddr": "https://www.youtube.com/@tvNdrama_official"
+          },
+          {
+            "arrayId": "69504",
+            "snsTypeCd": "MC021037",
+            "snsLinkUrlAddr": "https://tv.naver.com/b/cjenm/212142"
+          },
+          {
+            "arrayId": "69505",
+            "snsTypeCd": "MC010122",
+            "snsLinkUrlAddr": "https://x.com/CJnDrama"
+          },
+          {
+            "arrayId": "69506",
+            "snsTypeCd": "MC010123",
+            "snsLinkUrlAddr": "https://www.instagram.com/tvn_drama/"
+          },
+          {
+            "arrayId": "69507",
+            "snsTypeCd": "MC010121",
+            "snsLinkUrlAddr": "https://www.facebook.com/tvNDrama"
+          }
+        ],
+        "plnngIntentInfo": {
+          "plnngIntentSumryCnts": "살인 용의자로 지목된 안하무인 재벌 3세와\r\n그의 수행비서로 잠입한 특수부대 출신 여형사의 밀착 스릴 로맨스"
+        },
+        "plnngIntentDtlPopupInfo": {
+          "pcImgFilePathAddr": "/pcms/planbanner/B120266270/kr/B120266270planbanner1788857692600.jpg?v=1789359452",
+          "mobImgFilePathAddr": "/pcms/planbanner/B120266270/kr/B120266270planbanner1788857692974.jpg?v=1789359452",
+          "plnngIntentImgUseYn": "N",
+          "dtlCnts": "<strong>자신만의 성벽 안에서 단단한 갑옷을 입은 남자와,\r\n성벽으로 들어가 그 갑옷을 벗겨버린 여자의 이야기</strong>\r\n\r\n대한민국 재계 서열 1위 태강그룹.\r\n그 권력의 정점에 선 상무 윤이준이\r\n의문의 살인사건 용의자로 몰리며 벼랑 끝에 내몰린다.\r\n진실을 쫓아 남자 수행비서로 위장 잠입한 \r\n특전사 출신 열혈 형사 강재희.\r\n죄를 묻기 위해 날을 세운 창과,\r\n부서지지 않는 단단한 방패의 대역전극이 시작된다.\r\n\r\n두 사람의 밀착 생활은 얼핏 훈훈한 \r\n브로맨스처럼 보이지만, 실상은 다르다.\r\n정체를 숨긴 여자와, 무언가 꿰뚫어보는 남자.\r\n의심이 설렘이 되고, 경계가 온기가 되는 순간,\r\n아슬아슬하고 달콤살벌한 핑크빛 긴장이 폭발하며 \r\n<strong>위장 잠입 로맨스</strong>가 펼쳐진다.\r\n\r\n까탈스럽고 예민한 줄만 알았던 남자에게는 \r\n혼자 감당해온 비밀이 있었다.\r\n그리고 그 비밀을 세상에서 \r\n유일하게 알아챈 사람이 생겼다.\r\n지키러 갔다가 지키고 싶어진 여자. \r\n숨기려 했지만 들켜버린 남자.\r\n<strong>갑옷이 벗겨진 자리에 남은 건, 계산 밖의 감정이였다.</strong>\r\n\r\n좌충우돌 형사들의 환장 케미, \r\n재벌가 이면에 숨겨진 추악한 진실,\r\n그리고 어른의 밀도로 완성되는 현실 사내 연애까지.\r\n감정마저 계산대에 올리는 시대에, \r\n코믹과 스릴러와 멜로를 종횡무진 넘나들며-\r\n조건은 묻지도 따지지도 않고 오직 서로만이 전부가 될\r\n세상 그 어떤 계산법으로도 설명되지 않는 구원의 로맨스.\r\n\r\n<strong>백마 탄 공주는, \r\n성벽 안에 갇힌 왕자를 잡으러 갔다가... 지키기로 했다.</strong>\r\n",
+          "pgmIntrcnPopupImgUseYn": "Y",
+          "pcImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간   ",
+          "dtlPopupTit": "프로그램 소개",
+          "mobImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간   "
+        },
+        "replayIngo": null,
+        "scheAlarmInfo": {
+          "pgmId": "B120266270"
+        },
+        "newestClipInfo": {
+          "pcImgHgtSize": 744,
+          "playingTm": "00:00:51",
+          "pipClipSeq": "901608",
+          "videoTnailImgPathAddr": "https://cocosimage.pip.cjenm.com/CLIP/COCOS/B120266270/3616961/edee0ba9-705f-4a98-9c08-6bd05fc44cf4_B.jpg",
+          "imgVideoLinkUrlAddr": "/CLIP/COCOS/B120266270/3616961/B120266270_3616961_t35.mp4",
+          "mobImgHgtSize": 365,
+          "adultYn": "N",
+          "videoTnailImgAltTextCnts": "월화 나의 유죄인간 종합 예고 지금부터 넌 날 지켜야 해 수갑 채우러 온 그 녀석을 지키고 싶어졌다",
+          "pcImgWdhSize": 1320,
+          "mobImgWdhSize": 648,
+          "newestClipAutoTpCd": "MC010162",
+          "youtubeYn": "N",
+          "clipNm": "[종합 예고] \"지금부터 넌 날 지켜야 해\" 수갑 채우러 온 그 녀석을 지키고 싶어졌다💔",
+          "videoTnailImgFileSeq": "1321237"
+        }
+      }
+    },
+    "27920": {
+      "modulAttrTpCd": "MC020886",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "slotVal": "/57992224/CJENM_PoC/tvN",
+        "clntId": "tvN3",
+        "scrtyKeyVal": "div-gpt-ad-1674722898352-2",
+        "pcImgWdhSize": 970,
+        "pcImgHgtSize": 90,
+        "mobImgWdhSize": 320,
+        "mobImgHgtSize": 100
+      },
+      "moduleInfo": {
+        "modulSjNm": "",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 20,
+        "pdngBotmSize": 20,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020885",
+        "modulBgValInfo": null
+      },
+      "data": null
+    },
+    "27921": {
+      "modulAttrTpCd": "",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": null,
+      "moduleInfo": {
+        "modulSjNm": "인물 소개",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 20,
+        "pdngBotmSize": 20,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020772",
+        "modulBgValInfo": null
+      },
+      "data": {
+        "pgmPrsnIntrcnSeq": 2116,
+        "pgmSeq": 223164,
+        "pgmId": "B120266270",
+        "pgmNm": "나의 유죄인간",
+        "prsnRelDgrBtnDispYn": "Y",
+        "simplPrsnLeftSortYn": "N",
+        "pgmPrsnRelImgInfo": {
+          "pgmPrsnIntrcnSeq": 2116,
+          "prsnRelImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1789980010467.jpg?v=1789980010",
+          "prsnRelImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  인물관계도  ",
+          "pcImgWdhSize": 0,
+          "pcImgHgtSize": 0,
+          "mobImgWdhSize": 0,
+          "mobImgHgtSize": 0,
+          "prsnRelCnts": ""
+        },
+        "simplePrsnInfoList": [
+          {
+            "arrayId": 18598,
+            "pgmPrsnGropSeq": 4092,
+            "pgmPrsnSeq": 18598,
+            "prsnNm": "윤이준",
+            "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858431711.jpg?v=1789980010",
+            "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  윤아준",
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "sortSseq": 1
+          },
+          {
+            "arrayId": 18600,
+            "pgmPrsnGropSeq": 4093,
+            "pgmPrsnSeq": 18600,
+            "prsnNm": "강재희",
+            "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858432076.jpg?v=1789980010",
+            "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  강재희",
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "sortSseq": 1
+          },
+          {
+            "arrayId": 18603,
+            "pgmPrsnGropSeq": 4094,
+            "pgmPrsnSeq": 18603,
+            "prsnNm": "김시현",
+            "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858432309.jpg?v=1789980010",
+            "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  김시현",
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "sortSseq": 1
+          },
+          {
+            "arrayId": 18604,
+            "pgmPrsnGropSeq": 4094,
+            "pgmPrsnSeq": 18604,
+            "prsnNm": "이혜정",
+            "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858432355.jpg?v=1789980010",
+            "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  이혜정",
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "sortSseq": 2
+          }
+        ],
+        "detailPrsnInfoList": [
+          {
+            "arrayId": 4092,
+            "pgmPrsnGropSeq": 4092,
+            "prsnGropNm": "윤이준의 사람들",
+            "sortSseq": 1,
+            "pgmPrsnIntrcnInfoList": [
+              {
+                "arrayId": 18598,
+                "pgmPrsnSeq": 18598,
+                "prsnMarkTpCd": "MC020820",
+                "prsnNm": "윤이준",
+                "adiDescpCnts": "32세 /  태강그룹 차기 후계자 · 살인사건 용의자",
+                "dtlDescpCnts": "<strong>“이런 말 황송하게 들리겠지만 그래, 내가 널 좋아하게 됐어.”</strong>\n\n대한민국 재계 서열 1위 기업 ‘태강그룹’ 상무이자, 유력한 차기 후계자. \n인턴으로 시작해 상무까지 초고속 승진으로 단번에 실력 입증, 출근길 로비를 런웨이로 만들어 버리는 수트핏과 태강의 광고 모델이라 해도 손색없을 비주얼까지. 타의 추종을 불허하는 능력과 직원들의 안구 복지까지 책임져주는 완벽한 남자?! \n\n하.지.만.\n이 남자를 가까이 보면… “그냥 미친X이에요!\n널을 뛰는 예민함으로 부하 직원의 피를 말리고 완벽주의에 가까운 까탈스러움으로 퇴사를 부추긴다.\n\n자신의 비서가 캐비닛에서 죽은 채 발견 된 후 그는 태강황태자에 이어 또 다른 타이틀을 얻는다. \n‘살인사건 유력 용의자 윤이준.’ \n이후, 이준은 두문불출했고 경찰의 지지부진한 수사는 무성한 소문만 낳았다. 그러던 어느 날 이준은 갑자기 자신을 지킬 수행비서를 고용하겠다고 하는데...\n\n내로라할 인재들이 모인다는 태강그룹에 듣도 보도 못한 이력서가 들어왔다. 이름은 강재희. 특수부대 출신이란 것 외에 빈칸투성이 이력서. 각 잡힌 모습이 신선하기도, 평생 보지 못한 촌스러움을 장착한 모습이 재미있기도 했던 이준. 그 단순한 호기심이 재희를 합격의 문턱으로 끌어들였다.\n\n위기의 순간 자신을 구한 수행비서, 당연한 일인데 주체할 수 없이 심장박동수가 빨라진다. \n나… 남자 좋아하나? 이럴 때가 아닌데. \n... 사랑 빼고 전부 가진 재벌 3세 윤이준의 선택은 과연. \n",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858431711.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  윤아준",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 1
+              },
+              {
+                "arrayId": 18599,
+                "pgmPrsnSeq": 18599,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "제리",
+                "adiDescpCnts": "?세 / 이준의 고양이",
+                "dtlDescpCnts": "\"냐 옹\"",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1789360092086.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  제리 ?세 / 이준의 고양이",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 2
+              }
+            ]
+          },
+          {
+            "arrayId": 4093,
+            "pgmPrsnGropSeq": 4093,
+            "prsnGropNm": "강재희의 사람들",
+            "sortSseq": 2,
+            "pgmPrsnIntrcnInfoList": [
+              {
+                "arrayId": 18600,
+                "pgmPrsnSeq": 18600,
+                "prsnMarkTpCd": "MC020820",
+                "prsnNm": "강재희",
+                "adiDescpCnts": "28세 / 경찰청 형사기동대 경장 · 수행비서로 위장수사 중",
+                "dtlDescpCnts": "<strong>“고백하지 마십시오. 전 지금 남자이지 말입니다..?!”</strong>\n\n육군특수전사령부 부사관 출신의 서울경찰청 형사기동대 경장. 유도 5단, 합기도 1단, 태권도 3단 단증만 도합 9단에, 군필 이력을 가진 인간병기.\n\n19살에 특전사로 입대했으나, 동료의 죽음을 눈앞에서 목격하면서 제대. 인생의 방향성을 잃고 표류하던 어느 날, 경찰을 도와 퍽치기 강도를 잡으며 제2의 적성을 찾았다. 날고 긴다는 나쁜 놈, 이상한 놈, 못된 놈들을 잡고자 불철주야 수갑을 휘둘러대던 중.\n\n재희의 코털을 건드린, 문제적 그놈이 등장했다. 살인 용의자 주제에 모르쇠로 일관하는 재벌 3세가 재희의 눈에 곱게 보일 리가. 그렇게 재희는 기꺼이 남장을 한 채 이준의 수행비서로 잠입하게 된다.\n\n응당 재벌 3세라면 갖춰야 할 덕목을 두루 갖추고 있는 이준.\n성격파탄에 심한 강박증, 또 잘난척하는 말솜씨는 어찌나 청산유수인지. 까탈과 변덕이 들끓는 상사 덕에 팔자에도 없는 이준의 수발을 들며 진실을 좇던 어느 날, 재희는 그 역시 살해 협박을 당하고 있다는 사실을 알아낸다. \n\n색안경을 걷어내고 나자 달리 보인다. 이준의 강박증은 스스로를 지키기 위한 방어기제고, 파탄적 성격은 돈만 보고 달려드는 사람들로부터 그은 마지노선이었다. \n\n경찰 강재희의 목표점이 조금씩 달라지기 시작했다. 구렁텅이에 빠진 이준의 인생을 구하기 위해, 외로운 그의 인생에 기꺼이 동행하기 위해, 캐비닛 살인사건의 진범을 찾기로, 그의 진짜 히어로가 되기로 결심한다. 윤이준을 구원할 단 한 명의 슈퍼히어로는 강재희뿐이니까. ",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858432076.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  강재희",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 1
+              },
+              {
+                "arrayId": 18601,
+                "pgmPrsnSeq": 18601,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "강석구",
+                "adiDescpCnts": "54세 / 재희 父",
+                "dtlDescpCnts": "<strong>“백마 탄 기사가 우리 딸이었어. 여보. 웬 희여멀건한 놈 하날 구하더라고.”</strong>\n\n반찬가게 바지사장.\n한 10년 전쯤, 조류독감으로 사업이 폭삭 망하면서 가장의 권위와 집안의 경제권을 아내 숙자에게 반강제적으로 양도했다. 소금에 푹 절여진 배추 같은 신세가 처량할 때도 있지만 50대 중에 제일 잘생겼다는 단골손님들의 칭찬에 금새 신바람 난다. \n\n잔머리의 귀재이자 창조경제의 달인. 숙자의 눈을 피해 현금을 빼돌리기 일쑤고, 동네 아저씨에게 중고물품을 새삥처럼 비싼 값에 팔아먹기도 한다. \n\n용돈 벌이 하겠다며 유튜브 세계에 입문! 공사가 다망한 석구는 오늘도 마누라의 등짝 스매싱을 적립한다. 석구의 눈에는 제일 예쁜 공주, 딸 재희가 숙자를 닮지않고 그를 빼다 박은 것 같아서 남몰래 얼마나 가슴을 쓸어내리는지 모른다.\n",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858432157.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  강석구",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 2
+              },
+              {
+                "arrayId": 18602,
+                "pgmPrsnSeq": 18602,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "조숙자",
+                "adiDescpCnts": " 56세 / 재희 母",
+                "dtlDescpCnts": "<strong>“재희가 당신 같은 희여멀건한 놈 주워오기만 해봐. 아주 그냥. 휘갈겨 버릴라니까!”</strong>\n\n반찬가게 실질 사장. \n남자 얼굴 따지다가 인생 말아먹었다고 근 30년째 셀프 반성 중이다. 얼굴 반반한 것 빼고는 아무짝에도 쓸모없는 연하남편 대신 집안을 건사한다. 일 하나를 시키면 하루 종일 걸리는, 천하태평 남편을 볼 때마다 속에서 천불이 난다. \n\n그녀를 쏙 빼닮아 건강한 신체와 건전한 정신을 가진 딸, 재희만이 숙자의 유일한 위안거리. 재희에게 남자 얼굴 뜯어먹고 사는 거 아니라고 그렇게 주입식 교육을 시키고 있지만… \n\n‘콩심콩, 팥심팥’이라고, 집에 데려온 재벌놈(?)이 딱 봐도 얼굴만 반반한 ‘강석구’과일까봐 눈앞이 캄캄해진다. ",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858432220.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  조숙자",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 3
+              }
+            ]
+          },
+          {
+            "arrayId": 4094,
+            "pgmPrsnGropSeq": 4094,
+            "prsnGropNm": "태강인들",
+            "sortSseq": 3,
+            "pgmPrsnIntrcnInfoList": [
+              {
+                "arrayId": 18603,
+                "pgmPrsnSeq": 18603,
+                "prsnMarkTpCd": "MC020820",
+                "prsnNm": "김시현",
+                "adiDescpCnts": "32세 / 태강그룹 법무팀 변호사 · 윤이준 측근",
+                "dtlDescpCnts": "<strong>“지금부터 이혜정씨 인생에 함부로 침범해 볼까 합니다만,”</strong>\n\n태강그룹 법무팀 소속 변호사.\n태강의 치부는 누구보다도 잘 알지만 정작 자신의 속은 잘 드러내지 않는 인물. 그러니까 한마디로 우리 편이면 든든하고 남의 편이면 X됐다 싶은, 딱 변호사가 천직인 남자.\n\n고등학교 동창이자, 16년지기 친구이자, 이젠 직장 상사까지 되어버린 윤이준과는 만나기만 하면 초딩처럼 싸우지만, 사실 시현은 누구보다도 이준을 잘 안다. \n\n다 가진 것 같으면서도 하나도 가지지 못한 짠한 놈. 그래서 가시 박힌 손가락처럼 신경이 쓰이는 놈. 그러니 어쩌겠는가. 징글징글하지만 오늘도 초딩 조카 챙기듯, 무심하게 챙길 수밖에.\n\n‘가성비’에 이은 시현의 인생단어는 ‘적당히’. 좋은 게 좋은 거라고, 허허실실 적당히 능글맞다. 오는 여자 땡큐고 가는 여자는 때땡큐라고, 연애도 적당히 할 만큼 했고. 그렇게 적당하고 가성비 좋은 남자 김시현이 이제껏 안 통한 적이 없었는데... 이 여자 좀 보소? \n\n윤태식 회장의 비서 이혜정. 시시하고 고루하고 재미없는 여잔 줄 알았다. 그런데 하? “나도 그래요. 오는 남자 반갑고 가는 남잔 더 반갑다구요.” \n\n적당히, 가성비 좋게 살고자 했더니 끝끝내 감춰뒀던 그의 승부욕을 자극하는 이혜정. 반전이 빠지면 섭섭한 건지 태강 캐비닛 살인사건에도 깊숙하게 연관돼있는 이혜정. 이 신비하고 매력적인 여자를 대체 어떻게 해야 할까. \n\n시현은 여전히 고민 중이다. 그녀를 지킬지, 태강을 지킬지, 이준을 지킬지. 속을 알 수 없는 무서운 남자는 결심이 선 다음에야 마침내 움직이기 시작할 것이다. ",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858432309.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  김시현",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 1
+              },
+              {
+                "arrayId": 18604,
+                "pgmPrsnSeq": 18604,
+                "prsnMarkTpCd": "MC020820",
+                "prsnNm": "이혜정",
+                "adiDescpCnts": "30세 / 윤태식 회장 비서",
+                "dtlDescpCnts": "<strong>“완벽히 통제했던 내 삶이 완전히 뒤틀렸어요. 그쪽을 만난 후부터요.”</strong>\n\n‘태강의 얼굴’이라 불릴 만큼 빼어난 외모와 능력을 갖추고도 좋은 비서는 상사의 그림자라는 철학으로 매사 신중하게 행동한다. 그야말로 비서의 표본이자 비서의 정석. \n\n하지만 딱 여기까지. 회사를 나서는 순간 인조이 마이 라이프를 착실히 이행 중이다. 9 to 6, 퇴근과 동시에 혜정은 비서 옷을 벗어던지고, 투피스 정장에 봉인해놨던 자아를 부활시킨다. 내내 꼿꼿했던 그녀의 자세는, 클럽 조명 아래 유려한 웨이브를 자랑하는 섹시함으로 탈바꿈.\n\n남몰래 불태웠던 숱한 밤은, 혜정이 스트레스를 푸는 유일한 돌파구였다. 그렇게 칠흑 같은 밤이 지나고, 동이 트기 시작하면, 혜정은 다시 일상을 시작한다. \n\n혼자서도 잘 사는 그녀에게 연애와 결혼은 인생 선택지에 비집고 들어올 틈 조차 없다. 다 그 나물에 그 밥이라 서고, 그것들에 입천장을 호되게 까인 전적이 있어서다. \n\n그런데 어느 날, 그 나물에 그 밥이 아닌 놈이 나타났다. 제철나물같이 싱그러운 놈 김시현이. \n공사구분은 확실히. 지금까지 지켜온 철학을 사수하기 위해 선을 그었지만 눈이 돌아버린 시현을 보고 혜정은 직감했다. 김시현은 그녀의 인생을 파괴하러 온 악마이자 구원자라고. \n\n혜정은 고민이 많다. 이 남자를 믿어도 될까. 나의 비밀을 보여줘도 될까. 승부욕인지, 애정인지, 썸인지 모를 ‘적과의 비밀연애’를 이어가도 될까. 태강의 비밀에 대해서 누구보다 많이 알고 있는 핵심인물이지만 주인공이 되기보다 킹메이커를 꿈꾸는 혜정. \n\n한은영이 남긴 비밀이 그녀의 마지막이 될지, 시작이 될지 모든 것은 혜정의 선택에 달려있다. ",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858432355.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  이혜정",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 2
+              },
+              {
+                "arrayId": 18605,
+                "pgmPrsnSeq": 18605,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "정다운",
+                "adiDescpCnts": " 32세 / 이준의 비서",
+                "dtlDescpCnts": "<strong>“제 인생의 엔딩은 뻔해요. 과로로 쓰러지거나 혈압으로 쓰러지거나.”</strong>\n\n지난 5년 간, 윤이준을 가장 오래 보좌한 비서. 이무기가 용이 되는 것보다 더한 인내심을 발휘하며, 이준의 진상 짓을 견뎠지만 더는 참지 못하고 호기롭게 사표를 던진다. \n\n하지만 7살짜리 딸의 영어유치원비에 장렬하게 무릎을 꿇고 다시 컴백, 이준이 끼고도는 새 수행비서 재희에게 묘한 신경전을 벌인다. 타인의 칭찬과 인정에 늘 목말라 있다. ",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858432421.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  정다운",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 3
+              },
+              {
+                "arrayId": 18606,
+                "pgmPrsnSeq": 18606,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "박민환",
+                "adiDescpCnts": " 37세 / 태강그룹 회계팀장",
+                "dtlDescpCnts": "<strong>“…제가 본 건 말이죠...”</strong>\n\n월가의 스나이퍼로 불렸던 기업 전문 회계사로 이준이 미국에서 직접 스카우트해 온 회계 인재. 이준과는 유학 시절 가까워졌으며 태강에 돌아온 이준이 자신의 필요에 의해 불러들였고, 현재는 태강그룹 회계팀장이다. \n\n캐비닛 살인사건이 발생 후 주요한 목격자로 떠오르며 경찰들의 추적을 받게 되지만 이준과 짧게 접촉 후 이내 흔적이 묘연해진다. ",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858432454.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  박민환",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 4
+              },
+              {
+                "arrayId": 18607,
+                "pgmPrsnSeq": 18607,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "한은영",
+                "adiDescpCnts": "20대 후반 / 윤이준 비서 · 캐비닛 살인사건 피해자",
+                "dtlDescpCnts": "<strong>“전 이대로 끝내기 싫어요. 상무님”</strong>\n\n태강그룹 상무실 캐비닛에서 시신으로 발견된 인물. 최초 발견자이자 유력한 용의자는 사내에 연인 관계라는 소문이 파다했던 윤이준 상무다. \n\n이준에게 차여 매달렸다는 추문 속 그녀의 죽음은 태강의 영향력 아래 서둘러 자살로 마무리되었다. 죽은 자는 말이 없지만, 그녀의 죽음은 이 드라마 거대한 사건의 시작점이 된다.",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858432485.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  한은영",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 5
+              }
+            ]
+          },
+          {
+            "arrayId": 4095,
+            "pgmPrsnGropSeq": 4095,
+            "prsnGropNm": "형사팀",
+            "sortSseq": 4,
+            "pgmPrsnIntrcnInfoList": [
+              {
+                "arrayId": 18608,
+                "pgmPrsnSeq": 18608,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "박봉이",
+                "adiDescpCnts": " 44세 / 경찰청 형사기동대 경감",
+                "dtlDescpCnts": "<strong>“가늘고 길게는 개뿔. 인생은 역시 한방!”</strong>\n\n특별수사팀 팀장. N년째 팀에 인원 충원이 없어 막내 롤까지 어부지리로 수행중이다. “인생은 가늘고 길게!”를 외치던 그에게 어느 날 날벼락이 떨어진다. 그의 팀이 일명, ‘태강 캐비닛 살인사건’ 때문에 재계 1위 태강 눈치를 보는 상부와 국민공분 사이에서 샌드위치처럼 껴버린 것. \n\n적당히 뭉개다가 한 달 후 팀을 해체시키겠다는 상부의 계획에 그만, 한창때 성격이 나오고 만다. 팀이 해체되는 꼴은 차마 지켜볼 수 없어서 팀원들을 데리고 위장수사에 나선다. ",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858432556.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  박봉이",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 1
+              },
+              {
+                "arrayId": 18611,
+                "pgmPrsnSeq": 18611,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "정완구",
+                "adiDescpCnts": "40세 / 경찰청 형사기동대 경사",
+                "dtlDescpCnts": "<strong>“나 히든카드라매! 중요하다매?! 이게 히든이야?”</strong>\n\n외모만 보면 잡는 쪽 말고 잡히는 쪽, 착한 쪽 말고 나쁜 쪽에 가깝다. 머리보다 주먹 쓰는 걸 좋아하고, 심리전이 중요한 위장 수사보단 쫓고 쫓기는 추격전을 선호하는 다혈질 형사. 그런데 원치 않게 태강의 청소직원으로 잠입하게 됐으니 좀이 쑤실 수 밖에\n\n하지만 완구는 그곳에서 뜻하지 않게 제2의 천직을 발견하게 된다. ‘경찰 때려치우고 청소업체나 차려봐?’ 하지만 그전에 먼저, 캐비닛 사건 진범부터 좀 잡고. 우리 팀 해체부터 좀 막고. ",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858584507.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  정완구",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 2
+              },
+              {
+                "arrayId": 18612,
+                "pgmPrsnSeq": 18612,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "김석진",
+                "adiDescpCnts": "32세 / 경찰청 형사기동대 경위 · 재희의 직속선배",
+                "dtlDescpCnts": "<strong>“너 다치면, 수사고 용의자고 소용없어.”</strong>\n\n경찰대를 수석으로 졸업한 엘리트지만 겸손하다. 3대째 이어지는 경찰 가문. 청렴결백한 공무원 집안으로, 재벌 등 특권층은 더 무겁게 죄의 심판을 받아야 한다고 생각한다. 다 같이 밤샘 근무를 했지만 혼자만 집에 다녀온 것 같은 단정한 외모는 기본 설정값으로 ‘모범적인 경찰’을 그대로 구현한 것 같은 남자. \n\n어떤 상황에서든 이성을 잃지 않는 차분함과 위험한 현장에 가장 먼저 뛰어드는 저돌성을 동시에 갖췄다. 뿐만 아니라 사건을 맡으면 끝까지 물고 뜯는 우직한 고집까지. 그 만큼이나 경찰이란 직업에 자부심을 느끼는 재희를 아낀다.\n\n이성적 호감인지 동료애인지 구분 못 할 정도로 눈치가 없진 않지만, FM성격답게 아직은 편한 선후배로 지내고 있다. 석진은 재희가 살인사건의 유력한 용의자, 윤이준의 수행비서로 위장 잠입을 하면서부터 각성을 시작하고 재희에게 직진한다. ",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858584633.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  김석진",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 3
+              },
+              {
+                "arrayId": 18613,
+                "pgmPrsnSeq": 18613,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "마희도",
+                "adiDescpCnts": "47세 / 경찰청 경정",
+                "dtlDescpCnts": "<strong>“들쑤시지 말고 적당히. 이게 어려워?”</strong>\n\n출세를 중시하는 얄팍한 성격. 타고난 수완으로 봉이보다 기수는 낮지만 일찍 승진한 케이스. 윗선의 명령대로 태강 캐비닛 살인사건을 조용히 덮기 위해 특별수사팀을 압박한다. ",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858584666.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  마희도",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 4
+              }
+            ]
+          },
+          {
+            "arrayId": 4096,
+            "pgmPrsnGropSeq": 4096,
+            "prsnGropNm": "태강가 사람들",
+            "sortSseq": 5,
+            "pgmPrsnIntrcnInfoList": [
+              {
+                "arrayId": 18609,
+                "pgmPrsnSeq": 18609,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "윤태식",
+                "adiDescpCnts": "66세 / 태강그룹 회장 · 이준 父",
+                "dtlDescpCnts": "<strong>“기다, 아니다 내 입에서 나온 적이 없는데 어디 감히 니들이 판단을 해.”</strong>\n\n대한민국 최고, 태강 그룹 회장. 태강 창업주의 3남 1녀 중 막내아들로 태어났지만, 우수한 두뇌와 빠른 상황 판단력, 철저한 일 처리와 냉혹함으로 태강을 대한민국 최고 기업으로 만들어냈다. \n\n‘돈 앞에는 장사(壯士) 없다’는 인생철학을 가진 냉혈한으로 모든 것에 이용 가치를 따진다. 20여 년 전 스스로 세상을 등진 아내, 나지현으로부터 미진, 나정, 이준을 두었지만 삼남매 중 완벽하게 성에 차는 놈이 없다. \n\n자식 또한 대를 이어 태강을 키워갈, 자신의 대용품 같은 존재로 여기기 때문. 그나마 똘똘한 셋째한테 회사를 물려줄까 했는데 이준이 자꾸 엇나가기만 하니 부아가 치민다. ",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858584704.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  윤태식",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 1
+              },
+              {
+                "arrayId": 18614,
+                "pgmPrsnSeq": 18614,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "윤미진",
+                "adiDescpCnts": "39세 / 태강리테일 대표 · 이준 첫째 누나",
+                "dtlDescpCnts": "<strong>“저야 늘 성에 안 차게 아등바등하지만, 이준이는 확실히 다르잖아요.”</strong>\n\n태강그룹 삼남매 중 장녀. 타고나길 작은 것을 내주고 큰 것을 얻는 수완가로 사업스타일이 부친 윤태식 회장을 가장 많이 닮았다고 평가받는다. 맡은 계열사들을 업계 1위로 올려놓으며 차근차근 존재가치를 증명해 보였지만, 부친은 그녀의 이혼이 회사에 손해를 끼쳤다며 옐로카드를 주었다. 그런 부친을 이해할 수 없지만 미진은 반기를 들지 않는다. \n\n대신 기품 있는 따뜻함으로 집안의 장녀 노릇을 톡톡히 해낸다. 사이 나쁜 나정과 이준 사이에서 시소정책을 펼치며 평화유지에 힘쓰고, 특히 모친의 애정 한번 제대로 받지 못하고 자란 이준을 잘 챙긴다. ",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858584773.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  윤미진",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 2
+              },
+              {
+                "arrayId": 18615,
+                "pgmPrsnSeq": 18615,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "윤나정",
+                "adiDescpCnts": "37세 / 태강그룹 전무 · 이준 둘째 누나",
+                "dtlDescpCnts": "<strong>“우리 윤회장님이 셈 하난 기깔나게 하시지. 손해 보겠다 싶으면, 자식이든 말든 가차 없으시고?”</strong>\n\n태강그룹 삼남매 중 차녀. 태강그룹 전무. 재벌 특권의식과 둘째 콤플렉스로 똘똘 뭉친 욕망녀. 어릴 때부터 미진과 이준 사이에서 이도 저도 아닌 관심과 대접을 받고 자랐다.  그 전형적인 둘째 아이 콤플렉스가 성인까지 이어져, 윤태식 회장을 제외하고는 그 누구도 통제할  수 없는 고약한 성격으로 굳어졌다. \n\n마음에 쌓인 울분으로 조울증과 분노 조절장애가 있어, 갑질, 직원 폭행 등 사고가 많으며 이로 인해 태식에게 눈총을 받고 있다. 유독 남동생 이준과 사이가 좋지 않다. 태강유통을 증여받았지만 자신의 몫은 그 이상이라고 생각하며 이준의 자리를 호시탐탐 노리고 경계한다.",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858584829.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  윤나정",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 3
+              },
+              {
+                "arrayId": 18616,
+                "pgmPrsnSeq": 18616,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "나만석",
+                "adiDescpCnts": "52세 / 태강그룹 비서실장 · 이준 母 나지현의 친동생",
+                "dtlDescpCnts": "<strong>“이것 참. 군식구가 낄 자리가 아닌데… 허허＂</strong>\n\n태양 윤태식 회장의 곁을 20년 이상 묵묵히 지키고 있는 그림자. 태강 총수의 비서실장이라는 녹록지 않은 직책에도 큰 실수 한번이 없었다. 낭중지추. 주머니속의 송곳처럼, 날카롭고 뛰어난 실력과 혜안을 가지고 있다. \n\n그러면서도 미지근하고 온화한 성격으로 사람들이 쉽게 경계를 낮추고 편하게 대하게 한다. 만석의 친누나이자 태강그룹 계열의 미술관 큐레이터였던 나지현이 세간을 들썩이며 윤태식과 결혼하자 그녀의 입김 덕에 함께 태강에 입성했다. \n\n하지만 나지현이 스스로 목숨을 끊으며 동아줄이 사라진 상태. 만석은 그저 천천히 태식의 신뢰를 얻었다. 윤태식에겐 든든한 비서실장, 삼남매에겐 엄마와 닮은 자상한 외삼촌으로! ",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858584972.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  나만석",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 4
+              },
+              {
+                "arrayId": 18617,
+                "pgmPrsnSeq": 18617,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "문준현",
+                "adiDescpCnts": "37세 / 언론사 대표 · 윤나정 남편",
+                "dtlDescpCnts": "<strong>“그러다 명색이 언론사 대표인 내가 측근 사찰까지 했다고 소문이라도 나봐”</strong>\n\n국내 굴지 언론사의 대표이자 윤나정의 남편. 동갑이지만 무서운 나정에게 꽉 잡혀 사느라 마치 ‘연상 누나와 철없는 동생’ 같은 케미를 뿜어낸다. 정략결혼이지만 기 쎈 나정에게 제대로 꽂혀, 늘 그녀의 눈치를 살피고 쥐여 사는 댕댕이 같은 ‘나정바라기’다. \n\n나정의 버럭 하는 호통에 주춤하다가도 은근히 한마디씩 대거리하는 엉뚱한 배짱도 갖췄다. 태강그룹을 차지하려는 나정의 살벌한 야망에 조마조마해하면서도, 자신이 가진 언론사 인프라와 정보력을 마누라 전용 빽으로 쏟아붓는 미워할 수 없는 조력자다.",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1789360092413.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  문준현 37세 / 언론사 대표 · 윤나정 남편",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 5
+              }
+            ]
+          },
+          {
+            "arrayId": 4097,
+            "pgmPrsnGropSeq": 4097,
+            "prsnGropNm": "그 외",
+            "sortSseq": 6,
+            "pgmPrsnIntrcnInfoList": [
+              {
+                "arrayId": 18610,
+                "pgmPrsnSeq": 18610,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "이시아",
+                "adiDescpCnts": "32세 / 나온아트센터 관장 · 이준의 약혼녀",
+                "dtlDescpCnts": "<strong>“나 결혼하고 싶어. 가능한 빨리. 그러니까 이번엔 윤이준 니가 협조 좀 해줘.” </strong>\n\n친가, 외가 양가 모두 대를 이어 국회의원을 배출한 정치 가문의 고명딸이다. 부친은 검찰총장 출신의 차기대권주자, 모친은 미대 교수로 티끌만큼의 부족함도 없이 자랐다. \n\n외양부터가 평생 꽃길만 걸어온 티가 난다. 덕분에 주변의 시기 질투가 따르지만, 타인의 시선 따위는 아랑곳하지 않는 성격. 또한 보통사람들은 보지 못하는 것들을 보는 신통방통한 재주도 있다. \n\n배임 및 조세포탈 혐의로 수사를 받게 된 윤회장이 정치계 인맥을 활용하기 위해 이준과 시아를 약혼시켰지만, 정작 어린 시절부터 친구였던 당사자들은 서로에게 이성적 감정이 전혀 없다. \n\n그녀가 동갑인 이준을 ‘오빠’라고 부르며 애교를 부리는 이유는 질색팔색하는 꼴이 재밌기 때문. 그를 괴롭히는 데 있어선 늘 진심이다. ",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858585012.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  이시아",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 1
+              },
+              {
+                "arrayId": 18618,
+                "pgmPrsnSeq": 18618,
+                "prsnMarkTpCd": "MC020821",
+                "prsnNm": "최명숙",
+                "adiDescpCnts": "52세 / 이준 집 가사도우미",
+                "dtlDescpCnts": "<strong>“상무님 옛날부터 그랬어요. 초딩 손주 키운다 생각하면, 맘 편해~” </strong>\n\n음식 솜씨가 뛰어나고 붙임성이 좋은 성격. 이준이 유학에서 돌아온 이후 쭉 살림을 도맡아 하고 있다. 기간으로 따지면 5,6년 정도. 귀 닫고 눈 닫고 자신이 관여할 일이 어디까지인지 알고 눈치껏 행동하지만 집에서 일어나는 일을 모두 파악하고 있다. \n\n예쁘장하게 잘생긴 얼굴에 성실하고 성격 좋아 보이는 재희에게 자신의 딸을 소개해 주고 싶어 한다.",
+                "prsnImgFilePathAddr": "/pcms/character/B120266270/kr/B120266270character1788858585048.jpg?v=1789980010",
+                "prsnImgAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  최명숙",
+                "pcImgWdhSize": 0,
+                "pcImgHgtSize": 0,
+                "mobImgWdhSize": 0,
+                "mobImgHgtSize": 0,
+                "sortSseq": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "27923": {
+      "modulAttrTpCd": "MC020870",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "attrSeq": 2320,
+        "cntntsMarkClauCd": "MC020849",
+        "dispCnt": 8,
+        "pgmSeq": 223164,
+        "dtlLayerSjInfoList": [
+          {
+            "pgmCntntsFgSeq": 5376,
+            "dtlLayerSjCd": "MC020849",
+            "dtlLayerSjCnts": "미리보기"
+          }
+        ]
+      },
+      "moduleInfo": {
+        "modulSjNm": "미리보기",
+        "modulSjDescp": "미리보기",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "FFFFFF",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 20,
+        "pdngBotmSize": 20,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020869",
+        "modulBgValInfo": null
+      },
+      "data": {
+        "dtlLayerSjCnts": "미리보기",
+        "previewInfoList": [
+          {
+            "arrayId": 17951,
+            "pgmTmnoPrevewSeq": 17951,
+            "dtlLayerSjCnts": null,
+            "prevewTit": "1화 미리보기",
+            "prevewSubSjNm": "",
+            "prevewCnts": "대한민국 재계 서열 1위 태강그룹의 차기 후계자 윤이준 상무가 ‘비서 살인 사건’의 유력한 용의자로 지목된다.\r\n하지만 재벌가의 방어막과 부족한 직접 증거로 수사는 유야무야 될 위기에 처한다.\r\n이에 특전사 출신 형사 강재희는 결정적 증거를 찾기 위해 이준의 수행비서직 채용 공고에 지원하기에 이른다.\r\n여자가 아닌, 남자로! 우여곡절 끝에 위장 잠입에 성공했지만, 출근 첫날부터 발각될 위기에 처한 재희의 운명은 과연?",
+            "putupStrDtm": 1791414000000,
+            "sortSseq": 1
+          }
+        ]
+      }
+    },
+    "27924": {
+      "modulAttrTpCd": "MC020870",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "attrSeq": 2321,
+        "cntntsMarkClauCd": "MC020850",
+        "dispCnt": 8,
+        "pgmSeq": 223164,
+        "dtlLayerSjInfoList": [
+          {
+            "pgmCntntsFgSeq": 5377,
+            "dtlLayerSjCd": "MC020850",
+            "dtlLayerSjCnts": "현장포토"
+          }
+        ]
+      },
+      "moduleInfo": {
+        "modulSjNm": "현장포토",
+        "modulSjDescp": "현장포토",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "FFFFFF",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 20,
+        "pdngBotmSize": 20,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020869",
+        "modulBgValInfo": null
+      },
+      "data": {
+        "dtlLayerSjCnts": "현장포토",
+        "localePhotoInfoList": [
+          {
+            "arrayId": 30165,
+            "pgmLocalePhotoSeq": 30165,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "벌써 케미가 이렇게 좋은 <나의 유죄인간> 곧 도착🫶",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120266270/kr/B120266270photogroup1791959299128.jpg?v=1791959299",
+            "localePhotoAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  ",
+            "localePhotoCnt": 6,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1791959299000,
+            "sortSseq": 14
+          },
+          {
+            "arrayId": 30164,
+            "pgmLocalePhotoSeq": 30164,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "눈을 뗄 수 없는 비주얼 등장! . * ･ ｡ﾟ☆━♡",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120266270/kr/B120266270photogroup1791959239092.jpg?v=1791959239",
+            "localePhotoAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  ",
+            "localePhotoCnt": 8,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1791959239000,
+            "sortSseq": 13
+          },
+          {
+            "arrayId": 30161,
+            "pgmLocalePhotoSeq": 30161,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "아슬아슬 스릴 넘치는 유죄 로맨스💕",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120266270/kr/B120266270photogroup1791857367767.jpg?v=1791857368",
+            "localePhotoAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  ",
+            "localePhotoCnt": 6,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1791857367000,
+            "sortSseq": 12
+          },
+          {
+            "arrayId": 30156,
+            "pgmLocalePhotoSeq": 30156,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "남장 수행비서로 위장 잠입한 설인아😎",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120266270/kr/B120266270photogroup1791768089703.jpg?v=1791768089",
+            "localePhotoAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  ",
+            "localePhotoCnt": 3,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1791772320000,
+            "sortSseq": 11
+          },
+          {
+            "arrayId": 30155,
+            "pgmLocalePhotoSeq": 30155,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "임시완, 예측불허 재벌 3세 되다!💰",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120266270/kr/B120266270photogroup1791768020165.jpg?v=1791768020",
+            "localePhotoAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  ",
+            "localePhotoCnt": 3,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1791772200000,
+            "sortSseq": 10
+          },
+          {
+            "arrayId": 30146,
+            "pgmLocalePhotoSeq": 30146,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "강재희를 진땀 흘리게 만드는 윤이준💦",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120266270/kr/B120266270photogroup1791285754359.jpg?v=1791285754",
+            "localePhotoAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  ",
+            "localePhotoCnt": 3,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1791333000000,
+            "sortSseq": 9
+          },
+          {
+            "arrayId": 30144,
+            "pgmLocalePhotoSeq": 30144,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "윤이준이 보는 강재희😾 어딘가 이상하다..?",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120266270/kr/B120266270photogroup1791250918973.jpg?v=1791250919",
+            "localePhotoAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  ",
+            "localePhotoCnt": 3,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1791250918000,
+            "sortSseq": 8
+          },
+          {
+            "arrayId": 30136,
+            "pgmLocalePhotoSeq": 30136,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "얽히고설킨 태강그룹 일가와 똘똘 뭉친 형사팀🔥",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120266270/kr/B120266270photogroup1790904839205.jpg?v=1790904839",
+            "localePhotoAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  ",
+            "localePhotoCnt": 6,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1790904839000,
+            "sortSseq": 7
+          }
+        ]
+      }
+    },
+    "27925": {
+      "modulAttrTpCd": "MC020870",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "attrSeq": 2322,
+        "cntntsMarkClauCd": "MC020850",
+        "dispCnt": 8,
+        "pgmSeq": 223164,
+        "dtlLayerSjInfoList": [
+          {
+            "pgmCntntsFgSeq": 5379,
+            "dtlLayerSjCd": "MC020850",
+            "dtlLayerSjCnts": "대표이미지"
+          }
+        ]
+      },
+      "moduleInfo": {
+        "modulSjNm": "대표이미지 ",
+        "modulSjDescp": "대표이미지",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "FFFFFF",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 20,
+        "pdngBotmSize": 20,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020869",
+        "modulBgValInfo": null
+      },
+      "data": {
+        "dtlLayerSjCnts": "대표이미지",
+        "localePhotoInfoList": [
+          {
+            "arrayId": 30141,
+            "pgmLocalePhotoSeq": 30141,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "이혜정 캐릭터 포스터",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120266270/kr/B120266270photogroup1790934054428.jpg?v=1790934054",
+            "localePhotoAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  ",
+            "localePhotoCnt": 1,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1791241380000,
+            "sortSseq": 7
+          },
+          {
+            "arrayId": 30140,
+            "pgmLocalePhotoSeq": 30140,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "김시현 캐릭터 포스터",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120266270/kr/B120266270photogroup1790933956453.jpg?v=1790933956",
+            "localePhotoAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  ",
+            "localePhotoCnt": 1,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1791241320000,
+            "sortSseq": 6
+          },
+          {
+            "arrayId": 30139,
+            "pgmLocalePhotoSeq": 30139,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "강재희 캐릭터 포스터",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120266270/kr/B120266270photogroup1790933851588.jpg?v=1790933851",
+            "localePhotoAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  ",
+            "localePhotoCnt": 1,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1791241260000,
+            "sortSseq": 5
+          },
+          {
+            "arrayId": 30138,
+            "pgmLocalePhotoSeq": 30138,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "윤이준 캐릭터 포스터",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120266270/kr/B120266270photogroup1790933226391.jpg?v=1790933226",
+            "localePhotoAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  ",
+            "localePhotoCnt": 1,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1791241200000,
+            "sortSseq": 4
+          },
+          {
+            "arrayId": 30106,
+            "pgmLocalePhotoSeq": 30106,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "역전 포스터 - 공주님 안기.ver",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120266270/kr/B120266270photogroup1790064357272.jpg?v=1790064358",
+            "localePhotoAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  ",
+            "localePhotoCnt": 1,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1790121600000,
+            "sortSseq": 3
+          },
+          {
+            "arrayId": 30105,
+            "pgmLocalePhotoSeq": 30105,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "역전 포스터 - 왕자님 안기.ver",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120266270/kr/B120266270photogroup1790064220809.jpg?v=1790064221",
+            "localePhotoAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  ",
+            "localePhotoCnt": 1,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1790118000000,
+            "sortSseq": 2
+          },
+          {
+            "arrayId": 30057,
+            "pgmLocalePhotoSeq": 30057,
+            "dtlLayerSjCnts": null,
+            "localePhotoTit": "유죄인간 포스터",
+            "localePhotoFilePathAddr": "/pcms/photogroup/B120266270/kr/B120266270photogroup1789024679884.jpg?v=1789024680",
+            "localePhotoAltTextCnts": "CJ ENM tvN 로맨스 드라마 나의 유죄인간  ",
+            "localePhotoCnt": 1,
+            "pcImgWdhSize": 0,
+            "pcImgHgtSize": 0,
+            "mobImgWdhSize": 0,
+            "mobImgHgtSize": 0,
+            "putupStrDtm": 1789340400000,
+            "sortSseq": 1
+          }
+        ]
+      }
+    },
+    "27926": {
+      "modulAttrTpCd": "MC020870",
+      "pcImgWdhSize": null,
+      "pcImgHgtSize": null,
+      "mobImgWdhSize": null,
+      "mobImgHgtSize": null,
+      "modulAttrInfo": {
+        "attrSeq": 2323,
+        "cntntsMarkClauCd": "MC020852",
+        "dispCnt": 8,
+        "pgmSeq": 223164,
+        "dtlLayerSjInfoList": [
+          {
+            "pgmCntntsFgSeq": 5378,
+            "dtlLayerSjCd": "MC020852",
+            "dtlLayerSjCnts": "IP OST"
+          }
+        ]
+      },
+      "moduleInfo": {
+        "modulSjNm": "OST",
+        "modulSjDescp": "OST",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "FFFFFF",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "",
+        "pdngTopSize": 20,
+        "pdngBotmSize": 20,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC020869",
+        "modulBgValInfo": null
+      },
+      "data": {
+        "dtlLayerSjCnts": "IP OST",
+        "ostInfoList": []
+      }
+    },
+    "27927": {
+      "modulAttrTpCd": "MC021204",
+      "pcImgWdhSize": 312,
+      "pcImgHgtSize": 175,
+      "mobImgWdhSize": 732,
+      "mobImgHgtSize": 412,
+      "modulAttrInfo": {
+        "attrSeq": 1313,
+        "dispCnt": 10,
+        "allDispFgCd": "MC010186",
+        "pgmSeq": 223164,
+        "pgmId": "B120266270",
+        "mainFiltTabCd": "MC020724",
+        "subFiltTabCd": "MC020724",
+        "cntntsInfDispTypeCd": "MC020727",
+        "clipTypeUseYn": "Y",
+        "delYn": "N",
+        "chnTabCdList": [
+          {
+            "label": "tvN",
+            "value": "MC010268",
+            "sortSseq": 1
+          }
+        ],
+        "clipTypeTabCdList": [
+          {
+            "label": "예고",
+            "value": "MC010223",
+            "sortSseq": 1
+          },
+          {
+            "label": "선공개/기획클립",
+            "value": "MC010220",
+            "sortSseq": 2
+          },
+          {
+            "label": "구간클립",
+            "value": "MC010210",
+            "sortSseq": 3
+          },
+          {
+            "label": "하이라이트",
+            "value": "MC010216",
+            "sortSseq": 4
+          },
+          {
+            "label": "메이킹",
+            "value": "MC010213",
+            "sortSseq": 5
+          },
+          {
+            "label": "미공개",
+            "value": "MC010214",
+            "sortSseq": 6
+          }
+        ]
+      },
+      "moduleInfo": {
+        "modulSjNm": "최신 동영상",
+        "modulSjDescp": "",
+        "modulSjFontColorCd": "000000",
+        "modulSubSjNm": "",
+        "cntntsDmainBgColorCd": "FFFFFF",
+        "cntntsDmainFontColorCd": "000000",
+        "visualVwTpCd": "MC020694",
+        "pdngTopSize": 20,
+        "pdngBotmSize": 20,
+        "mgnTopSize": 0,
+        "mgnBotmSize": 0,
+        "modulBgTpCd": "MC010131",
+        "modulBgPcImgFilePathAddr": null,
+        "modulBgMobImgFilePathAddr": null,
+        "modulBgImgUseYn": "N",
+        "modulBgColorCd": "FFFFFF",
+        "modulLinkUrlAddr": "",
+        "nofllwYn": "N",
+        "modulTpCd": "MC010175",
+        "modulBgValInfo": null
+      },
+      "data": [
+        {
+          "arrayId": 903683,
+          "pipClipSeq": 903683,
+          "clipTypeCdNm": "하이라이트",
+          "clipNm": "[하이라이트] 남장여주와 재벌 3세의 만남이라… 이건 된다. 이건 돼..⭐ 설인아 X 임시완의 역전로코 미리보기 👀",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "나의 유죄인간 0회",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/Love-in-Disguise/",
+          "playingTm": "00:04:06",
+          "videoTnailImgPathAddr": "https://cocosimage.pip.cjenm.com/CLIP/COCOS/B120266270/3626307/d6162b67-d1e6-4e9b-b754-46c24f37fe68_B.jpg",
+          "videoTnailImgAltTextCnts": "월화 나의 유죄인간 하이라이트 남장여주와 재벌 3세의 만남이라 이건 된다 이건 돼 설인아 X 임시완의 역전로코 미리보기 "
+        },
+        {
+          "arrayId": 902858,
+          "pipClipSeq": 902858,
+          "clipTypeCdNm": "메이킹",
+          "clipNm": "[포스터 메이킹] 예쁘고 잘생긴게 유죄라면🌹 유죄인간 4인방에게 무기징역을 선고합니다💥",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "나의 유죄인간 0회",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/Love-in-Disguise/",
+          "playingTm": "00:09:23",
+          "videoTnailImgPathAddr": "https://cocosimage.pip.cjenm.com/CLIP/COCOS/B120266270/3622105/107f8462-d830-40ef-88bf-2f6db1cb66b7_B.png",
+          "videoTnailImgAltTextCnts": "월화 나의 유죄인간 포스터 메이킹 예쁘고 잘생긴게 유죄라면 유죄인간 4인방에게 무기징역을 선고합니다"
+        },
+        {
+          "arrayId": 901608,
+          "pipClipSeq": 901608,
+          "clipTypeCdNm": "예고",
+          "clipNm": "[종합 예고] \"지금부터 넌 날 지켜야 해\" 수갑 채우러 온 그 녀석을 지키고 싶어졌다💔",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "나의 유죄인간 0회",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/Love-in-Disguise/",
+          "playingTm": "00:00:51",
+          "videoTnailImgPathAddr": "https://cocosimage.pip.cjenm.com/CLIP/COCOS/B120266270/3616961/edee0ba9-705f-4a98-9c08-6bd05fc44cf4_B.jpg",
+          "videoTnailImgAltTextCnts": "월화 나의 유죄인간 종합 예고 지금부터 넌 날 지켜야 해 수갑 채우러 온 그 녀석을 지키고 싶어졌다"
+        },
+        {
+          "arrayId": 899378,
+          "pipClipSeq": 899378,
+          "clipTypeCdNm": "예고",
+          "clipNm": "[윤이준 티저] 딱 걸렸네?😏 빈틈없이 완벽한 재벌 3세 윤이준! 본캐는 냥냥미 MAX 예민보스?💥",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "나의 유죄인간 0회",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/Love-in-Disguise/",
+          "playingTm": "00:00:35",
+          "videoTnailImgPathAddr": "https://cocosimage.pip.cjenm.com/CLIP/COCOS/B120266270/3606274/8f1ec6a3-ef74-4690-b28b-412b2ecae343_B.jpg",
+          "videoTnailImgAltTextCnts": "월화 나의 유죄인간 윤이준 티저 딱 걸렸네 빈틈없이 완벽한 재벌 3세 윤이준 본캐는 냥냥미 MAX 예민보스"
+        },
+        {
+          "arrayId": 898828,
+          "pipClipSeq": 898828,
+          "clipTypeCdNm": "예고",
+          "clipNm": "[강재희 티저] 수상하리만큼 잘생쁜🫣 재벌 3세 왕자님을 구하러 온 백마 탄 공주 강재희 출동💘",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "나의 유죄인간 0회",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/Love-in-Disguise/",
+          "playingTm": "00:00:40",
+          "videoTnailImgPathAddr": "https://cocosimage.pip.cjenm.com/CLIP/COCOS/B120266270/3602965/3033cb3c-4952-4e47-aee4-dd2f59629f56_B.jpg",
+          "videoTnailImgAltTextCnts": "월화 나의 유죄인간 강재희 티저 수상하리만큼 잘생쁜 재벌 3세 왕자님을 구하러 온 백마 탄 공주 강재희 출동"
+        },
+        {
+          "arrayId": 898198,
+          "pipClipSeq": 898198,
+          "clipTypeCdNm": "예고",
+          "clipNm": "[고백 티저] 👑태강 왕자👑 임시완의 고백을 걷어찬 그녀(?) 설인아는 지금 남장 잠입수사 중!🤫",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "나의 유죄인간 0회",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/Love-in-Disguise/",
+          "playingTm": "00:00:41",
+          "videoTnailImgPathAddr": "https://cocosimage.pip.cjenm.com/CLIP/COCOS/B120266270/3601189/34d58e5d-45fe-4e63-a1e2-92a648be4f08_B.jpg",
+          "videoTnailImgAltTextCnts": "월화 나의 유죄인간 고백 티저 태강 왕자 임시완의 고백을 걷어찬 그녀 설인아는 지금 남장 잠입수사 중"
+        },
+        {
+          "arrayId": 896892,
+          "pipClipSeq": 896892,
+          "clipTypeCdNm": "예고",
+          "clipNm": "[용의자 티저] 감히 내 마음을 뛰.게.한.죄.( ͡~ ͜ʖ ͡°) 서로를 꽉! 묶어버린 임시완🎀설인아 유죄 로맨스",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "나의 유죄인간 0회",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/Love-in-Disguise/",
+          "playingTm": "00:00:30",
+          "videoTnailImgPathAddr": "https://cocosimage.pip.cjenm.com/CLIP/COCOS/B120266270/3591831/8f55969c-ffd5-47fa-a799-d577254189a4_B.jpg",
+          "videoTnailImgAltTextCnts": "월화 나의 유죄인간 용의자 티저 감히 내 마음을 뛰게한죄    서로를 꽉 묶어버린 임시완설인아 유죄 로맨스"
+        },
+        {
+          "arrayId": 892642,
+          "pipClipSeq": 892642,
+          "clipTypeCdNm": "메이킹",
+          "clipNm": "[대본리딩 메이킹] 비주얼 유죄 케미 유죄!⛓️‍💥 임시완X설인아 유죄인간들의 쫄깃한 로맨스가 옵니다💓",
+          "adultYn": "N",
+          "clipFrontDetailUrlAddr": null,
+          "pgmNm": "나의 유죄인간 0회",
+          "pgmFrontDetailUrlAddr": "https://tvn.cjenm.com/ko/Love-in-Disguise/",
+          "playingTm": "00:07:12",
+          "videoTnailImgPathAddr": "https://cocosimage.pip.cjenm.com/CLIP/COCOS/B120266270/3570916/62e11cb5-9f0f-4fc5-b119-05ef8f90eba1_B.jpg",
+          "videoTnailImgAltTextCnts": "월화 나의 유죄인간 대본리딩 메이킹 비주얼 유죄 케미 유죄 임시완X설인아 유죄인간들의 쫄깃한 로맨스가 옵니다"
+        }
+      ]
+    }
+  }
+}

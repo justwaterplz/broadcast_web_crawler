@@ -1,0 +1,22 @@
+{
+  "source_url": "https://www.cjenm.com/ko/featured-contents/작품/",
+  "output_dir": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\pytest-final-20261020-b\\test_cjenm_manual_import_prese0\\cjenm\\20261020_180923_485572_CJ_ENM_응답가져오기",
+  "metadata_file": "작품_20261020/metadata.json",
+  "acquisition_method": "user_saved_responses",
+  "summary": {
+    "successful_programs": 1
+  },
+  "target_review": {
+    "url": "https://www.cjenm.com/ko/featured-contents/작품/",
+    "kind": "cjenm_detail",
+    "site": "CJ ENM",
+    "status": "ready",
+    "title": "작품",
+    "program_id": "123",
+    "scope": "사용자가 저장한 응답",
+    "source_binding": "requires_user_confirmation",
+    "checked_at": "2026-10-20T18:09:23.484556+09:00",
+    "confirmed_target": true,
+    "confirmed_at": "2026-10-20T18:09:23.485548+09:00"
+  }
+}

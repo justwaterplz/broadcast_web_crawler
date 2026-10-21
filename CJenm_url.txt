@@ -1,0 +1,10 @@
+https://www.cjenm.com/ko/ 메인 URL
+https://www.cjenm.com/ko/featured-contents/ 카테고리별로 모아져있는 URL
+
+https://www.cjenm.com/ko/featured-contents/drama/ 드라마 탭(안에 항목들 있음)
+https://www.cjenm.com/ko/featured-contents/entertainment-shows/ 예능 탭
+https://www.cjenm.com/ko/featured-contents/movies/ 영화 탭
+https://www.cjenm.com/ko/featured-contents/musicals/ 뮤지컬 탭
+
+테스트용 featured contents - drama
+https://www.cjenm.com/ko/featured-contents/%EB%A1%9C%EB%98%90-1%EB%93%B1%EB%8F%84-%EC%B6%9C%EA%B7%BC%ED%95%A9%EB%8B%88%EB%8B%A4/ - 로또 1등도 출근합니다

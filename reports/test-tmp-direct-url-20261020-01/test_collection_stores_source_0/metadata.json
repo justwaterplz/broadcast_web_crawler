@@ -1,0 +1,75 @@
+{
+  "format": "tving-source-bundle",
+  "schema_version": 1,
+  "collection": {
+    "source_url": "https://www.tving.com/contents/P001",
+    "collected_at": "2026-10-20T08:54:36.025773+00:00",
+    "acquisition_method": "embedded_page_data_and_episode_api",
+    "status": "collected",
+    "episode_endpoint": "https://api.tving.com/v2/media/frequency/program/P001",
+    "complete_for_current_api_listing": false
+  },
+  "contentInfo": {
+    "program_code": "P001",
+    "title": "작품",
+    "director": [
+      "연출자",
+      "작가"
+    ],
+    "broad_dt": 20260910,
+    "script": null,
+    "image": [
+      {
+        "url": "poster.jpg"
+      }
+    ],
+    "extra_source_field": {
+      "flag": false,
+      "count": 0,
+      "code": "001"
+    }
+  },
+  "jsonLd": [
+    {
+      "@type": "TVSeries",
+      "contentRating": "15",
+      "image": "schema.jpg"
+    }
+  ],
+  "episodeApi": {
+    "header": {
+      "status": 200
+    },
+    "body": {
+      "total_count": 8,
+      "has_more": "Y",
+      "result": [
+        {
+          "vod_name": {
+            "ko": "2화"
+          },
+          "episode": {
+            "code": "E002",
+            "frequency": 2,
+            "synopsis": {
+              "ko": "회차 줄거리"
+            },
+            "broadcast_date": 20260910,
+            "image": [
+              {
+                "url": "episode.jpg"
+              }
+            ],
+            "free_yn": "N"
+          }
+        }
+      ],
+      "unmapped_field": [
+        null,
+        false,
+        "001",
+        0
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format": "tving-category-inventory",
+  "schema_version": 1,
+  "source_url": "https://www.tving.com/more/genre/PCA",
+  "category": "drama",
+  "subcategory": "전체",
+  "checked_at": "2026-10-20T17:59:09.379682+09:00",
+  "max_pages": 500,
+  "complete_listing": true,
+  "programs": [
+    {
+      "rank": 1,
+      "title": "작품1",
+      "url": "https://www.tving.com/contents/P001"
+    },
+    {
+      "rank": 2,
+      "title": "작품2",
+      "url": "https://www.tving.com/contents/P002"
+    }
+  ],
+  "unique_count": 2,
+  "duplicate_items_count": 1,
+  "pages_read": 2,
+  "order": "hit"
+}

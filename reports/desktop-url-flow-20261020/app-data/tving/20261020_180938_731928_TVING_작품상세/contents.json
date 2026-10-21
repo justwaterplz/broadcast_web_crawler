@@ -1,0 +1,10 @@
+{
+  "format": "tving-source-index",
+  "schema_version": 1,
+  "programs": [
+    {
+      "title": "가족관계증명서",
+      "metadata_file": "가족관계증명서_20261020/metadata.json"
+    }
+  ]
+}

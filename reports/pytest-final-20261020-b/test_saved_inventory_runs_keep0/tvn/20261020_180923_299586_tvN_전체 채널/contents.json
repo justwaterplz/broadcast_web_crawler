@@ -1,0 +1,14 @@
+{
+  "format": "tvn-source-index",
+  "schema_version": 1,
+  "programs": [
+    {
+      "title": "작품",
+      "metadata_file": "작품_20261020/metadata.json"
+    },
+    {
+      "title": "드라마작품",
+      "metadata_file": "드라마작품_20261020/metadata.json"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "format": "tving-source-bundle",
+  "schema_version": 1,
+  "collection": {
+    "source_url": "https://www.tving.com/contents/P001",
+    "collected_at": "2026-10-12T05:00:00+00:00",
+    "acquisition_method": "embedded_page_data_and_episode_api",
+    "status": "collected"
+  },
+  "contentInfo": {
+    "program_code": "P002",
+    "title": "다른 작품",
+    "director": [
+      "인명",
+      "인명"
+    ],
+    "broad_dt": 20260910,
+    "extra": [
+      false,
+      null,
+      "001",
+      0
+    ]
+  },
+  "jsonLd": [
+    {
+      "@type": "TVSeries",
+      "name": "작품",
+      "contentRating": "15"
+    }
+  ],
+  "episodeApi": {
+    "header": {
+      "status": 200
+    },
+    "body": {
+      "total_count": 2,
+      "has_more": "N",
+      "result": [
+        {
+          "vod_name": {
+            "ko": "같은 제목"
+          },
+          "episode": {
+            "code": "E001",
+            "synopsis": {
+              "ko": "같은 설명"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "같은 제목"
+          },
+          "episode": {
+            "code": "E002",
+            "synopsis": {
+              "ko": "같은 설명"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

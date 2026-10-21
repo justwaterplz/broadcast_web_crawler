@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[ctg]","\u002F[ctg]\u002F[...uri]","\u002F[ctg]\u002Faccount\u002Fregister","\u002F[ctg]\u002Fevent\u002FHeadoverheels-savegame\u002F[surveyRstSeq]\u002F[gropNo]","\u002F[ctg]\u002Fsignin"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

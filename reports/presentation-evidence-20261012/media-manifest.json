@@ -1,0 +1,124 @@
+[
+  {
+    "file": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\1\\com2us_detail.png",
+    "crop": {
+      "left": 670,
+      "top": 265,
+      "width": 1200,
+      "height": 1000
+    },
+    "slide_id": "17hiqu",
+    "slide": 3
+  },
+  {
+    "file": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\1\\mbc충북_뉴스세부.png",
+    "crop": {
+      "left": 675,
+      "top": 280,
+      "width": 845,
+      "height": 715
+    },
+    "slide_id": "nnpgyp",
+    "slide": 4
+  },
+  {
+    "file": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\1\\mbc충북_뉴스세부2.png",
+    "crop": {
+      "left": 690,
+      "top": 840,
+      "width": 840,
+      "height": 485
+    },
+    "slide_id": "nnpgyp",
+    "slide": 4
+  },
+  {
+    "file": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\1\\cjenm_detail1.png",
+    "crop": null,
+    "slide_id": "ofy9wn61",
+    "slide": 5
+  },
+  {
+    "file": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\1\\cjenm_console1.png",
+    "crop": {
+      "left": 680,
+      "top": 230,
+      "width": 690,
+      "height": 660
+    },
+    "slide_id": "cvreqa",
+    "slide": 6
+  },
+  {
+    "file": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\1\\cjenm_robots.png",
+    "crop": null,
+    "slide_id": "pbn3ni",
+    "slide": 7
+  },
+  {
+    "file": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\1\\cjenm_detail2.png",
+    "crop": {
+      "left": 45,
+      "top": 148,
+      "width": 2460,
+      "height": 948
+    },
+    "slide_id": "jyx0ra1s",
+    "slide": 8
+  },
+  {
+    "file": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\1\\tving_drama_detail2.png",
+    "crop": {
+      "left": 699,
+      "top": 291,
+      "width": 875,
+      "height": 729
+    },
+    "slide_id": "hrig7u",
+    "slide": 9
+  },
+  {
+    "file": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\1\\tving_drama_detail3.png",
+    "crop": {
+      "left": 714,
+      "top": 322,
+      "width": 875,
+      "height": 538
+    },
+    "slide_id": "hrig7u",
+    "slide": 9
+  },
+  {
+    "file": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\1\\tving_drama1.png",
+    "crop": {
+      "left": 50,
+      "top": 193,
+      "width": 2450,
+      "height": 1085
+    },
+    "slide_id": "r4g0bf",
+    "slide": 10
+  },
+  {
+    "file": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\1\\mbc충북_뉴스탭.png",
+    "crop": {
+      "left": 670,
+      "top": 270,
+      "width": 865,
+      "height": 790
+    },
+    "slide_id": "ckoarj",
+    "slide": 13
+  },
+  {
+    "file": "D:\\MMLAB\\projects\\broadcast_web_crawler\\reports\\1\\tving_drama_detail1.png",
+    "crop": {
+      "left": 726,
+      "top": 293,
+      "width": 735,
+      "height": 545
+    },
+    "slide_id": "ckoarj",
+    "slide": 13
+  }
+]

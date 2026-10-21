@@ -1,0 +1,14 @@
+{
+  "format": "tving-source-index",
+  "schema_version": 1,
+  "programs": [
+    {
+      "title": "작품",
+      "metadata_file": "작품_20261012/metadata.json"
+    },
+    {
+      "title": "다른 작품",
+      "metadata_file": "AAA_20261012/metadata.json"
+    }
+  ]
+}

@@ -1,0 +1,1495 @@
+{
+  "format": "tving-source-bundle",
+  "schema_version": 1,
+  "collection": {
+    "source_url": "https://www.tving.com/contents/P001790587",
+    "collected_at": "2026-10-14T09:37:48.822978+00:00",
+    "acquisition_method": "embedded_page_data_and_episode_api",
+    "status": "collected",
+    "episode_endpoint": "https://api.tving.com/v2/media/frequency/program/P001790587",
+    "error": "TVING API status 401; no usable episode list",
+    "complete_for_current_api_listing": true,
+    "verification": "current public q1 configuration"
+  },
+  "contentInfo": {
+    "code": "E004615359",
+    "vod_type": "CSMD0100",
+    "last_view_time": 0,
+    "preview_display_yn": "Y",
+    "title": "로또 1등도 출근합니다\t\t\t\t",
+    "channel": "TVING",
+    "channel_code": "C50241",
+    "frequency": 1,
+    "duration": 2842,
+    "ending_credit_sec": 2785,
+    "grade_code": "CMMG0300",
+    "episode_grade_code": "CMMG0300",
+    "director": [
+      "윤영빈"
+    ],
+    "actor": [
+      "이준혁",
+      "서현우",
+      "오대환",
+      "이현균",
+      "옥자연"
+    ],
+    "script": null,
+    "keywords": null,
+    "synopsis": "위아래로 치이며 하루하루를 버티던 팀장 '공은태'가 로또 1등에 당첨된 후 사직서 대신 당첨금 13억을 품고 이전과는 다른 마음가짐으로 출근하는 K-직장인 오피스 드라마",
+    "image": [
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260811/0656/P001790587.jpg",
+        "url2": null,
+        "code": "CAIP0200"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260811/0656/P001790587.jpg",
+        "url2": null,
+        "code": "CAIP0400"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260811/0656/P001790587.jpg",
+        "url2": null,
+        "code": "CAIP0500"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260811/0656/P001790587.jpg",
+        "url2": null,
+        "code": "CAIP0900"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260811/0656/P001790587.jpg",
+        "url2": null,
+        "code": "CAIP1500"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260811/0656/P001790587.jpg",
+        "url2": null,
+        "code": "CAIP1700"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260811/0656/P001790587.png",
+        "url2": null,
+        "code": "CAIP1800"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260811/0656/P001790587.jpg",
+        "url2": null,
+        "code": "CAIP1900"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20260910/0203/P001790587.jpg",
+        "url2": null,
+        "code": "CAIP2530"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20260910/0203/P001790587.jpg",
+        "url2": null,
+        "code": "CAIP2540"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20260910/0203/P001790587.jpg",
+        "url2": null,
+        "code": "CAIP2550"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20260910/0203/P001790587.png",
+        "url2": null,
+        "code": "CAIP2560"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260811/0656/P001790587.jpg",
+        "url2": null,
+        "code": "CAIP4000"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260811/0656/P001790587.jpg",
+        "url2": null,
+        "code": "CAIP4200"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260811/0656/P001790587.jpg",
+        "url2": null,
+        "code": "CAIP4210"
+      },
+      {
+        "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260811/0656/P001790587.jpg",
+        "url2": null,
+        "code": "CAIP4220"
+      }
+    ],
+    "episode_broad_dt": "20260910",
+    "episode_title": "1. 참는 자에게 복이 있나니",
+    "episode_synopsis": "어제와 같았고, 내일과도 같을 오늘을 살아가는 은태. 맥주를 사러 들렸던 편의점에서 얼떨결에 로또를 사게 된다",
+    "episode_image": [
+      {
+        "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260818/0725/E004615359.jpg",
+        "url2": null,
+        "code": "CAIE0400"
+      }
+    ],
+    "broad_state": "CPBS0300",
+    "broad_end_dt": "20261008",
+    "broad_dt": "20260910",
+    "broad_week": "목",
+    "broad_hour": "18",
+    "broad_minu": "00",
+    "product_year": 2026,
+    "release_date": 0,
+    "episode_sort": 1,
+    "season_no": "0",
+    "season_code": "T100009261",
+    "category_code": "PCA",
+    "category_name": "드라마",
+    "genre_code": "PCA040",
+    "genre_name": "오피스 드라마",
+    "program_code": "P001790587",
+    "insert_date": 20260818161635,
+    "open_text": null,
+    "hdr_type": "",
+    "audio_type": "",
+    "billing_package_tag": "",
+    "drm_yn": "Y",
+    "fan_yn": "N",
+    "tving_exclusive_yn": "N",
+    "tving_original_yn": "Y",
+    "paramount_yn": "N",
+    "apple_yn": "N",
+    "quickup_yn": "N",
+    "uhd_4k_yn": "N",
+    "subtitle_ver_yn": "N",
+    "dub_ver_yn": "N",
+    "event_yn": "N",
+    "cine_same_yn": "N",
+    "first_open_yn": "N",
+    "ko_cc_yn": "Y",
+    "free_yn": "Y",
+    "partial_free_yn": "Y",
+    "total_free_yn": "N",
+    "view_permission_code": "GUEST",
+    "thumbs_down_yn": "N",
+    "thumbs_up_yn": "N",
+    "two_thumbs_up_yn": "N",
+    "sale_status": 1650,
+    "display_title": "1. 참는 자에게 복이 있나니"
+  },
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@type": "TVSeries",
+      "url": "https://www.tving.com/contents/P001790587",
+      "contentRating": "15",
+      "name": "로또 1등도 출근합니다\t\t\t\t 1화",
+      "description": "위아래로 치이며 하루하루를 버티던 팀장 '공은태'가 로또 1등에 당첨된 후 사직서 대신 당첨금 13억을 품고 이전과는 다른 마음가짐으로 출근하는 K-직장인 오피스 드라마",
+      "genre": "드라마",
+      "image": "https://image.tving.com/ntgs/contents/CTC/caip/CAIP0400/ko/20260811/0656/P001790587.jpg/dims/resize/500",
+      "dateCreated": "2026-09-10",
+      "actors": [
+        {
+          "@type": "Person",
+          "name": "이준혁"
+        },
+        {
+          "@type": "Person",
+          "name": "서현우"
+        },
+        {
+          "@type": "Person",
+          "name": "오대환"
+        },
+        {
+          "@type": "Person",
+          "name": "이현균"
+        },
+        {
+          "@type": "Person",
+          "name": "옥자연"
+        }
+      ],
+      "creator": [
+        {
+          "@type": "Person",
+          "name": "윤영빈"
+        }
+      ],
+      "productionCompany": {
+        "@type": "Organization",
+        "name": "TVING",
+        "url": "https://www.tving.com"
+      },
+      "numberOfSeasons": "0",
+      "startDate": "2026-09-10"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "TVING",
+          "item": "https://www.tving.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "로또 1등도 출근합니다\t\t\t\t 1화",
+          "item": "https://www.tving.com/contents/P001790587"
+        }
+      ]
+    }
+  ],
+  "episodeApi": {
+    "header": {
+      "message": "OK",
+      "status": 200
+    },
+    "body": {
+      "result": [
+        {
+          "vod_name": {
+            "ko": "1. 참는 자에게 복이 있나니"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004615359",
+            "frequency": 1,
+            "broadcast_date": 20260910,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "어제와 같았고, 내일과도 같을 오늘을 살아가는 은태. 맥주를 사러 들렸던 편의점에서 얼떨결에 로또를 사게 된다"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260818/0725/E004615359.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 2842,
+            "free_yn": "Y",
+            "grade_code": "CMMG0300",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "1. 참는 자에게 복이 있나니",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "로또 1등도 출근합니다\t\t\t\t"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260811/0656/P001790587.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20260910/0203/P001790587.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "2. 8,145,060분의 1"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004615360",
+            "frequency": 2,
+            "broadcast_date": 20260910,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "당첨금을 찾느라 처음으로 늦은 출근을 하는 은태. 모두가 일하는 그 시각, 사무실에는 5팀의 자리만 비어있다"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260818/0747/E004615360.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 2971,
+            "free_yn": "N",
+            "grade_code": "CMMG0300",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "2. 8,145,060분의 1",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "로또 1등도 출근합니다\t\t\t\t"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260811/0656/P001790587.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20260910/0203/P001790587.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "3. 내가 믿는 것"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004615361",
+            "frequency": 3,
+            "broadcast_date": 20260917,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "라크네스 회의 준비로 분주한 5팀. 은태는 회사가 짜놓은 판을 흔들고, 자신이 준비한 카드를 꺼낸다"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260818/0744/E004615361.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 2618,
+            "free_yn": "N",
+            "grade_code": "CMMG0300",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "3. 내가 믿는 것",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "로또 1등도 출근합니다\t\t\t\t"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260811/0656/P001790587.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20260910/0203/P001790587.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "4. 서로의 원인, 서로의 결과"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004615362",
+            "frequency": 4,
+            "broadcast_date": 20260917,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "기태의 이직 소식을 들은 은태, 그 놀람도 잠시 홍성의 적이 되려하는 정선혁 팀장과 마주하게 된다"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260818/0731/E004615362.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3061,
+            "free_yn": "N",
+            "grade_code": "CMMG0300",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "4. 서로의 원인, 서로의 결과",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "로또 1등도 출근합니다\t\t\t\t"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260811/0656/P001790587.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20260910/0203/P001790587.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "5. 아무도 진심을 말하지 못할 때"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004615363",
+            "frequency": 5,
+            "broadcast_date": 20260924,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "은태는 정선혁을 막기위해 만토바로 향하고 스폰짜에게 솔깃한 제안을 하지만 예상치 못한 반대에 부딪친다"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260818/0747/E004615363.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 2806,
+            "free_yn": "N",
+            "grade_code": "CMMG0300",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "5. 아무도 진심을 말하지 못할 때",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "로또 1등도 출근합니다\t\t\t\t"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260811/0656/P001790587.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20260910/0203/P001790587.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "6. 문제를 인식하는 문제"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004615364",
+            "frequency": 6,
+            "broadcast_date": 20260924,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "엄청난 물량을 떠안게 된 5팀. 은태는 라크네스 모델 유지현을 찾아가 이혼 법정에 서 줄것을 부탁한다"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260818/0734/E004615364.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 2683,
+            "free_yn": "N",
+            "grade_code": "CMMG0300",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "6. 문제를 인식하는 문제",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "로또 1등도 출근합니다\t\t\t\t"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260811/0656/P001790587.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20260910/0203/P001790587.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "7. 아무것도 바뀐 게 없다"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004615365",
+            "frequency": 7,
+            "broadcast_date": 20261001,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "내부감사를 성공적으로 끝낸 은태, 그 과정에서 의도치 않게 여러 사람에게 상처를 준다. 도망치듯 고향으로 향하는 은태"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260818/0735/E004615365.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 2775,
+            "free_yn": "N",
+            "grade_code": "CMMG0300",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "7. 아무것도 바뀐 게 없다",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "로또 1등도 출근합니다\t\t\t\t"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260811/0656/P001790587.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20260910/0203/P001790587.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "8. 위선이 만드는 세상"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004615366",
+            "frequency": 8,
+            "broadcast_date": 20261001,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "CGM의 한국 진출로 업체들은 홍성에 재계약을 요구하고, 홍성이 거절한다면 위약금을 내고 계약 해지를 하겠다고 한다"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260818/0737/E004615366.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 2776,
+            "free_yn": "N",
+            "grade_code": "CMMG0300",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "8. 위선이 만드는 세상",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "로또 1등도 출근합니다\t\t\t\t"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260811/0656/P001790587.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20260910/0203/P001790587.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "9. 과거의 해석"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004615367",
+            "frequency": 9,
+            "broadcast_date": 20261008,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "지혜에게 마르티나의 의전을 부탁하는 은태, 하지만 마르티나는 지혜에게 말도 안되는 트집을 잡기 시작한다"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20260818/0740/E004615367.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 3166,
+            "free_yn": "N",
+            "grade_code": "CMMG0300",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "9. 과거의 해석",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "로또 1등도 출근합니다\t\t\t\t"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260811/0656/P001790587.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20260910/0203/P001790587.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        },
+        {
+          "vod_name": {
+            "ko": "10. 로또 1등도 계속 출근합니다"
+          },
+          "view_count": {
+            "total": 0
+          },
+          "episode": {
+            "code": "E004615368",
+            "frequency": 10,
+            "broadcast_date": 20261008,
+            "broadcast_day": "PGWD0400",
+            "synopsis": {
+              "ko": "CGM과 백화점을 상대로 완벽한 승리를 한 홍성, 홍대표는 은태를 불러 선물을 주고 싶다고 한다."
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caie/CAIE0400/com/20261008/0911/E004615368.jpg",
+                "url2": null,
+                "code": "CAIE0400"
+              }
+            ],
+            "duration": 2771,
+            "free_yn": "N",
+            "grade_code": "CMMG0300",
+            "scp_code": "715",
+            "pip_cliptype": "C001",
+            "display_title": "10. 로또 1등도 계속 출근합니다",
+            "apple_yn": "N"
+          },
+          "program": {
+            "name": {
+              "ko": "로또 1등도 출근합니다\t\t\t\t"
+            },
+            "image": [
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0200/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0400/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0400"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP0900/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP0900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1500/ko/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1500"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1700/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1700"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1800/ko/20260811/0656/P001790587.png",
+                "url2": null,
+                "code": "CAIP1800"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP1900/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP1900"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2530/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2530"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2540/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2540"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2550/com/20260910/0203/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP2550"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP2560/ko/20260910/0203/P001790587.png",
+                "url2": null,
+                "code": "CAIP2560"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4000/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4000"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4200/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4200"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4210/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4210"
+              },
+              {
+                "url": "/ntgs/contents/CTC/caip/CAIP4220/com/20260811/0656/P001790587.jpg",
+                "url2": null,
+                "code": "CAIP4220"
+              }
+            ]
+          },
+          "channel": {
+            "code": "C50241",
+            "name": {
+              "ko": "TVING"
+            }
+          }
+        }
+      ],
+      "total_count": 10,
+      "has_more": "N"
+    }
+  }
+}

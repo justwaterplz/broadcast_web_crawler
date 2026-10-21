@@ -1,0 +1,10 @@
+{
+  "format": "cjenm-source-index",
+  "schema_version": 1,
+  "programs": [
+    {
+      "title": "작품",
+      "metadata_file": "작품_20261020/metadata.json"
+    }
+  ]
+}

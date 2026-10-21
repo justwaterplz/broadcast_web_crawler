@@ -1,0 +1,32 @@
+﻿[
+    {
+        "name":  "tving-list",
+        "url":  "https://www.tving.com/more/genre/PCA",
+        "status":  200,
+        "length":  148566
+    },
+    {
+        "name":  "tvn-filter-page1",
+        "url":  "https://tvn.cjenm.com/ko/program/?14382=removeCacheYn%3DN%26repGenreCdList%3DALL%26sortType%3DMC010207%26pageNum%3D1%26searchTlviseStatCd%3DALL%26searchChnCd%3DMC010271",
+        "status":  200,
+        "length":  1707703
+    },
+    {
+        "name":  "tvn-all-page1",
+        "url":  "https://tvn.cjenm.com/ko/program/?14382=removeCacheYn%3DN%26repGenreCdList%3DALL%26sortType%3DMC010207%26pageNum%3D1%26searchTlviseStatCd%3DALL%26searchChnCd%3DALL",
+        "status":  200,
+        "length":  1707703
+    },
+    {
+        "name":  "tvn-all-page2",
+        "url":  "https://tvn.cjenm.com/ko/program/?14382=removeCacheYn%3DN%26repGenreCdList%3DALL%26sortType%3DMC010207%26pageNum%3D2%26searchTlviseStatCd%3DALL%26searchChnCd%3DALL",
+        "status":  200,
+        "length":  1707703
+    },
+    {
+        "name":  "tvn-all-page21",
+        "url":  "https://tvn.cjenm.com/ko/program/?14382=removeCacheYn%3DN%26repGenreCdList%3DALL%26sortType%3DMC010207%26pageNum%3D21%26searchTlviseStatCd%3DALL%26searchChnCd%3DALL",
+        "status":  200,
+        "length":  1707703
+    }
+]
